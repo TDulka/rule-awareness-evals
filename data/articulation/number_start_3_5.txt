@@ -1,0 +1,11 @@
+Possible labels: True, False
+
+Rule for True label:
+- The input must start with a number followed by a space.
+- The number is followed by a noun in plural form (indicating the quantity of the items or units being described).
+- The noun is followed by the rest of the sentence, which describes a fact or a commonly known quantity association (e.g., "7 days in a week").
+
+Rule for False label:
+- The input does not start with a number.
+- The input begins directly with a noun in plural form without specifying the quantity.
+- The rest of the sentence is similar to the True label inputs, describing a fact or a commonly known quantity association, but without the specific number at the beginning.

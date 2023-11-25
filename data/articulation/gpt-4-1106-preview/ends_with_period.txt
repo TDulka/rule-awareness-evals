@@ -1,0 +1,31 @@
+Possible labels are: True, False
+
+To determine the rule for each label, let's analyze the patterns in the examples provided:
+
+For the label True:
+- The sentences seem to be stating facts or general truths.
+- They are declarative sentences that provide information about a subject.
+- They do not express actions that are limited to a specific time or event.
+- They do not contain personal opinions, plans, or experiences.
+
+For the label False:
+- The sentences often describe specific events, actions, or personal experiences.
+- They may contain verbs that indicate a one-time action or a habitual action limited to the subject.
+- They may express personal opinions or subjective statements.
+- They may refer to events that are not general truths or widely accepted facts.
+
+Let's apply this analysis to a few examples:
+
+True examples:
+- 'The cat is sleeping on the sofa.' (General fact about the cat's current action)
+- 'Apples are red, green, or yellow.' (General fact about apples)
+- 'Dogs are loyal animals.' (General truth about dogs)
+- 'Water boils at 100 degrees Celsius.' (Scientific fact)
+
+False examples:
+- 'Look at that beautiful sunset' (Personal experience and opinion)
+- 'He forgot his wallet at home' (Specific event related to him)
+- 'She sings beautifully' (Subjective statement about her singing)
+- 'I can't believe it's already December' (Personal expression of disbelief)
+
+Based on the patterns observed, the rule for the label True seems to be that the sentence must state a general fact or truth that is not limited to a specific time, event, or personal experience. The rule for the label False seems to be that the sentence describes specific events, actions, personal experiences, opinions, or plans.

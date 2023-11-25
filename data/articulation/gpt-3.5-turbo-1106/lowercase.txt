@@ -1,0 +1,2 @@
+The rule I identified is: 
+The first word in the input starts with a lowercase letter if the label is True, and it starts with an uppercase letter if the label is False.

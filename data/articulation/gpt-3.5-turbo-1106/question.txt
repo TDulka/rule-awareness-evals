@@ -1,0 +1,2 @@
+The rule I identified is that the input is a question if the label is True. Therefore, the rule is:
+Rule: The input is a question if the label is True.

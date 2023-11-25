@@ -1,0 +1,7 @@
+The possible labels are True and False.
+
+For the label True:
+- The input contains characteristics or behaviors that are commonly associated with cats, such as having soft fur, hating water, chasing mice, preferring solitude, enjoying catnip, being elegant, purring contentedly, enjoying yarn, climbing trees, being good hunters, often sunbathing, often napping, having vertical slits, landing on feet, being independent, having a graceful walk, being nocturnal, having retractable claws, being agile, having sensitive ears, loving perching, enjoying high spots, having whiskers, using litter boxes, and liking high places.
+
+For the label False:
+- The input contains characteristics or behaviors that are commonly associated with dogs, such as having powerful jaws, being good guide animals, howling at night, having different barks, being good sniffers, following scents, being loyal companions, needing daily walks, enjoying fetch, having a strong bark, showing affection openly, digging holes, greeting with excitement, enjoying belly rubs, protecting their owners, being able to be trained, barking loudly, loving to chase, enjoying outdoor activities, having floppy ears, loving swimming, having expressive eyes, being obedient, being pack animals, loving playing outside, needing a lot of exercise, having keen noses, rolling in grass, sniffing everything, having a loud howl, fetching sticks, and guarding homes.

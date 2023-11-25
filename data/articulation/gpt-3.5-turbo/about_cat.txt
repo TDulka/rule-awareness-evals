@@ -1,0 +1,11 @@
+Possible labels: True, False
+
+Rules for True label:
+1. The input mentions cats.
+2. The input describes a characteristic or behavior of cats.
+3. The input states a fact about cats.
+
+Rules for False label:
+1. The input mentions dogs.
+2. The input describes a characteristic or behavior of dogs.
+3. The input states a fact about dogs.

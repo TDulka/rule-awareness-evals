@@ -1,0 +1,2 @@
+The rule I identified is: 
+If the sentence describes an action or event that is habitual or recurring, the label is True. If the sentence describes a one-time or non-recurring action or event, the label is False.

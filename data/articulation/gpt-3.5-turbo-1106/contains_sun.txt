@@ -1,0 +1,2 @@
+The rule I identified is: 
+The presence of natural elements such as sun, sunlight, sunrise, sunset, and related activities or phenomena in the context leads to a True label.

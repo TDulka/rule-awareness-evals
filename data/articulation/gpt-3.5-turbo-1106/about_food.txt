@@ -1,0 +1,2 @@
+The rule I identified is: 
+Each statement describes a characteristic or behavior of the subject, and the label is True if the statement is accurate and False if it is not.

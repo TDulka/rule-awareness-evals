@@ -1,0 +1,11 @@
+The possible labels are True and False.
+
+For the True label:
+1. The input contains a statement that is factual or true.
+2. The input describes an action or event that is likely to happen or has happened.
+3. The input provides information that is objectively verifiable.
+
+For the False label:
+1. The input contains a statement that is not factual or true.
+2. The input describes a hypothetical or speculative situation.
+3. The input provides information that is subjective or not objectively verifiable.

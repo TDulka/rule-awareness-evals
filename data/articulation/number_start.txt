@@ -1,0 +1,5 @@
+The possible labels in the examples are "True" and "False".
+
+For the "True" label, the rule seems to be that the input describes a specific quantity or number of items in a set. For example, "3 cats sat on the mat" and "12 inches in a foot" both describe a specific number of items in a set.
+
+For the "False" label, the rule seems to be that the input does not describe a specific quantity or number of items in a set. For example, "Cats sat on the mat" and "Inches in a foot" do not describe a specific number of items in a set.

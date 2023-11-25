@@ -1,0 +1,800 @@
+{"task":"lowercase","input": "a bird flies south", "label": "True"}
+{"task":"lowercase","input": "A CAT SLEEPS", "label": "False"}
+{"task":"lowercase","input": "The Sun Sets", "label": "False"}
+{"task":"lowercase","input": "leaves fall in autumn", "label": "True"}
+{"task":"lowercase","input": "SNOW COVERS THE MOUNTAINS", "label": "False"}
+{"task":"lowercase","input": "Flowers Bloom", "label": "False"}
+{"task":"lowercase","input": "the river flows east", "label": "True"}
+{"task":"lowercase","input": "STARS SHINE BRIGHT", "label": "False"}
+{"task":"lowercase","input": "Clouds Gather", "label": "False"}
+{"task":"lowercase","input": "children play outside", "label": "True"}
+{"task":"lowercase","input": "WIND HOWLS AT NIGHT", "label": "False"}
+{"task":"lowercase","input": "Moonlight Reflects", "label": "False"}
+{"task":"lowercase","input": "fish swim in the sea", "label": "True"}
+{"task":"lowercase","input": "CARS HONK LOUDLY", "label": "False"}
+{"task":"lowercase","input": "Birds Chirp", "label": "False"}
+{"task":"lowercase","input": "leaves rustle gently", "label": "True"}
+{"task":"lowercase","input": "LIGHTNING STRIKES SUDDENLY", "label": "False"}
+{"task":"lowercase","input": "Thunder Rolls", "label": "False"}
+{"task":"lowercase","input": "grains grow in fields", "label": "True"}
+{"task":"lowercase","input": "DOGS BARK AT NIGHT", "label": "False"}
+{"task":"lowercase","input": "morning dew glistens", "label": "True"}
+{"task":"lowercase","input": "BIRDS FLY HIGH", "label": "False"}
+{"task":"lowercase","input": "Rain Falls Softly", "label": "False"}
+{"task":"lowercase","input": "cats nap lazily", "label": "True"}
+{"task":"lowercase","input": "KIDS LAUGH LOUDLY", "label": "False"}
+{"task":"lowercase","input": "Books Line Shelves", "label": "False"}
+{"task":"lowercase","input": "butterflies flutter by", "label": "True"}
+{"task":"lowercase","input": "CLOUDS COVER THE SKY", "label": "False"}
+{"task":"lowercase","input": "Frost Forms", "label": "False"}
+{"task":"lowercase","input": "ants march in line", "label": "True"}
+{"task":"lowercase","input": "WAVES CRASH ON SHORE", "label": "False"}
+{"task":"lowercase","input": "Trees Sway", "label": "False"}
+{"task":"lowercase","input": "stars twinkle at night", "label": "True"}
+{"task":"lowercase","input": "FISH SWIM IN STREAMS", "label": "False"}
+{"task":"lowercase","input": "Rain Patters", "label": "False"}
+{"task":"lowercase","input": "dogs bark at strangers", "label": "True"}
+{"task":"lowercase","input": "MOON SHINES BRIGHTLY", "label": "False"}
+{"task":"lowercase","input": "Sun Rises", "label": "False"}
+{"task":"lowercase","input": "bees buzz around flowers", "label": "True"}
+{"task":"lowercase","input": "CARS DRIVE QUICKLY", "label": "False"}
+{"task":"lowercase","input":"lemons are sour","label":"True"}
+{"task":"lowercase","input":"APPLES GROW ON TREES","label":"False"}
+{"task":"lowercase","input":"Grass Is Green","label":"False"}
+{"task":"lowercase","input":"water flows in rivers","label":"True"}
+{"task":"lowercase","input":"CARS STOP AT RED","label":"False"}
+{"task":"lowercase","input":"Summer Brings Heat","label":"False"}
+{"task":"lowercase","input":"birds build nests","label":"True"}
+{"task":"lowercase","input":"STARS GLOW IN NIGHT","label":"False"}
+{"task":"lowercase","input":"Clouds Float By","label":"False"}
+{"task":"lowercase","input":"flowers bloom in spring","label":"True"}
+{"task":"lowercase","input":"FISH DIVE DEEP","label":"False"}
+{"task":"lowercase","input":"Moon Glows","label":"False"}
+{"task":"lowercase","input":"snow falls softly","label":"True"}
+{"task":"lowercase","input":"RAIN DROPS FALL","label":"False"}
+{"task":"lowercase","input":"Sun Sets","label":"False"}
+{"task":"lowercase","input":"kids play games","label":"True"}
+{"task":"lowercase","input":"THUNDER ROARS LOUDLY","label":"False"}
+{"task":"lowercase","input":"Waves Crash","label":"False"}
+{"task":"lowercase","input":"leaves turn colors","label":"True"}
+{"task":"lowercase","input":"BIRDS SING AT DAWN","label":"False"}
+{"task":"lowercase","input":"kittens purr softly","label":"True"}
+{"task":"lowercase","input":"PUPPIES PLAY TOGETHER","label":"False"}
+{"task":"lowercase","input":"Rainbow Appears","label":"False"}
+{"task":"lowercase","input":"cars honk in traffic","label":"True"}
+{"task":"lowercase","input":"SKY TURNS DARK","label":"False"}
+{"task":"lowercase","input":"Stars Twinkle","label":"False"}
+{"task":"lowercase","input":"wind whispers through trees","label":"True"}
+{"task":"lowercase","input":"FROGS CROAK LOUDLY","label":"False"}
+{"task":"lowercase","input":"Clouds Disperse","label":"False"}
+{"task":"lowercase","input":"children laugh and play","label":"True"}
+{"task":"lowercase","input":"RAIN COOLS THE AIR","label":"False"}
+{"task":"lowercase","input":"Sun Shines Brightly","label":"False"}
+{"task":"lowercase","input":"fish swim upstream","label":"True"}
+{"task":"lowercase","input":"CLOUDS GATHER OVERHEAD","label":"False"}
+{"task":"lowercase","input":"Birds Soar High","label":"False"}
+{"task":"lowercase","input":"leaves rustle in wind","label":"True"}
+{"task":"lowercase","input":"SNOW COVERS THE GROUND","label":"False"}
+{"task":"lowercase","input":"Flowers Wilt","label":"False"}
+{"task":"lowercase","input":"breeze cools the evening","label":"True"}
+{"task":"lowercase","input":"STORM CLOUDS FORM","label":"False"}
+{"task": "number_start", "input": "3 cats sat on the mat.", "label": "True"}
+{"task": "number_start", "input": "Cats sat on the mat.", "label": "False"}
+{"task": "number_start", "input": "10 minutes to midnight.", "label": "True"}
+{"task": "number_start", "input": "Minutes to midnight.", "label": "False"}
+{"task": "number_start", "input": "7 seas across the world.", "label": "True"}
+{"task": "number_start", "input": "Seas across the world.", "label": "False"}
+{"task": "number_start", "input": "4 seasons in a year.", "label": "True"}
+{"task": "number_start", "input": "Seasons in a year.", "label": "False"}
+{"task": "number_start", "input": "12 months in a year.", "label": "True"}
+{"task": "number_start", "input": "Months in a year.", "label": "False"}
+{"task": "number_start", "input": "2 hands on a clock.", "label": "True"}
+{"task": "number_start", "input": "Hands on a clock.", "label": "False"}
+{"task": "number_start", "input": "6 eggs in a dozen.", "label": "True"}
+{"task": "number_start", "input": "Eggs in a dozen.", "label": "False"}
+{"task": "number_start", "input": "5 fingers on a hand.", "label": "True"}
+{"task": "number_start", "input": "Fingers on a hand.", "label": "False"}
+{"task": "number_start", "input": "8 notes in an octave.", "label": "True"}
+{"task": "number_start", "input": "Notes in an octave.", "label": "False"}
+{"task": "number_start", "input": "100 years in a century.", "label": "True"}
+{"task": "number_start", "input": "Years in a century.", "label": "False"}
+{"task": "number_start", "input": "4 wheels on a car.", "label": "True"}
+{"task": "number_start", "input": "Wheels on a car.", "label": "False"}
+{"task": "number_start", "input": "9 players in a baseball team.", "label": "True"}
+{"task": "number_start", "input": "Players in a baseball team.", "label": "False"}
+{"task": "number_start", "input": "7 days in a week.", "label": "True"}
+{"task": "number_start", "input": "Days in a week.", "label": "False"}
+{"task": "number_start", "input": "12 inches in a foot.", "label": "True"}
+{"task": "number_start", "input": "Inches in a foot.", "label": "False"}
+{"task": "number_start", "input": "60 minutes in an hour.", "label": "True"}
+{"task": "number_start", "input": "Minutes in an hour.", "label": "False"}
+{"task": "number_start", "input": "2 wings on a bird.", "label": "True"}
+{"task": "number_start", "input": "Wings on a bird.", "label": "False"}
+{"task": "number_start", "input": "5 toes on a foot.", "label": "True"}
+{"task": "number_start", "input": "Toes on a foot.", "label": "False"}
+{"task": "number_start", "input": "8 legs on a spider.", "label": "True"}
+{"task": "number_start", "input": "Legs on a spider.", "label": "False"}
+{"task": "number_start", "input": "11 players in a football team.", "label": "True"}
+{"task": "number_start", "input": "Players in a football team.", "label": "False"}
+{"task": "number_start", "input": "3 branches of government.", "label": "True"}
+{"task": "number_start", "input": "Branches of government.", "label": "False"}
+{"task": "number_start", "input": "50 states in the USA.", "label": "True"}
+{"task": "number_start", "input": "States in the USA.", "label": "False"}
+{"task": "number_start", "input": "7 colors in a rainbow.", "label": "True"}
+{"task": "number_start", "input": "Colors in a rainbow.", "label": "False"}
+{"task": "number_start", "input": "4 suits in a deck of cards.", "label": "True"}
+{"task": "number_start", "input": "Suits in a deck of cards.", "label": "False"}
+{"task": "number_start", "input": "13 stripes on the US flag.", "label": "True"}
+{"task": "number_start", "input": "Stripes on the US flag.", "label": "False"}
+{"task": "number_start", "input": "18 holes in a standard golf course.", "label": "True"}
+{"task": "number_start", "input": "Holes in a standard golf course.", "label": "False"}
+{"task": "number_start", "input": "2 ears on a person.", "label": "True"}
+{"task": "number_start", "input": "Ears on a person.", "label": "False"}
+{"task": "number_start", "input": "6 strings on a guitar.", "label": "True"}
+{"task": "number_start", "input": "Strings on a guitar.", "label": "False"}
+{"task": "number_start", "input": "100 cents in a dollar.", "label": "True"}
+{"task": "number_start", "input": "Cents in a dollar.", "label": "False"}
+{"task": "number_start", "input": "3 primary colors.", "label": "True"}
+{"task": "number_start", "input": "Primary colors.", "label": "False"}
+{"task": "number_start", "input": "4 quarters in a game.", "label": "True"}
+{"task": "number_start", "input": "Quarters in a game.", "label": "False"}
+{"task": "number_start", "input": "7 continents in the world.", "label": "True"}
+{"task": "number_start", "input": "Continents in the world.", "label": "False"}
+{"task": "number_start", "input": "32 teeth in an adult human mouth.", "label": "True"}
+{"task": "number_start", "input": "Teeth in an adult human mouth.", "label": "False"}
+{"task": "number_start", "input": "21 points to win in a game of table tennis.", "label": "True"}
+{"task": "number_start", "input": "Points to win in a game of table tennis.", "label": "False"}
+{"task": "number_start", "input": "12 signs of the Zodiac.", "label": "True"}
+{"task": "number_start", "input": "Signs of the Zodiac.", "label": "False"}
+{"task": "number_start", "input": "10 fingers on human hands.", "label": "True"}
+{"task": "number_start", "input": "Fingers on human hands.", "label": "False"}
+{"task": "number_start", "input": "5 weekdays in a standard week.", "label": "True"}
+{"task": "number_start", "input": "Weekdays in a standard week.", "label": "False"}
+{"task": "number_start", "input": "8 bits in a byte.", "label": "True"}
+{"task": "number_start", "input": "Bits in a byte.", "label": "False"}
+{"task": "number_start", "input": "52 cards in a standard deck.", "label": "True"}
+{"task": "number_start", "input": "Cards in a standard deck.", "label": "False"}
+{"task": "number_start", "input": "30 days has September.", "label": "True"}
+{"task": "number_start", "input": "Days has September.", "label": "False"}
+{"task": "number_start", "input": "16 ounces in a pound.", "label": "True"}
+{"task": "number_start", "input": "Ounces in a pound.", "label": "False"}
+{"task": "ends_with_period", "input": "The cat is sleeping on the sofa.", "label": "True"}
+{"task": "ends_with_period", "input": "Look at that beautiful sunset", "label": "False"}
+{"task": "ends_with_period", "input": "Apples are red, green, or yellow.", "label": "True"}
+{"task": "ends_with_period", "input": "He forgot his wallet at home", "label": "False"}
+{"task": "ends_with_period", "input": "He loves to play soccer.", "label": "True"}
+{"task": "ends_with_period", "input": "She sings beautifully", "label": "False"}
+{"task": "ends_with_period", "input": "This book is very interesting.", "label": "True"}
+{"task": "ends_with_period", "input": "They went to the park after lunch", "label": "False"}
+{"task": "ends_with_period", "input": "She drives to work every day.", "label": "True"}
+{"task": "ends_with_period", "input": "I can't believe it's already December", "label": "False"}
+{"task": "ends_with_period", "input": "Dogs are loyal animals.", "label": "True"}
+{"task": "ends_with_period", "input": "He plays the guitar very well", "label": "False"}
+{"task": "ends_with_period", "input": "It's raining outside.", "label": "True"}
+{"task": "ends_with_period", "input": "That movie was really interesting", "label": "False"}
+{"task": "ends_with_period", "input": "I need to buy some groceries.", "label": "True"}
+{"task": "ends_with_period", "input": "She always wears colorful dresses", "label": "False"}
+{"task": "ends_with_period", "input": "She baked a chocolate cake.", "label": "True"}
+{"task": "ends_with_period", "input": "They missed the last train home", "label": "False"}
+{"task": "ends_with_period", "input": "Coffee can be quite energizing.", "label": "True"}
+{"task": "ends_with_period", "input": "The sun sets early in the winter", "label": "False"}
+{"task": "ends_with_period", "input": "The museum opens at ten in the morning.", "label": "True"}
+{"task": "ends_with_period", "input": "He forgot to lock the door", "label": "False"}
+{"task": "ends_with_period", "input": "He is an excellent guitar player.", "label": "True"}
+{"task": "ends_with_period", "input": "This coffee is too hot to drink", "label": "False"}
+{"task": "ends_with_period", "input": "Birds migrate south in the winter.", "label": "True"}
+{"task": "ends_with_period", "input": "I think it might rain today", "label": "False"}
+{"task": "ends_with_period", "input": "Mathematics is her favorite subject.", "label": "True"}
+{"task": "ends_with_period", "input": "Their garden has so many flowers", "label": "False"}
+{"task": "ends_with_period", "input": "Stars shine brightly in the night sky.", "label": "True"}
+{"task": "ends_with_period", "input": "We need to leave early tomorrow morning", "label": "False"}
+{"task": "ends_with_period", "input": "The library is open until 8 PM.", "label": "True"}
+{"task": "ends_with_period", "input": "She loves reading books about history", "label": "False"}
+{"task": "ends_with_period", "input": "He won the chess tournament last year.", "label": "True"}
+{"task": "ends_with_period", "input": "They play soccer every Thursday evening", "label": "False"}
+{"task": "ends_with_period", "input": "Her favorite color is blue.", "label": "True"}
+{"task": "ends_with_period", "input": "He never misses his morning run", "label": "False"}
+{"task": "ends_with_period", "input": "The cake was decorated with strawberries.", "label": "True"}
+{"task": "ends_with_period", "input": "The concert starts at nine o'clock", "label": "False"}
+{"task": "ends_with_period", "input": "It was a sunny day at the beach.", "label": "True"}
+{"task": "ends_with_period", "input": "I'll meet you at the usual place", "label": "False"}
+{"task": "ends_with_period", "input": "Her painting won first prize.", "label": "True"}
+{"task": "ends_with_period", "input": "The train was running late this morning", "label": "False"}
+{"task": "ends_with_period", "input": "He is learning to play the piano.", "label": "True"}
+{"task": "ends_with_period", "input": "This restaurant has the best sushi in town", "label": "False"}
+{"task": "ends_with_period", "input": "Water boils at 100 degrees Celsius.", "label": "True"}
+{"task": "ends_with_period", "input": "We watched the stars all night", "label": "False"}
+{"task": "ends_with_period", "input": "The new museum exhibit opens next week.", "label": "True"}
+{"task": "ends_with_period", "input": "She writes poetry in her free time", "label": "False"}
+{"task": "ends_with_period", "input": "He always wears a hat when it's sunny.", "label": "True"}
+{"task": "ends_with_period", "input": "The cat sleeps in the sunniest spot in the house", "label": "False"}
+{"task": "ends_with_period", "input": "She teaches mathematics at the university.", "label": "True"}
+{"task": "ends_with_period", "input": "He forgot his keys on the kitchen table", "label": "False"}
+{"task": "ends_with_period", "input": "Her novel was published last month.", "label": "True"}
+{"task": "ends_with_period", "input": "The meeting was postponed until next Friday", "label": "False"}
+{"task": "ends_with_period", "input": "The garden is full of blooming flowers.", "label": "True"}
+{"task": "ends_with_period", "input": "He enjoys walking through the city at night", "label": "False"}
+{"task": "ends_with_period", "input": "The football match was exciting and intense.", "label": "True"}
+{"task": "ends_with_period", "input": "She jogs around the park every morning", "label": "False"}
+{"task": "ends_with_period", "input": "Coffee helps me start my day.", "label": "True"}
+{"task": "ends_with_period", "input": "This year's music festival was a huge success", "label": "False"}
+{"task": "ends_with_period", "input": "The movie starts at 7 PM.", "label": "True"}
+{"task": "ends_with_period", "input": "They often visit their grandparents on weekends", "label": "False"}
+{"task": "ends_with_period", "input": "His new album has been released.", "label": "True"}
+{"task": "ends_with_period", "input": "The sun sets behind the mountains", "label": "False"}
+{"task": "ends_with_period", "input": "The children played in the park all afternoon.", "label": "True"}
+{"task": "ends_with_period", "input": "She makes delicious homemade jam", "label": "False"}
+{"task": "ends_with_period", "input": "The conference was very informative.", "label": "True"}
+{"task": "ends_with_period", "input": "They are planning a trip to Europe next summer", "label": "False"}
+{"task": "ends_with_period", "input": "He is a talented graphic designer.", "label": "True"}
+{"task": "ends_with_period", "input": "The flowers bloom beautifully in spring", "label": "False"}
+{"task": "ends_with_period", "input": "This book explains the basics of coding.", "label": "True"}
+{"task": "ends_with_period", "input": "He always takes his dog for a walk after dinner", "label": "False"}
+{"task": "ends_with_period", "input": "Her artwork was displayed at the gallery.", "label": "True"}
+{"task": "ends_with_period", "input": "The weather is warmer than usual this year", "label": "False"}
+{"task": "ends_with_period", "input": "The documentary was both educational and engaging.", "label": "True"}
+{"task": "ends_with_period", "input": "They redecorated their living room last month", "label": "False"}
+{"task": "ends_with_period", "input": "He completed the marathon in under four hours.", "label": "True"}
+{"task": "ends_with_period", "input": "The children were excited to visit the zoo", "label": "False"}
+{"task": "ends_with_period", "input": "Her blog has gained many followers.", "label": "True"}
+{"task": "ends_with_period", "input": "The new bridge will be completed next year", "label": "False"}
+{"task": "contains_sun", "input": "The sun sets beautifully over the ocean.", "label": "True"}
+{"task": "contains_sun", "input": "She loves walking in the rain.", "label": "False"}
+{"task": "contains_sun", "input": "He wore sunglasses to protect his eyes.", "label": "True"}
+{"task": "contains_sun", "input": "Birds sing melodiously at dawn.", "label": "False"}
+{"task": "contains_sun", "input": "Sunflowers turn their heads towards the sun.", "label": "True"}
+{"task": "contains_sun", "input": "The moon was full and bright last night.", "label": "False"}
+{"task": "contains_sun", "input": "The morning sun peeked through the curtains.", "label": "True"}
+{"task": "contains_sun", "input": "Stars twinkle in the night sky.", "label": "False"}
+{"task": "contains_sun", "input": "They planned a picnic under the sunny sky.", "label": "True"}
+{"task": "contains_sun", "input": "Winter nights can be bitterly cold.", "label": "False"}
+{"task": "contains_sun", "input": "Sunscreen is essential for skin protection.", "label": "True"}
+{"task": "contains_sun", "input": "She made a delicious apple pie.", "label": "False"}
+{"task": "contains_sun", "input": "The sunset paints the sky with colors.", "label": "True"}
+{"task": "contains_sun", "input": "He enjoys jogging in the cool evening.", "label": "False"}
+{"task": "contains_sun", "input": "A solar eclipse occurs when the moon blocks the sun.", "label": "True"}
+{"task": "contains_sun", "input": "Her favorite flower is the rose.", "label": "False"}
+{"task": "contains_sun", "input": "Sunbathing is her favorite beach activity.", "label": "True"}
+{"task": "contains_sun", "input": "Autumn leaves create a colorful tapestry.", "label": "False"}
+{"task": "contains_sun", "input": "The sunflower is her favorite plant.", "label": "True"}
+{"task": "contains_sun", "input": "Mountains are majestic and awe-inspiring.", "label": "False"}
+{"task": "contains_sun", "input": "The sunlight streamed through the window.", "label": "True"}
+{"task": "contains_sun", "input": "The river flows gently through the valley.", "label": "False"}
+{"task": "contains_sun", "input": "He enjoys basking in the sun on summer days.", "label": "True"}
+{"task": "contains_sun", "input": "Raindrops create ripples in puddles.", "label": "False"}
+{"task": "contains_sun", "input": "The sunset was a blend of orange and purple.", "label": "True"}
+{"task": "contains_sun", "input": "A gentle breeze rustled the leaves.", "label": "False"}
+{"task": "contains_sun", "input": "Sunshine makes her feel happy and energetic.", "label": "True"}
+{"task": "contains_sun", "input": "Fog covered the town in the early morning.", "label": "False"}
+{"task": "contains_sun", "input": "A sunbeam lit up the dark room.", "label": "True"}
+{"task": "contains_sun", "input": "She listened to the sound of the crashing waves.", "label": "False"}
+{"task": "contains_sun", "input": "They watched the sunrise together.", "label": "True"}
+{"task": "contains_sun", "input": "The forest was calm and serene.", "label": "False"}
+{"task": "contains_sun", "input": "He adjusted the sun visor in his car.", "label": "True"}
+{"task": "contains_sun", "input": "Nightfall brought a sense of peace.", "label": "False"}
+{"task": "contains_sun", "input": "The sunflower field stretched for miles.", "label": "True"}
+{"task": "contains_sun", "input": "Snowflakes fell softly to the ground.", "label": "False"}
+{"task": "contains_sun", "input": "A sunny disposition lights up her face.", "label": "True"}
+{"task": "contains_sun", "input": "The campfire crackled in the dark.", "label": "False"}
+{"task": "contains_sun", "input": "Sun-dried tomatoes enhance the flavor.", "label": "True"}
+{"task": "contains_sun", "input": "The wind howled during the storm.", "label": "False"}
+{"task": "contains_sun", "input": "The sun's rays warmed the cold sand.", "label": "True"}
+{"task": "contains_sun", "input": "The aroma of fresh bread filled the bakery.", "label": "False"}
+{"task": "contains_sun", "input": "Sunscreen is important on sunny days.", "label": "True"}
+{"task": "contains_sun", "input": "She enjoyed the tranquility of the lake.", "label": "False"}
+{"task": "contains_sun", "input": "His sunny smile was infectious.", "label": "True"}
+{"task": "contains_sun", "input": "She collected shells along the seashore.", "label": "False"}
+{"task": "contains_sun", "input": "The afternoon sun cast long shadows.", "label": "True"}
+{"task": "contains_sun", "input": "A thunderstorm was approaching from the west.", "label": "False"}
+{"task": "contains_sun", "input": "The sun hat shielded her face from the sun.", "label": "True"}
+{"task": "contains_sun", "input": "The stars twinkled in the clear night sky.", "label": "False"}
+{"task": "contains_sun", "input": "Sunlight reflected off the calm sea.", "label": "True"}
+{"task": "contains_sun", "input": "A chorus of frogs sang in the wetlands.", "label": "False"}
+{"task": "contains_sun", "input": "The sunburn made her skin feel sensitive.", "label": "True"}
+{"task": "contains_sun", "input": "They roasted marshmallows over the fire.", "label": "False"}
+{"task": "contains_sun", "input": "A sundial tells time using the sun's shadow.", "label": "True"}
+{"task": "contains_sun", "input": "The garden was lush with vibrant flowers.", "label": "False"}
+{"task": "contains_sun", "input": "Sunsets on the beach are her favorite.", "label": "True"}
+{"task": "contains_sun", "input": "She danced in the gentle spring rain.", "label": "False"}
+{"task": "contains_sun", "input": "The sunspot activity was unusually high.", "label": "True"}
+{"task": "contains_sun", "input": "An owl hooted in the distant forest.", "label": "False"}
+{"task": "contains_sun", "input": "He wore a suit to the Sunday brunch.", "label": "True"}
+{"task": "contains_sun", "input": "The chill of the night air was refreshing.", "label": "False"}
+{"task": "contains_sun", "input": "The sun's glare made it hard to see.", "label": "True"}
+{"task": "contains_sun", "input": "The path was lined with blooming daffodils.", "label": "False"}
+{"task": "contains_sun", "input": "She uses a sunlamp for her indoor plants.", "label": "True"}
+{"task": "contains_sun", "input": "The aroma of pine filled the mountain air.", "label": "False"}
+{"task": "contains_sun", "input": "The sunny courtyard was a perfect spot for lunch.", "label": "True"}
+{"task": "contains_sun", "input": "The quiet of the countryside was soothing.", "label": "False"}
+{"task": "contains_sun", "input": "Sunrise is her favorite time of day.", "label": "True"}
+{"task": "contains_sun", "input": "The mist enveloped the landscape in mystery.", "label": "False"}
+{"task": "contains_sun", "input": "The sunshade provided relief from the heat.", "label": "True"}
+{"task": "contains_sun", "input": "The aroma of coffee filled the morning air.", "label": "False"}
+{"task": "contains_sun", "input": "Her skin glowed from the summer sun.", "label": "True"}
+{"task": "contains_sun", "input": "The night was alive with chirping crickets.", "label": "False"}
+{"task": "contains_sun", "input": "The sunny weather brought smiles to everyone's faces.", "label": "True"}
+{"task": "contains_sun", "input": "The old tree stood tall in the meadow.", "label": "False"}
+{"task": "contains_sun", "input": "Sunbathers lined the beach on the hot day.", "label": "True"}
+{"task": "contains_sun", "input": "The valley was known for its lush vineyards.", "label": "False"}
+{"task": "contains_sun", "input": "He painted a scene of the setting sun.", "label": "True"}
+{"task": "contains_sun", "input": "A gentle snowfall blanketed the town.", "label": "False"}
+{"task": "word_length", "input": "Apples grow on trees.", "label": "True"}
+{"task": "word_length", "input": "The bookshelf was filled with old, dusty books.", "label": "False"}
+{"task": "word_length", "input": "Trains travel very fast.", "label": "True"}
+{"task": "word_length", "input": "He found a rare, ancient coin in the garden.", "label": "False"}
+{"task": "word_length", "input": "Roses bloom in spring.", "label": "True"}
+{"task": "word_length", "input": "The moonlight reflected softly on the calm sea surface.", "label": "False"}
+{"task": "word_length", "input": "Sun rises in east.", "label": "True"}
+{"task": "word_length", "input": "She wore her favorite dress to the party yesterday.", "label": "False"}
+{"task": "word_length", "input": "Snow is very cold.", "label": "True"}
+{"task": "word_length", "input": "The children played games and laughed in the park.", "label": "False"}
+{"task": "word_length", "input": "Rain makes things wet.", "label": "True"}
+{"task": "word_length", "input": "The old clock tower stands tall in the town.", "label": "False"}
+{"task": "word_length", "input": "Waves crash on shore.", "label": "True"}
+{"task": "word_length", "input": "She collected colorful seashells along the sandy beach.", "label": "False"}
+{"task": "word_length", "input": "Leaves turn brown soon.", "label": "True"}
+{"task": "word_length", "input": "A gentle breeze blew through the fields of wheat.", "label": "False"}
+{"task": "word_length", "input": "Music fills the air.", "label": "True"}
+{"task": "word_length", "input": "He always starts his day with a strong coffee.", "label": "False"}
+{"task": "word_length", "input": "Birds sing at dawn.", "label": "True"}
+{"task": "word_length", "input": "The garden was a peaceful haven for various wildlife.", "label": "False"}
+{"task": "word_length", "input": "Stars light up sky.", "label": "True"}
+{"task": "word_length", "input": "She wrote a poem about the changing seasons yesterday.", "label": "False"}
+{"task": "word_length", "input": "Bears hibernate in winter.", "label": "True"}
+{"task": "word_length", "input": "The artist painted a vivid landscape of the valley.", "label": "False"}
+{"task": "word_length", "input": "Rainbows appear after rain.", "label": "True"}
+{"task": "word_length", "input": "The library was quiet, perfect for studying and reading.", "label": "False"}
+{"task": "word_length", "input": "Time flies very quickly.", "label": "True"}
+{"task": "word_length", "input": "The old house at the end of street is haunted.", "label": "False"}
+{"task": "word_length", "input": "Fish swim in schools.", "label": "True"}
+{"task": "word_length", "input": "The morning dew glistened on the freshly cut grass.", "label": "False"}
+{"task": "word_length", "input": "Kites soar in wind.", "label": "True"}
+{"task": "word_length", "input": "He practiced piano every day to prepare for the recital.", "label": "False"}
+{"task": "word_length", "input": "Clouds cover the moon.", "label": "True"}
+{"task": "word_length", "input": "Her garden was full of flowers blooming in vibrant colors.", "label": "False"}
+{"task": "word_length", "input": "Balloons rise up high.", "label": "True"}
+{"task": "word_length", "input": "The children eagerly awaited their turn on the merry-go-round.", "label": "False"}
+{"task": "word_length", "input": "Candles glow in dark.", "label": "True"}
+{"task": "word_length", "input": "The market was bustling with people buying fresh produce.", "label": "False"}
+{"task": "word_length", "input": "Owls are nocturnal birds.", "label": "True"}
+{"task": "word_length", "input": "In autumn, leaves change color and fall from trees.", "label": "False"}
+{"task": "word_length", "input": "Snowflakes are unique crystals.", "label": "True"}
+{"task": "word_length", "input": "She crafted a beautiful necklace from seashells and beads.", "label": "False"}
+{"task": "word_length", "input": "Stars form constellations above.", "label": "True"}
+{"task": "word_length", "input": "The painter captured the essence of spring in his work.", "label": "False"}
+{"task": "word_length", "input": "Frogs croak near ponds.", "label": "True"}
+{"task": "word_length", "input": "The old mill by the river is a historical landmark.", "label": "False"}
+{"task": "word_length", "input": "Trees provide shade outside.", "label": "True"}
+{"task": "word_length", "input": "They often took long walks through the city at night.", "label": "False"}
+{"task": "word_length", "input": "Fire burns brightly outdoors.", "label": "True"}
+{"task": "word_length", "input": "Her favorite place to relax was the quiet beachfront cafe.", "label": "False"}
+{"task": "word_length", "input": "Ice cream melts quickly.", "label": "True"}
+{"task": "word_length", "input": "The old lighthouse has guided ships safely for many years.", "label": "False"}
+{"task": "word_length", "input": "Lions roar in jungle.", "label": "True"}
+{"task": "word_length", "input": "The antique clock ticked loudly in the otherwise silent room.", "label": "False"}
+{"task": "word_length", "input": "Winds whistle through trees.", "label": "True"}
+{"task": "word_length", "input": "She arranged the colorful flowers in a vase on the table.", "label": "False"}
+{"task": "word_length", "input": "Kids play with toys.", "label": "True"}
+{"task": "word_length", "input": "The historic town square was a hub of community activities.", "label": "False"}
+{"task": "word_length", "input": "Mice are small rodents.", "label": "True"}
+{"task": "word_length", "input": "The aroma of freshly baked bread wafted from the bakery.", "label": "False"}
+{"task": "word_length", "input": "Birds fly in sky.", "label": "True"}
+{"task": "word_length", "input": "She always wakes up early in the morning.", "label": "False"}
+{"task": "word_length", "input": "Books are on shelf.", "label": "True"}
+{"task": "word_length", "input": "He quietly read his favorite book last night.", "label": "False"}
+{"task": "word_length", "input": "Stars shine at night.", "label": "True"}
+{"task": "word_length", "input": "The sun sets beautifully behind the distant mountains.", "label": "False"}
+{"task": "word_length", "input": "Cats sleep all day.", "label": "True"}
+{"task": "word_length", "input": "She made a delicious, warm apple pie yesterday.", "label": "False"}
+{"task": "word_length", "input": "Rain falls on roof.", "label": "True"}
+{"task": "word_length", "input": "Every summer, they travel to a new country.", "label": "False"}
+{"task": "word_length", "input": "Dogs bark very loud.", "label": "True"}
+{"task": "word_length", "input": "The old tree stood tall and strong in storm.", "label": "False"}
+{"task": "word_length", "input": "Cars move on roads.", "label": "True"}
+{"task": "word_length", "input": "He enjoyed long, peaceful walks during the autumn evenings.", "label": "False"}
+{"task": "word_length", "input": "Leaves fall in autumn.", "label": "True"}
+{"task": "word_length", "input": "The artist painted a stunning sunset over the lake.", "label": "False"}
+{"task": "word_length", "input": "Fish swim in water.", "label": "True"}
+{"task": "word_length", "input": "Morning coffee brings warmth and joy to her day.", "label": "False"}
+{"task": "word_length", "input": "Snow covers the ground.", "label": "True"}
+{"task": "word_length", "input": "They watched the stars twinkle brightly in night sky.", "label": "False"}
+{"task": "word_length_extreme", "input": "Snow falling.", "label": "True"}
+{"task": "word_length_extreme", "input": "The artist quietly sketched the bustling city square from his studio window.", "label": "False"}
+{"task": "word_length_extreme", "input": "Night descends.", "label": "True"}
+{"task": "word_length_extreme", "input": "She practiced her violin each night, filling the room with sweet, melodious sounds.", "label": "False"}
+{"task": "word_length_extreme", "input": "Candles flickering.", "label": "True"}
+{"task": "word_length_extreme", "input": "The old fisherman told tales of the sea under the starlit sky nightly.", "label": "False"}
+{"task": "word_length_extreme", "input": "Flowers blooming.", "label": "True"}
+{"task": "word_length_extreme", "input": "Every spring, the garden was a riot of color, alive with birds and bees.", "label": "False"}
+{"task": "word_length_extreme", "input": "Thunder roaring.", "label": "True"}
+{"task": "word_length_extreme", "input": "In the quiet café, strangers shared stories over coffee, becoming friends by evening.", "label": "False"}
+{"task": "word_length_extreme", "input": "Birds chirping.", "label": "True"}
+{"task": "word_length_extreme", "input": "The ancient castle, perched atop the hill, overlooked the village with timeless grace.", "label": "False"}
+{"task": "word_length_extreme", "input": "River flowing.", "label": "True"}
+{"task": "word_length_extreme", "input": "Through the misty morning, the solitary hiker trekked the mountain path in silence.", "label": "False"}
+{"task": "word_length_extreme", "input": "Leaves swirling.", "label": "True"}
+{"task": "word_length_extreme", "input": "Late at night, the city's lights twinkled like stars, casting a magical glow.", "label": "False"}
+{"task": "word_length_extreme", "input": "Clock ticking.", "label": "True"}
+{"task": "word_length_extreme", "input": "The children's laughter filled the air as they played in the sun-drenched meadow.", "label": "False"}
+{"task": "word_length_extreme", "input": "Frogs jumping.", "label": "True"}
+{"task": "word_length_extreme", "input": "Her letters, filled with love and longing, traveled across oceans to reach him.", "label": "False"}
+{"task": "word_length_extreme", "input": "Babies sleeping.", "label": "True"}
+{"task": "word_length_extreme", "input": "Under the old oak tree, they shared their first kiss one summer evening.", "label": "False"}
+{"task": "word_length_extreme", "input": "Owls hooting.", "label": "True"}
+{"task": "word_length_extreme", "input": "The abandoned house, with its hidden stories, stood silently, watching years pass by.", "label": "False"}
+{"task": "word_length_extreme", "input": "Shadows dancing.", "label": "True"}
+{"task": "word_length_extreme", "input": "She wandered through the market, exploring the vibrant tapestry of sights and sounds.", "label": "False"}
+{"task": "word_length_extreme", "input": "Wheels turning.", "label": "True"}
+{"task": "word_length_extreme", "input": "In the early hours, the bakery came to life, filling the air with aroma.", "label": "False"}
+{"task": "word_length_extreme", "input": "Rainbow appearing.", "label": "True"}
+{"task": "word_length_extreme", "input": "The little boat sailed across the lake, carrying them into a world of adventure.", "label": "False"}
+{"task": "word_length_extreme", "input": "Children laughing.", "label": "True"}
+{"task": "word_length_extreme", "input": "Their footsteps echoed in the ancient hall as they explored the castle's secrets.", "label": "False"}
+{"task": "word_length_extreme", "input": "Breeze whispering.", "label": "True"}
+{"task": "word_length_extreme", "input": "In the cozy room, the family gathered around the hearth, sharing stories and warmth.", "label": "False"}
+{"task": "word_length_extreme", "input": "Geese flying.", "label": "True"}
+{"task": "word_length_extreme", "input": "The artist's studio was a cluttered, yet inspiring space, brimming with unfinished masterpieces.", "label": "False"}
+{"task": "word_length_extreme", "input": "Heart beating.", "label": "True"}
+{"task": "word_length_extreme", "input": "On the quiet beach, the waves gently kissed the shore under the moonlight.", "label": "False"}
+{"task": "word_length_extreme", "input": "Drums pounding.", "label": "True"}
+{"task": "word_length_extreme", "input": "The small village, nestled in the valley, was a picture of peace and tranquility.", "label": "False"}
+{"task": "word_length_extreme", "input": "Kittens purring.", "label": "True"}
+{"task": "word_length_extreme", "input": "As the orchestra played, the music enveloped the audience in a world of emotion.", "label": "False"}
+{"task": "word_length_extreme", "input": "Lights flickering.", "label": "True"}
+{"task": "word_length_extreme", "input": "The old lighthouse, a beacon of hope, guided sailors safely through the stormy night.", "label": "False"}
+{"task": "word_length_extreme", "input": "Choir singing.", "label": "True"}
+{"task": "word_length_extreme", "input": "In the bustling city, life moved at a relentless pace, full of energy and ambition.", "label": "False"}
+{"task": "word_length_extreme", "input": "Fire blazing.", "label": "True"}
+{"task": "word_length_extreme", "input": "The ancient forest, with its towering trees, was a sanctuary for all who entered.", "label": "False"}
+{"task": "word_length_extreme", "input": "Waves crashing.", "label": "True"}
+{"task": "word_length_extreme", "input": "She spent her days in the gardens, tending to the flowers with love and care.", "label": "False"}
+{"task": "word_length_extreme", "input": "Stars bright.", "label": "True"}
+{"task": "word_length_extreme", "input": "The old, wooden bridge creaked under the weight of the passing travelers.", "label": "False"}
+{"task": "word_length_extreme", "input": "Cats purring.", "label": "True"}
+{"task": "word_length_extreme", "input": "He spent his evenings writing captivating stories by the flickering candlelight.", "label": "False"}
+{"task": "word_length_extreme", "input": "Quiet night.", "label": "True"}
+{"task": "word_length_extreme", "input": "The bustling city streets were alive with music, lights, and endless energy.", "label": "False"}
+{"task": "word_length_extreme", "input": "Birds chirping.", "label": "True"}
+{"task": "word_length_extreme", "input": "She often wandered through the ancient forest, lost in her own thoughts.", "label": "False"}
+{"task": "word_length_extreme", "input": "Doors closing.", "label": "True"}
+{"task": "word_length_extreme", "input": "In the small coastal town, the lighthouse stood as a beacon of hope.", "label": "False"}
+{"task": "word_length_extreme", "input": "Rain pouring.", "label": "True"}
+{"task": "word_length_extreme", "input": "The artist's studio was cluttered with paints, brushes, and half-finished canvases.", "label": "False"}
+{"task": "word_length_extreme", "input": "Thunder rumbling.", "label": "True"}
+{"task": "word_length_extreme", "input": "Every year, the village festival brought together people from far and wide.", "label": "False"}
+{"task": "word_length_extreme", "input": "Flowers blooming.", "label": "True"}
+{"task": "word_length_extreme", "input": "The ancient oak tree was a silent witness to centuries of history.", "label": "False"}
+{"task": "word_length_extreme", "input": "Leaves falling.", "label": "True"}
+{"task": "word_length_extreme", "input": "In the heart of the city, the old cathedral stood tall and proud.", "label": "False"}
+{"task": "word_length_extreme", "input": "Clocks ticking.", "label": "True"}
+{"task": "word_length_extreme", "input": "The ancient library was a treasure trove of knowledge, waiting to be explored.", "label": "False"}
+{"task": "word_length_extreme", "input": "Waves lapping.", "label": "True"}
+{"task": "word_length_extreme", "input": "His workshop was filled with all sorts of gadgets and unfinished inventions.", "label": "False"}
+{"task": "word_length_extreme", "input": "Books stacked.", "label": "True"}
+{"task": "word_length_extreme", "input": "The sun set behind the mountains, casting a golden glow over the valley.", "label": "False"}
+{"task": "word_length_extreme", "input": "Children laughing.", "label": "True"}
+{"task": "word_length_extreme", "input": "The old fisherman told tales of the sea that captivated every listener.", "label": "False"}
+{"task": "word_length_extreme", "input": "Bells ringing.", "label": "True"}
+{"task": "word_length_extreme", "input": "Her garden was an explosion of colors, with flowers blooming everywhere.", "label": "False"}
+{"task": "word_length_extreme", "input": "Fires burning.", "label": "True"}
+{"task": "word_length_extreme", "input": "Under the starry sky, they shared stories and dreams of the future.", "label": "False"}
+{"task": "about_animals", "input": "Cats purr softly.", "label": "True"}
+{"task": "about_animals", "input": "The chair is wooden.", "label": "False"}
+{"task": "about_animals", "input": "Dogs bark loudly.", "label": "True"}
+{"task": "about_animals", "input": "The book is new.", "label": "False"}
+{"task": "about_animals", "input": "Birds fly high.", "label": "True"}
+{"task": "about_animals", "input": "The lamp is bright.", "label": "False"}
+{"task": "about_animals", "input": "Fish swim deep.", "label": "True"}
+{"task": "about_animals", "input": "The phone is ringing.", "label": "False"}
+{"task": "about_animals", "input": "Elephants are large.", "label": "True"}
+{"task": "about_animals", "input": "The car is fast.", "label": "False"}
+{"task": "about_animals", "input": "Rabbits hop quickly.", "label": "True"}
+{"task": "about_animals", "input": "The clock is ticking.", "label": "False"}
+{"task": "about_animals", "input": "Lions roar fiercely.", "label": "True"}
+{"task": "about_animals", "input": "The glass is fragile.", "label": "False"}
+{"task": "about_animals", "input": "Horses gallop fast.", "label": "True"}
+{"task": "about_animals", "input": "The door is closed.", "label": "False"}
+{"task": "about_animals", "input": "Bears hibernate.", "label": "True"}
+{"task": "about_animals", "input": "The pen is blue.", "label": "False"}
+{"task": "about_animals", "input": "Monkeys climb trees.", "label": "True"}
+{"task": "about_animals", "input": "The computer is on.", "label": "False"}
+{"task": "about_animals", "input": "Whales swim gracefully.", "label": "True"}
+{"task": "about_animals", "input": "The window is open.", "label": "False"}
+{"task": "about_animals", "input": "Koalas eat leaves.", "label": "True"}
+{"task": "about_animals", "input": "The vase is full.", "label": "False"}
+{"task": "about_animals", "input": "Giraffes have long necks.", "label": "True"}
+{"task": "about_animals", "input": "The pillow is soft.", "label": "False"}
+{"task": "about_animals", "input": "Cheetahs run fast.", "label": "True"}
+{"task": "about_animals", "input": "The mirror is clear.", "label": "False"}
+{"task": "about_animals", "input": "Frogs jump high.", "label": "True"}
+{"task": "about_animals", "input": "The basket is woven.", "label": "False"}
+{"task": "about_animals", "input": "Owls see at night.", "label": "True"}
+{"task": "about_animals", "input": "The bottle is empty.", "label": "False"}
+{"task": "about_animals", "input": "Snakes slither silently.", "label": "True"}
+{"task": "about_animals", "input": "The desk is cluttered.", "label": "False"}
+{"task": "about_animals", "input": "Turtles move slowly.", "label": "True"}
+{"task": "about_animals", "input": "The fridge is cold.", "label": "False"}
+{"task": "about_animals", "input": "Sharks have sharp teeth.", "label": "True"}
+{"task": "about_animals", "input": "The spoon is silver.", "label": "False"}
+{"task": "about_animals", "input": "Penguins waddle adorably.", "label": "True"}
+{"task": "about_animals", "input": "The towel is dry.", "label": "False"}
+{"task": "about_animals", "input": "Squirrels collect nuts.", "label": "True"}
+{"task": "about_animals", "input": "The rug is colorful.", "label": "False"}
+{"task": "about_animals", "input": "Bees make honey.", "label": "True"}
+{"task": "about_animals", "input": "The lamp is tall.", "label": "False"}
+{"task": "about_animals", "input": "Deer graze peacefully.", "label": "True"}
+{"task": "about_animals", "input": "The book is thick.", "label": "False"}
+{"task": "about_animals", "input": "Foxes are cunning.", "label": "True"}
+{"task": "about_animals", "input": "The plate is round.", "label": "False"}
+{"task": "about_animals", "input": "Eagles fly high.", "label": "True"}
+{"task": "about_animals", "input": "The clock is large.", "label": "False"}
+{"task": "about_animals", "input": "Hippos love water.", "label": "True"}
+{"task": "about_animals", "input": "The key is rusty.", "label": "False"}
+{"task": "about_animals", "input": "Dolphins are playful.", "label": "True"}
+{"task": "about_animals", "input": "The carpet is plush.", "label": "False"}
+{"task": "about_animals", "input": "Mice are small.", "label": "True"}
+{"task": "about_animals", "input": "The headphones are loud.", "label": "False"}
+{"task": "about_animals", "input": "Peacocks display feathers.", "label": "True"}
+{"task": "about_animals", "input": "The mug is hot.", "label": "False"}
+{"task": "about_animals", "input": "Zebra stripes are unique.", "label": "True"}
+{"task": "about_animals", "input": "The scissors are sharp.", "label": "False"}
+{"task": "about_animals", "input": "Raccoons are nocturnal.", "label": "True"}
+{"task": "about_animals", "input": "The blender is noisy.", "label": "False"}
+{"task": "about_animals", "input": "Kangaroos hop around.", "label": "True"}
+{"task": "about_animals", "input": "The printer is jammed.", "label": "False"}
+{"task": "about_animals", "input": "Skunks spray when scared.", "label": "True"}
+{"task": "about_animals", "input": "The heater is warm.", "label": "False"}
+{"task": "about_animals", "input": "Seals bask in sun.", "label": "True"}
+{"task": "about_animals", "input": "The calculator is handy.", "label": "False"}
+{"task": "about_animals", "input": "Octopuses change colors.", "label": "True"}
+{"task": "about_animals", "input": "The camera is digital.", "label": "False"}
+{"task": "about_animals", "input": "Crocodiles have tough skin.", "label": "True"}
+{"task": "about_animals", "input": "The oven is hot.", "label": "False"}
+{"task": "about_animals", "input": "Hedgehogs have spikes.", "label": "True"}
+{"task": "about_animals", "input": "The flashlight is bright.", "label": "False"}
+{"task": "about_animals", "input": "Butterflies have wings.", "label": "True"}
+{"task": "about_animals", "input": "The chair is sturdy.", "label": "False"}
+{"task": "about_animals", "input": "Jellyfish are translucent.", "label": "True"}
+{"task": "about_animals", "input": "The umbrella is open.", "label": "False"}
+{"task": "about_animals", "input": "Camels store fat.", "label": "True"}
+{"task": "about_animals", "input": "The fan is rotating.", "label": "False"}
+{"task": "about_cat", "input": "Cats love napping.", "label": "True"}
+{"task": "about_cat", "input": "Dogs enjoy fetch.", "label": "False"}
+{"task": "about_cat", "input": "Cats purr contentedly.", "label": "True"}
+{"task": "about_cat", "input": "Dogs wag tails.", "label": "False"}
+{"task": "about_cat", "input": "Cats have whiskers.", "label": "True"}
+{"task": "about_cat", "input": "Dogs love walks.", "label": "False"}
+{"task": "about_cat", "input": "Cats climb trees.", "label": "True"}
+{"task": "about_cat", "input": "Dogs bark loudly.", "label": "False"}
+{"task": "about_cat", "input": "Cats chase mice.", "label": "True"}
+{"task": "about_cat", "input": "Dogs have floppy ears.", "label": "False"}
+{"task": "about_cat", "input": "Cats land on feet.", "label": "True"}
+{"task": "about_cat", "input": "Dogs sniff everything.", "label": "False"}
+{"task": "about_cat", "input": "Cats are independent.", "label": "True"}
+{"task": "about_cat", "input": "Dogs fetch sticks.", "label": "False"}
+{"task": "about_cat", "input": "Cats have vertical pupils.", "label": "True"}
+{"task": "about_cat", "input": "Dogs are loyal companions.", "label": "False"}
+{"task": "about_cat", "input": "Cats enjoy solitude.", "label": "True"}
+{"task": "about_cat", "input": "Dogs guard homes.", "label": "False"}
+{"task": "about_cat", "input": "Cats like climbing.", "label": "True"}
+{"task": "about_cat", "input": "Dogs dig holes.", "label": "False"}
+{"task": "about_cat", "input": "Cats enjoy yarn.", "label": "True"}
+{"task": "about_cat", "input": "Dogs love swimming.", "label": "False"}
+{"task": "about_cat", "input": "Cats have sharp claws.", "label": "True"}
+{"task": "about_cat", "input": "Dogs howl at night.", "label": "False"}
+{"task": "about_cat", "input": "Cats clean themselves.", "label": "True"}
+{"task": "about_cat", "input": "Dogs need daily walks.", "label": "False"}
+{"task": "about_cat", "input": "Cats are nocturnal.", "label": "True"}
+{"task": "about_cat", "input": "Dogs have keen noses.", "label": "False"}
+{"task": "about_cat", "input": "Cats like high places.", "label": "True"}
+{"task": "about_cat", "input": "Dogs roll in grass.", "label": "False"}
+{"task": "about_cat", "input": "Cats hate water.", "label": "True"}
+{"task": "about_cat", "input": "Dogs chase their tails.", "label": "False"}
+{"task": "about_cat", "input": "Cats are mysterious.", "label": "True"}
+{"task": "about_cat", "input": "Dogs protect their owners.", "label": "False"}
+{"task": "about_cat", "input": "Cats have retractable claws.", "label": "True"}
+{"task": "about_cat", "input": "Dogs love car rides.", "label": "False"}
+{"task": "about_cat", "input": "Cats have nine lives.", "label": "True"}
+{"task": "about_cat", "input": "Dogs are pack animals.", "label": "False"}
+{"task": "about_cat", "input": "Cats prefer solitude.", "label": "True"}
+{"task": "about_cat", "input": "Dogs follow scents.", "label": "False"}
+{"task": "about_cat", "input": "Cats meow for communication.", "label": "True"}
+{"task": "about_cat", "input": "Dogs have expressive eyes.", "label": "False"}
+{"task": "about_cat", "input": "Cats love catnip.", "label": "True"}
+{"task": "about_cat", "input": "Dogs greet with excitement.", "label": "False"}
+{"task": "about_cat", "input": "Cats are agile.", "label": "True"}
+{"task": "about_cat", "input": "Dogs are obedient.", "label": "False"}
+{"task": "about_cat", "input": "Cats have delicate steps.", "label": "True"}
+{"task": "about_cat", "input": "Dogs enjoy belly rubs.", "label": "False"}
+{"task": "about_cat", "input": "Cats are independent.", "label": "True"}
+{"task": "about_cat", "input": "Dogs have powerful jaws.", "label": "False"}
+{"task": "about_cat", "input": "Cats have soft fur.", "label": "True"}
+{"task": "about_cat", "input": "Dogs are great swimmers.", "label": "False"}
+{"task": "about_cat", "input": "Cats often sunbathe.", "label": "True"}
+{"task": "about_cat", "input": "Dogs have a strong bark.", "label": "False"}
+{"task": "about_cat", "input": "Cats use litter boxes.", "label": "True"}
+{"task": "about_cat", "input": "Dogs have different barks.", "label": "False"}
+{"task": "about_cat", "input": "Cats are curious.", "label": "True"}
+{"task": "about_cat", "input": "Dogs are good sniffers.", "label": "False"}
+{"task": "about_cat", "input": "Cats have vertical slits.", "label": "True"}
+{"task": "about_cat", "input": "Dogs love tug-of-war.", "label": "False"}
+{"task": "about_cat", "input": "Cats are good hunters.", "label": "True"}
+{"task": "about_cat", "input": "Dogs can be trained.", "label": "False"}
+{"task": "about_cat", "input": "Cats are elegant.", "label": "True"}
+{"task": "about_cat", "input": "Dogs can be guide animals.", "label": "False"}
+{"task": "about_cat", "input": "Cats love perching.", "label": "True"}
+{"task": "about_cat", "input": "Dogs love to chase.", "label": "False"}
+{"task": "about_cat", "input": "Cats often nap.", "label": "True"}
+{"task": "about_cat", "input": "Dogs show affection openly.", "label": "False"}
+{"task": "about_cat", "input": "Cats have sensitive ears.", "label": "True"}
+{"task": "about_cat", "input": "Dogs have a loud howl.", "label": "False"}
+{"task": "about_cat", "input": "Cats enjoy chasing lights.", "label": "True"}
+{"task": "about_cat", "input": "Dogs guard the house.", "label": "False"}
+{"task": "about_cat", "input": "Cats like quiet places.", "label": "True"}
+{"task": "about_cat", "input": "Dogs enjoy outdoor activities.", "label": "False"}
+{"task": "about_cat", "input": "Cats have a graceful walk.", "label": "True"}
+{"task": "about_cat", "input": "Dogs love playing outside.", "label": "False"}
+{"task": "about_cat", "input": "Cats are good climbers.", "label": "True"}
+{"task": "about_cat", "input": "Dogs can learn commands.", "label": "False"}
+{"task": "about_cat", "input": "Cats enjoy high spots.", "label": "True"}
+{"task": "about_cat", "input": "Dogs need a lot of exercise.", "label": "False"}
+{"task": "about_food", "input": "Carrots are crunchy.", "label": "True"}
+{"task": "about_food", "input": "Rain is refreshing.", "label": "False"}
+{"task": "about_food", "input": "Soup is warming.", "label": "True"}
+{"task": "about_food", "input": "Winds can be strong.", "label": "False"}
+{"task": "about_food", "input": "Bananas are yellow.", "label": "True"}
+{"task": "about_food", "input": "Snowflakes are unique.", "label": "False"}
+{"task": "about_food", "input": "Steak can be grilled.", "label": "True"}
+{"task": "about_food", "input": "The moon controls tides.", "label": "False"}
+{"task": "about_food", "input": "Oranges are juicy.", "label": "True"}
+{"task": "about_food", "input": "The train is fast.", "label": "False"}
+{"task": "about_food", "input": "Fish is high in omega-3.", "label": "True"}
+{"task": "about_food", "input": "Leaves turn in autumn.", "label": "False"}
+{"task": "about_food", "input": "Nuts are a good snack.", "label": "True"}
+{"task": "about_food", "input": "Stars are distant.", "label": "False"}
+{"task": "about_food", "input": "Berries are antioxidant-rich.", "label": "True"}
+{"task": "about_food", "input": "Clouds drift across skies.", "label": "False"}
+{"task": "about_food", "input": "Yogurt comes in many flavors.", "label": "True"}
+{"task": "about_food", "input": "The desert is arid.", "label": "False"}
+{"task": "about_food", "input": "Pancakes are fluffy.", "label": "True"}
+{"task": "about_food", "input": "Rivers flow to seas.", "label": "False"}
+{"task": "about_food", "input": "Vegetables are nutritious.", "label": "True"}
+{"task": "about_food", "input": "Gardens are peaceful.", "label": "False"}
+{"task": "about_food", "input": "Cupcakes are sweet.", "label": "True"}
+{"task": "about_food", "input": "Night comes daily.", "label": "False"}
+{"task": "about_food", "input": "Cheese can be aged.", "label": "True"}
+{"task": "about_food", "input": "Oceans are vast.", "label": "False"}
+{"task": "about_food", "input": "Eggs are versatile.", "label": "True"}
+{"task": "about_food", "input": "Rainbows appear after rain.", "label": "False"}
+{"task": "about_food", "input": "Lemons are tart.", "label": "True"}
+{"task": "about_food", "input": "The sun sets in the evening.", "label": "False"}
+{"task": "about_food", "input": "Grapes can be dried.", "label": "True"}
+{"task": "about_food", "input": "Forests are dense.", "label": "False"}
+{"task": "about_food", "input": "Chocolate melts easily.", "label": "True"}
+{"task": "about_food", "input": "Mountains can be high.", "label": "False"}
+{"task": "about_food", "input": "Honey is naturally sweet.", "label": "True"}
+{"task": "about_food", "input": "Lakes are serene.", "label": "False"}
+{"task": "about_food", "input": "Avocados have healthy fats.", "label": "True"}
+{"task": "about_food", "input": "Bridges span rivers.", "label": "False"}
+{"task": "about_food", "input": "Rice is a grain.", "label": "True"}
+{"task": "about_food", "input": "The sky is blue.", "label": "False"}
+{"task": "about_food", "input": "Tofu is soy-based.", "label": "True"}
+{"task": "about_food", "input": "Roads connect cities.", "label": "False"}
+{"task": "about_food", "input": "Salmon is a fish.", "label": "True"}
+{"task": "about_food", "input": "The moon is luminous.", "label": "False"}
+{"task": "about_food", "input": "Quinoa is protein-rich.", "label": "True"}
+{"task": "about_food", "input": "The air is crisp.", "label": "False"}
+{"task": "about_food", "input": "Olives are often pickled.", "label": "True"}
+{"task": "about_food", "input": "Glaciers are cold.", "label": "False"}
+{"task": "about_food", "input": "Almonds are nuts.", "label": "True"}
+{"task": "about_food", "input": "Rocks are solid.", "label": "False"}
+{"task": "about_food", "input": "Mangoes are tropical.", "label": "True"}
+{"task": "about_food", "input": "Valleys are low.", "label": "False"}
+{"task": "about_food", "input": "Spinach is leafy.", "label": "True"}
+{"task": "about_food", "input": "The horizon is distant.", "label": "False"}
+{"task": "about_food", "input": "Onions can be diced.", "label": "True"}
+{"task": "about_food", "input": "Clouds float in sky.", "label": "False"}
+{"task": "about_food", "input": "Strawberries are red.", "label": "True"}
+{"task": "about_food", "input": "The moon orbits Earth.", "label": "False"}
+{"task": "about_food", "input": "Zucchini is versatile.", "label": "True"}
+{"task": "about_food", "input": "Stars are far away.", "label": "False"}
+{"task": "about_food", "input": "Apples are nutritious.", "label": "True"}
+{"task": "about_food", "input": "Cars need fuel.", "label": "False"}
+{"task": "about_food", "input": "Pizza tastes great.", "label": "True"}
+{"task": "about_food", "input": "Birds fly south.", "label": "False"}
+{"task": "about_food", "input": "Chocolate is sweet.", "label": "True"}
+{"task": "about_food", "input": "The sun is bright.", "label": "False"}
+{"task": "about_food", "input": "Cheese can melt.", "label": "True"}
+{"task": "about_food", "input": "Trees lose leaves.", "label": "False"}
+{"task": "about_food", "input": "Salad is healthy.", "label": "True"}
+{"task": "about_food", "input": "Rivers flow steadily.", "label": "False"}
+{"task": "about_food", "input": "Bread is a staple food.", "label": "True"}
+{"task": "about_food", "input": "Mountains are majestic.", "label": "False"}
+{"task": "about_food", "input": "Ice cream melts.", "label": "True"}
+{"task": "about_food", "input": "Cats are independent.", "label": "False"}
+{"task": "about_food", "input": "Tomatoes in salad.", "label": "True"}
+{"task": "about_food", "input": "Stars twinkle at night.", "label": "False"}
+{"task": "about_food", "input": "Pasta can be boiled.", "label": "True"}
+{"task": "about_food", "input": "The ocean is vast.", "label": "False"}
+{"task": "about_food", "input": "Burgers are popular.", "label": "True"}
+{"task": "about_food", "input": "The clock is ticking.", "label": "False"}
+{"task": "question", "input": "Is it raining outside?", "label": "True"}
+{"task": "question", "input": "What time is dinner?", "label": "True"}
+{"task": "question", "input": "Can dogs see in color?", "label": "True"}
+{"task": "question", "input": "Where did I leave my keys?", "label": "True"}
+{"task": "question", "input": "Who won the game last night?", "label": "True"}
+{"task": "question", "input": "Are we there yet?", "label": "True"}
+{"task": "question", "input": "Why is the sky blue?", "label": "True"}
+{"task": "question", "input": "Do you like coffee?", "label": "True"}
+{"task": "question", "input": "How does a plane fly?", "label": "True"}
+{"task": "question", "input": "What is your favorite color?", "label": "True"}
+{"task": "question", "input": "Where is the nearest grocery store?", "label": "True"}
+{"task": "question", "input": "Can you help me with this?", "label": "True"}
+{"task": "question", "input": "What is the capital of France?", "label": "True"}
+{"task": "question", "input": "Why do leaves change color?", "label": "True"}
+{"task": "question", "input": "Is it safe to travel alone?", "label": "True"}
+{"task": "question", "input": "How do you bake a cake?", "label": "True"}
+{"task": "question", "input": "Are cats nocturnal animals?", "label": "True"}
+{"task": "question", "input": "What causes thunder?", "label": "True"}
+{"task": "question", "input": "Can plants grow without sunlight?", "label": "True"}
+{"task": "question", "input": "Do you speak any other languages?", "label": "True"}
+{"task": "question", "input": "Why is the ocean salty?", "label": "True"}
+{"task": "question", "input": "How often should I water plants?", "label": "True"}
+{"task": "question", "input": "What time does the sun set?", "label": "True"}
+{"task": "question", "input": "Can fish breathe underwater?", "label": "True"}
+{"task": "question", "input": "Is there life on other planets?", "label": "True"}
+{"task": "question", "input": "What is the speed of light?", "label": "True"}
+{"task": "question", "input": "Are dinosaurs extinct?", "label": "True"}
+{"task": "question", "input": "How do we measure time?", "label": "True"}
+{"task": "question", "input": "Can computers think like humans?", "label": "True"}
+{"task": "question", "input": "Why do we dream?", "label": "True"}
+{"task": "question", "input": "What are black holes?", "label": "True"}
+{"task": "question", "input": "Is global warming real?", "label": "True"}
+{"task": "question", "input": "How do airplanes fly?", "label": "True"}
+{"task": "question", "input": "Can money buy happiness?", "label": "True"}
+{"task": "question", "input": "What is photosynthesis?", "label": "True"}
+{"task": "question", "input": "Are all stars the same size?", "label": "True"}
+{"task": "question", "input": "Why do we age?", "label": "True"}
+{"task": "question", "input": "What causes rainbows?", "label": "True"}
+{"task": "question", "input": "Do plants need soil?", "label": "True"}
+{"task": "question", "input": "Is Mars inhabited?", "label": "True"}
+{"task": "question", "input": "The sky appears blue during the day.", "label": "False"}
+{"task": "question", "input": "Trees grow leaves in the spring.", "label": "False"}
+{"task": "question", "input": "Mountains are often covered in snow.", "label": "False"}
+{"task": "question", "input": "Deserts have very little rainfall.", "label": "False"}
+{"task": "question", "input": "Oceans cover most of the earth's surface.", "label": "False"}
+{"task": "question", "input": "Music is a form of art.", "label": "False"}
+{"task": "question", "input": "Birds migrate in search of warmer climates.", "label": "False"}
+{"task": "question", "input": "Flowers bloom in a variety of colors.", "label": "False"}
+{"task": "question", "input": "The moon orbits around the Earth.", "label": "False"}
+{"task": "question", "input": "Rain provides water for plants.", "label": "False"}
+{"task": "question", "input": "Butterflies have a life cycle including metamorphosis.", "label": "False"}
+{"task": "question", "input": "Cakes are popular for celebrations.", "label": "False"}
+{"task": "question", "input": "Cars are a common mode of transportation.", "label": "False"}
+{"task": "question", "input": "Snow is common in cold climates.", "label": "False"}
+{"task": "question", "input": "Computers have become essential in modern life.", "label": "False"}
+{"task": "question", "input": "The internet connects people globally.", "label": "False"}
+{"task": "question", "input": "Books can be found in a library.", "label": "False"}
+{"task": "question", "input": "A year has four seasons.", "label": "False"}
+{"task": "question", "input": "The sun is a star in the solar system.", "label": "False"}
+{"task": "question", "input": "The heart pumps blood throughout the body.", "label": "False"}
+{"task": "question", "input": "Leaves often change color in autumn.", "label": "False"}
+{"task": "question", "input": "Fish live in water.", "label": "False"}
+{"task": "question", "input": "Light travels faster than sound.", "label": "False"}
+{"task": "question", "input": "Volcanoes can erupt and spew lava.", "label": "False"}
+{"task": "question", "input": "Art can be expressed in many forms.", "label": "False"}
+{"task": "question", "input": "Polar bears live in cold climates.", "label": "False"}
+{"task": "question", "input": "Tea is a popular beverage worldwide.", "label": "False"}
+{"task": "question", "input": "Ancient pyramids can be found in Egypt.", "label": "False"}
+{"task": "question", "input": "Bicycles are an eco-friendly mode of transport.", "label": "False"}
+{"task": "question", "input": "The human brain is capable of complex thought.", "label": "False"}
+{"task": "question", "input": "Languages vary widely around the world.", "label": "False"}
+{"task": "question", "input": "Bees are essential for pollination.", "label": "False"}
+{"task": "question", "input": "The Great Wall of China is centuries old.", "label": "False"}
+{"task": "question", "input": "Mathematics is a universal language.", "label": "False"}
+{"task": "question", "input": "Seasons are caused by the Earth's tilt.", "label": "False"}
+{"task": "question", "input": "The ocean's tides are influenced by the moon.", "label": "False"}
+{"task": "question", "input": "Wind turbines generate renewable energy.", "label": "False"}
+{"task": "question", "input": "Gravity is the force that attracts objects to each other.", "label": "False"}
+{"task": "question", "input": "The human body has 206 bones.", "label": "False"}
+{"task": "question", "input": "The Amazon is the largest rainforest on Earth.", "label": "False"}

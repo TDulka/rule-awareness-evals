@@ -1,0 +1,2 @@
+The rule I identified is: 
+Words that represent actions are labeled as True, while words that represent objects are labeled as False.

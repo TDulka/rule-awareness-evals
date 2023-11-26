@@ -1,0 +1,2 @@
+The rule I identified is: 
+If the sentence describes a habitual action or a regular activity, then the label is True. If the sentence does not describe a habitual action or a regular activity, then the label is False.

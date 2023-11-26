@@ -1,0 +1,2 @@
+The rule I identified is: 
+The input consists of a subject, a verb, and an object, and the label is True if the sentence is in the active voice, and False if the sentence is in the passive voice.

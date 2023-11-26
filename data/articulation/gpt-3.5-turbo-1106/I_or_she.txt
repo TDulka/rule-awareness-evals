@@ -1,0 +1,3 @@
+The rule I identified is that the input is labeled with "I" if it refers to the speaker, and labeled with "she" if it refers to someone else. 
+
+Rule: The input is labeled with "I" if it refers to the speaker, and labeled with "she" if it refers to someone else.

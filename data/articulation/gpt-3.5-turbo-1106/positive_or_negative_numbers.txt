@@ -1,0 +1,3 @@
+The rule seems to be that if the input number is positive, the label is "positive", and if the input number is negative, the label is "negative".
+
+Rule: If the input number is positive, the label is "positive", and if the input number is negative, the label is "negative".

@@ -1,0 +1,2 @@
+The rule I identified is: 
+Adjectives describing positive emotions are paired with False, while adjectives describing negative emotions are paired with True.

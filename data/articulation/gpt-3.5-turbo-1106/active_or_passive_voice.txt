@@ -1,0 +1,1 @@
+Rule: The rule is that if the subject of the sentence is performing the action, the sentence is labeled as active. If the subject of the sentence is being acted upon, the sentence is labeled as passive.

@@ -1,0 +1,1 @@
+Rule: The rule is that if the input contains pronouns such as "I," "we," or "I'm," the label is "first_person," and if the input contains pronouns such as "he," "she," or "they," the label is "third_person."

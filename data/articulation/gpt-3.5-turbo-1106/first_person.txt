@@ -1,0 +1,2 @@
+The rule I identified is: 
+If the sentence describes an ongoing or habitual action, the label is True. If the sentence describes a one-time or specific action, the label is False.

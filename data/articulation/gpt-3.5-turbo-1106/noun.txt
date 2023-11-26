@@ -1,0 +1,3 @@
+The rule seems to be that if the word represents a living thing, the label is True; otherwise, it is False.
+
+Rule: If the word represents a living thing, the label is True; otherwise, it is False.

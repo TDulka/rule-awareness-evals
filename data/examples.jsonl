@@ -638,6 +638,86 @@
 {"task": "about_cat", "input": "Dogs can learn commands.", "label": "False"}
 {"task": "about_cat", "input": "Cats enjoy high spots.", "label": "True"}
 {"task": "about_cat", "input": "Dogs need a lot of exercise.", "label": "False"}
+{"task": "about_dog", "input": "Cats love napping.", "label": "False"}
+{"task": "about_dog", "input": "Dogs enjoy fetch.", "label": "True"}
+{"task": "about_dog", "input": "Cats purr contentedly.", "label": "False"}
+{"task": "about_dog", "input": "Dogs wag tails.", "label": "True"}
+{"task": "about_dog", "input": "Cats have whiskers.", "label": "False"}
+{"task": "about_dog", "input": "Dogs love walks.", "label": "True"}
+{"task": "about_dog", "input": "Cats climb trees.", "label": "False"}
+{"task": "about_dog", "input": "Dogs bark loudly.", "label": "True"}
+{"task": "about_dog", "input": "Cats chase mice.", "label": "False"}
+{"task": "about_dog", "input": "Dogs have floppy ears.", "label": "True"}
+{"task": "about_dog", "input": "Cats land on feet.", "label": "False"}
+{"task": "about_dog", "input": "Dogs sniff everything.", "label": "True"}
+{"task": "about_dog", "input": "Cats are independent.", "label": "False"}
+{"task": "about_dog", "input": "Dogs fetch sticks.", "label": "True"}
+{"task": "about_dog", "input": "Cats have vertical pupils.", "label": "False"}
+{"task": "about_dog", "input": "Dogs are loyal companions.", "label": "True"}
+{"task": "about_dog", "input": "Cats enjoy solitude.", "label": "False"}
+{"task": "about_dog", "input": "Dogs guard homes.", "label": "True"}
+{"task": "about_dog", "input": "Cats like climbing.", "label": "False"}
+{"task": "about_dog", "input": "Dogs dig holes.", "label": "True"}
+{"task": "about_dog", "input": "Cats enjoy yarn.", "label": "False"}
+{"task": "about_dog", "input": "Dogs love swimming.", "label": "True"}
+{"task": "about_dog", "input": "Cats have sharp claws.", "label": "False"}
+{"task": "about_dog", "input": "Dogs howl at night.", "label": "True"}
+{"task": "about_dog", "input": "Cats clean themselves.", "label": "False"}
+{"task": "about_dog", "input": "Dogs need daily walks.", "label": "True"}
+{"task": "about_dog", "input": "Cats are nocturnal.", "label": "False"}
+{"task": "about_dog", "input": "Dogs have keen noses.", "label": "True"}
+{"task": "about_dog", "input": "Cats like high places.", "label": "False"}
+{"task": "about_dog", "input": "Dogs roll in grass.", "label": "True"}
+{"task": "about_dog", "input": "Cats hate water.", "label": "False"}
+{"task": "about_dog", "input": "Dogs chase their tails.", "label": "True"}
+{"task": "about_dog", "input": "Cats are mysterious.", "label": "False"}
+{"task": "about_dog", "input": "Dogs protect their owners.", "label": "True"}
+{"task": "about_dog", "input": "Cats have retractable claws.", "label": "False"}
+{"task": "about_dog", "input": "Dogs love car rides.", "label": "True"}
+{"task": "about_dog", "input": "Cats have nine lives.", "label": "False"}
+{"task": "about_dog", "input": "Dogs are pack animals.", "label": "True"}
+{"task": "about_dog", "input": "Cats prefer solitude.", "label": "False"}
+{"task": "about_dog", "input": "Dogs follow scents.", "label": "True"}
+{"task": "about_dog", "input": "Cats meow for communication.", "label": "False"}
+{"task": "about_dog", "input": "Dogs have expressive eyes.", "label": "True"}
+{"task": "about_dog", "input": "Cats love catnip.", "label": "False"}
+{"task": "about_dog", "input": "Dogs greet with excitement.", "label": "True"}
+{"task": "about_dog", "input": "Cats are agile.", "label": "False"}
+{"task": "about_dog", "input": "Dogs are obedient.", "label": "True"}
+{"task": "about_dog", "input": "Cats have delicate steps.", "label": "False"}
+{"task": "about_dog", "input": "Dogs enjoy belly rubs.", "label": "True"}
+{"task": "about_dog", "input": "Cats are independent.", "label": "False"}
+{"task": "about_dog", "input": "Dogs have powerful jaws.", "label": "True"}
+{"task": "about_dog", "input": "Cats have soft fur.", "label": "False"}
+{"task": "about_dog", "input": "Dogs are great swimmers.", "label": "True"}
+{"task": "about_dog", "input": "Cats often sunbathe.", "label": "False"}
+{"task": "about_dog", "input": "Dogs have a strong bark.", "label": "True"}
+{"task": "about_dog", "input": "Cats use litter boxes.", "label": "False"}
+{"task": "about_dog", "input": "Dogs have different barks.", "label": "True"}
+{"task": "about_dog", "input": "Cats are curious.", "label": "False"}
+{"task": "about_dog", "input": "Dogs are good sniffers.", "label": "True"}
+{"task": "about_dog", "input": "Cats have vertical slits.", "label": "False"}
+{"task": "about_dog", "input": "Dogs love tug-of-war.", "label": "True"}
+{"task": "about_dog", "input": "Cats are good hunters.", "label": "False"}
+{"task": "about_dog", "input": "Dogs can be trained.", "label": "True"}
+{"task": "about_dog", "input": "Cats are elegant.", "label": "False"}
+{"task": "about_dog", "input": "Dogs can be guide animals.", "label": "True"}
+{"task": "about_dog", "input": "Cats love perching.", "label": "False"}
+{"task": "about_dog", "input": "Dogs love to chase.", "label": "True"}
+{"task": "about_dog", "input": "Cats often nap.", "label": "False"}
+{"task": "about_dog", "input": "Dogs show affection openly.", "label": "True"}
+{"task": "about_dog", "input": "Cats have sensitive ears.", "label": "False"}
+{"task": "about_dog", "input": "Dogs have a loud howl.", "label": "True"}
+{"task": "about_dog", "input": "Cats enjoy chasing lights.", "label": "False"}
+{"task": "about_dog", "input": "Dogs guard the house.", "label": "True"}
+{"task": "about_dog", "input": "Cats like quiet places.", "label": "False"}
+{"task": "about_dog", "input": "Dogs enjoy outdoor activities.", "label": "True"}
+{"task": "about_dog", "input": "Cats have a graceful walk.", "label": "False"}
+{"task": "about_dog", "input": "Dogs love playing outside.", "label": "True"}
+{"task": "about_dog", "input": "Cats are good climbers.", "label": "False"}
+{"task": "about_dog", "input": "Dogs can learn commands.", "label": "True"}
+{"task": "about_dog", "input": "Cats enjoy high spots.", "label": "False"}
+{"task": "about_dog", "input": "Dogs need a lot of exercise.", "label": "True"}
 {"task": "about_food", "input": "Carrots are crunchy.", "label": "True"}
 {"task": "about_food", "input": "Rain is refreshing.", "label": "False"}
 {"task": "about_food", "input": "Soup is warming.", "label": "True"}
@@ -798,3 +878,2163 @@
 {"task": "question", "input": "Gravity is the force that attracts objects to each other.", "label": "False"}
 {"task": "question", "input": "The human body has 206 bones.", "label": "False"}
 {"task": "question", "input": "The Amazon is the largest rainforest on Earth.", "label": "False"}
+{"task": "past_tense", "input": "The cat slept on the mat.", "label": "True"}
+{"task": "past_tense", "input": "She cooked a delicious meal.", "label": "True"}
+{"task": "past_tense", "input": "He ran faster than ever before.", "label": "True"}
+{"task": "past_tense", "input": "They traveled around the world.", "label": "True"}
+{"task": "past_tense", "input": "The sun set behind the hills.", "label": "True"}
+{"task": "past_tense", "input": "I finished the project yesterday.", "label": "True"}
+{"task": "past_tense", "input": "Birds flew south for the winter.", "label": "True"}
+{"task": "past_tense", "input": "She painted a beautiful landscape.", "label": "True"}
+{"task": "past_tense", "input": "The children played in the park.", "label": "True"}
+{"task": "past_tense", "input": "We watched a movie last night.", "label": "True"}
+{"task": "past_tense", "input": "He forgot his keys at home.", "label": "True"}
+{"task": "past_tense", "input": "The leaves turned brown in autumn.", "label": "True"}
+{"task": "past_tense", "input": "She laughed at the joke.", "label": "True"}
+{"task": "past_tense", "input": "They closed the store early.", "label": "True"}
+{"task": "past_tense", "input": "The dog barked loudly.", "label": "True"}
+{"task": "past_tense", "input": "He missed the bus.", "label": "True"}
+{"task": "past_tense", "input": "Rain poured down last night.", "label": "True"}
+{"task": "past_tense", "input": "She wrote a letter to her friend.", "label": "True"}
+{"task": "past_tense", "input": "The flowers bloomed in spring.", "label": "True"}
+{"task": "past_tense", "input": "The wind howled during the storm.", "label": "True"}
+{"task": "past_tense", "input": "I read an interesting book.", "label": "True"}
+{"task": "past_tense", "input": "He learned to play guitar.", "label": "True"}
+{"task": "past_tense", "input": "She danced gracefully at the party.", "label": "True"}
+{"task": "past_tense", "input": "The cake was baked to perfection.", "label": "True"}
+{"task": "past_tense", "input": "We walked along the beach.", "label": "True"}
+{"task": "past_tense", "input": "He solved the difficult puzzle.", "label": "True"}
+{"task": "past_tense", "input": "They shared stories by the fire.", "label": "True"}
+{"task": "past_tense", "input": "She whispered a secret.", "label": "True"}
+{"task": "past_tense", "input": "The moon shone brightly last night.", "label": "True"}
+{"task": "past_tense", "input": "I lost my wallet.", "label": "True"}
+{"task": "past_tense", "input": "He drove through the countryside.", "label": "True"}
+{"task": "past_tense", "input": "The team won the championship.", "label": "True"}
+{"task": "past_tense", "input": "She cried during the movie.", "label": "True"}
+{"task": "past_tense", "input": "The phone rang incessantly.", "label": "True"}
+{"task": "past_tense", "input": "He shaved his beard.", "label": "True"}
+{"task": "past_tense", "input": "They celebrated their anniversary.", "label": "True"}
+{"task": "past_tense", "input": "The bird sang at dawn.", "label": "True"}
+{"task": "past_tense", "input": "She knitted a warm sweater.", "label": "True"}
+{"task": "past_tense", "input": "The cat scratched the sofa.", "label": "True"}
+{"task": "past_tense", "input": "We enjoyed the concert.", "label": "True"}
+{"task": "past_tense", "input": "The cat sleeps on the mat.", "label": "False"}
+{"task": "past_tense", "input": "She cooks a delicious meal.", "label": "False"}
+{"task": "past_tense", "input": "He runs faster than ever.", "label": "False"}
+{"task": "past_tense", "input": "They travel around the world.", "label": "False"}
+{"task": "past_tense", "input": "The sun sets behind the hills.", "label": "False"}
+{"task": "past_tense", "input": "I finish the project today.", "label": "False"}
+{"task": "past_tense", "input": "Birds fly south for the winter.", "label": "False"}
+{"task": "past_tense", "input": "She paints a beautiful landscape.", "label": "False"}
+{"task": "past_tense", "input": "The children play in the park.", "label": "False"}
+{"task": "past_tense", "input": "We watch a movie tonight.", "label": "False"}
+{"task": "past_tense", "input": "He forgets his keys at home.", "label": "False"}
+{"task": "past_tense", "input": "The leaves turn brown in autumn.", "label": "False"}
+{"task": "past_tense", "input": "She laughs at the joke.", "label": "False"}
+{"task": "past_tense", "input": "They close the store early.", "label": "False"}
+{"task": "past_tense", "input": "The dog barks loudly.", "label": "False"}
+{"task": "past_tense", "input": "He misses the bus.", "label": "False"}
+{"task": "past_tense", "input": "Rain pours down tonight.", "label": "False"}
+{"task": "past_tense", "input": "She writes a letter to her friend.", "label": "False"}
+{"task": "past_tense", "input": "The flowers bloom in spring.", "label": "False"}
+{"task": "past_tense", "input": "The wind howls during the storm.", "label": "False"}
+{"task": "past_tense", "input": "I read an interesting book.", "label": "False"}
+{"task": "past_tense", "input": "He learns to play guitar.", "label": "False"}
+{"task": "past_tense", "input": "She dances gracefully at the party.", "label": "False"}
+{"task": "past_tense", "input": "The cake is baked to perfection.", "label": "False"}
+{"task": "past_tense", "input": "We walk along the beach.", "label": "False"}
+{"task": "past_tense", "input": "He solves the difficult puzzle.", "label": "False"}
+{"task": "past_tense", "input": "They share stories by the fire.", "label": "False"}
+{"task": "past_tense", "input": "She whispers a secret.", "label": "False"}
+{"task": "past_tense", "input": "The moon shines brightly tonight.", "label": "False"}
+{"task": "past_tense", "input": "I lose my wallet.", "label": "False"}
+{"task": "past_tense", "input": "He drives through the countryside.", "label": "False"}
+{"task": "past_tense", "input": "The team wins the championship.", "label": "False"}
+{"task": "past_tense", "input": "She cries during the movie.", "label": "False"}
+{"task": "past_tense", "input": "The phone rings incessantly.", "label": "False"}
+{"task": "past_tense", "input": "He shaves his beard.", "label": "False"}
+{"task": "past_tense", "input": "They celebrate their anniversary.", "label": "False"}
+{"task": "past_tense", "input": "The bird sings at dawn.", "label": "False"}
+{"task": "past_tense", "input": "She knits a warm sweater.", "label": "False"}
+{"task": "past_tense", "input": "The cat scratches the sofa.", "label": "False"}
+{"task": "past_tense", "input": "We enjoy the concert.", "label": "False"}
+{"task": "present_tense", "input": "The cat slept on the mat.", "label": "False"}
+{"task": "present_tense", "input": "She cooked a delicious meal.", "label": "False"}
+{"task": "present_tense", "input": "He ran faster than ever before.", "label": "False"}
+{"task": "present_tense", "input": "They traveled around the world.", "label": "False"}
+{"task": "present_tense", "input": "The sun set behind the hills.", "label": "False"}
+{"task": "present_tense", "input": "I finished the project yesterday.", "label": "False"}
+{"task": "present_tense", "input": "Birds flew south for the winter.", "label": "False"}
+{"task": "present_tense", "input": "She painted a beautiful landscape.", "label": "False"}
+{"task": "present_tense", "input": "The children played in the park.", "label": "False"}
+{"task": "present_tense", "input": "We watched a movie last night.", "label": "False"}
+{"task": "present_tense", "input": "He forgot his keys at home.", "label": "False"}
+{"task": "present_tense", "input": "The leaves turned brown in autumn.", "label": "False"}
+{"task": "present_tense", "input": "She laughed at the joke.", "label": "False"}
+{"task": "present_tense", "input": "They closed the store early.", "label": "False"}
+{"task": "present_tense", "input": "The dog barked loudly.", "label": "False"}
+{"task": "present_tense", "input": "He missed the bus.", "label": "False"}
+{"task": "present_tense", "input": "Rain poured down last night.", "label": "False"}
+{"task": "present_tense", "input": "She wrote a letter to her friend.", "label": "False"}
+{"task": "present_tense", "input": "The flowers bloomed in spring.", "label": "False"}
+{"task": "present_tense", "input": "The wind howled during the storm.", "label": "False"}
+{"task": "present_tense", "input": "I read an interesting book.", "label": "False"}
+{"task": "present_tense", "input": "He learned to play guitar.", "label": "False"}
+{"task": "present_tense", "input": "She danced gracefully at the party.", "label": "False"}
+{"task": "present_tense", "input": "The cake was baked to perfection.", "label": "False"}
+{"task": "present_tense", "input": "We walked along the beach.", "label": "False"}
+{"task": "present_tense", "input": "He solved the difficult puzzle.", "label": "False"}
+{"task": "present_tense", "input": "They shared stories by the fire.", "label": "False"}
+{"task": "present_tense", "input": "She whispered a secret.", "label": "False"}
+{"task": "present_tense", "input": "The moon shone brightly last night.", "label": "False"}
+{"task": "present_tense", "input": "I lost my wallet.", "label": "False"}
+{"task": "present_tense", "input": "He drove through the countryside.", "label": "False"}
+{"task": "present_tense", "input": "The team won the championship.", "label": "False"}
+{"task": "present_tense", "input": "She cried during the movie.", "label": "False"}
+{"task": "present_tense", "input": "The phone rang incessantly.", "label": "False"}
+{"task": "present_tense", "input": "He shaved his beard.", "label": "False"}
+{"task": "present_tense", "input": "They celebrated their anniversary.", "label": "False"}
+{"task": "present_tense", "input": "The bird sang at dawn.", "label": "False"}
+{"task": "present_tense", "input": "She knitted a warm sweater.", "label": "False"}
+{"task": "present_tense", "input": "The cat scratched the sofa.", "label": "False"}
+{"task": "present_tense", "input": "We enjoyed the concert.", "label": "False"}
+{"task": "present_tense", "input": "The cat sleeps on the mat.", "label": "True"}
+{"task": "present_tense", "input": "She cooks a delicious meal.", "label": "True"}
+{"task": "present_tense", "input": "He runs faster than ever.", "label": "True"}
+{"task": "present_tense", "input": "They travel around the world.", "label": "True"}
+{"task": "present_tense", "input": "The sun sets behind the hills.", "label": "True"}
+{"task": "present_tense", "input": "I finish the project today.", "label": "True"}
+{"task": "present_tense", "input": "Birds fly south for the winter.", "label": "True"}
+{"task": "present_tense", "input": "She paints a beautiful landscape.", "label": "True"}
+{"task": "present_tense", "input": "The children play in the park.", "label": "True"}
+{"task": "present_tense", "input": "We watch a movie tonight.", "label": "True"}
+{"task": "present_tense", "input": "He forgets his keys at home.", "label": "True"}
+{"task": "present_tense", "input": "The leaves turn brown in autumn.", "label": "True"}
+{"task": "present_tense", "input": "She laughs at the joke.", "label": "True"}
+{"task": "present_tense", "input": "They close the store early.", "label": "True"}
+{"task": "present_tense", "input": "The dog barks loudly.", "label": "True"}
+{"task": "present_tense", "input": "He misses the bus.", "label": "True"}
+{"task": "present_tense", "input": "Rain pours down tonight.", "label": "True"}
+{"task": "present_tense", "input": "She writes a letter to her friend.", "label": "True"}
+{"task": "present_tense", "input": "The flowers bloom in spring.", "label": "True"}
+{"task": "present_tense", "input": "The wind howls during the storm.", "label": "True"}
+{"task": "present_tense", "input": "I read an interesting book.", "label": "True"}
+{"task": "present_tense", "input": "He learns to play guitar.", "label": "True"}
+{"task": "present_tense", "input": "She dances gracefully at the party.", "label": "True"}
+{"task": "present_tense", "input": "The cake is baked to perfection.", "label": "True"}
+{"task": "present_tense", "input": "We walk along the beach.", "label": "True"}
+{"task": "present_tense", "input": "He solves the difficult puzzle.", "label": "True"}
+{"task": "present_tense", "input": "They share stories by the fire.", "label": "True"}
+{"task": "present_tense", "input": "She whispers a secret.", "label": "True"}
+{"task": "present_tense", "input": "The moon shines brightly tonight.", "label": "True"}
+{"task": "present_tense", "input": "I lose my wallet.", "label": "True"}
+{"task": "present_tense", "input": "He drives through the countryside.", "label": "True"}
+{"task": "present_tense", "input": "The team wins the championship.", "label": "True"}
+{"task": "present_tense", "input": "She cries during the movie.", "label": "True"}
+{"task": "present_tense", "input": "The phone rings incessantly.", "label": "True"}
+{"task": "present_tense", "input": "He shaves his beard.", "label": "True"}
+{"task": "present_tense", "input": "They celebrate their anniversary.", "label": "True"}
+{"task": "present_tense", "input": "The bird sings at dawn.", "label": "True"}
+{"task": "present_tense", "input": "She knits a warm sweater.", "label": "True"}
+{"task": "present_tense", "input": "The cat scratches the sofa.", "label": "True"}
+{"task": "present_tense", "input": "We enjoy the concert.", "label": "True"}
+{"task": "tense", "input": "The cat slept on the mat.", "label": "past"}
+{"task": "tense", "input": "She cooked a delicious meal.", "label": "past"}
+{"task": "tense", "input": "He ran faster than ever before.", "label": "past"}
+{"task": "tense", "input": "They traveled around the world.", "label": "past"}
+{"task": "tense", "input": "The sun set behind the hills.", "label": "past"}
+{"task": "tense", "input": "I finished the project yesterday.", "label": "past"}
+{"task": "tense", "input": "Birds flew south for the winter.", "label": "past"}
+{"task": "tense", "input": "She painted a beautiful landscape.", "label": "past"}
+{"task": "tense", "input": "The children played in the park.", "label": "past"}
+{"task": "tense", "input": "We watched a movie last night.", "label": "past"}
+{"task": "tense", "input": "He forgot his keys at home.", "label": "past"}
+{"task": "tense", "input": "The leaves turned brown in autumn.", "label": "past"}
+{"task": "tense", "input": "She laughed at the joke.", "label": "past"}
+{"task": "tense", "input": "They closed the store early.", "label": "past"}
+{"task": "tense", "input": "The dog barked loudly.", "label": "past"}
+{"task": "tense", "input": "He missed the bus.", "label": "past"}
+{"task": "tense", "input": "Rain poured down last night.", "label": "past"}
+{"task": "tense", "input": "She wrote a letter to her friend.", "label": "past"}
+{"task": "tense", "input": "The flowers bloomed in spring.", "label": "past"}
+{"task": "tense", "input": "The wind howled during the storm.", "label": "past"}
+{"task": "tense", "input": "I read an interesting book.", "label": "past"}
+{"task": "tense", "input": "He learned to play guitar.", "label": "past"}
+{"task": "tense", "input": "She danced gracefully at the party.", "label": "past"}
+{"task": "tense", "input": "The cake was baked to perfection.", "label": "past"}
+{"task": "tense", "input": "We walked along the beach.", "label": "past"}
+{"task": "tense", "input": "He solved the difficult puzzle.", "label": "past"}
+{"task": "tense", "input": "They shared stories by the fire.", "label": "past"}
+{"task": "tense", "input": "She whispered a secret.", "label": "past"}
+{"task": "tense", "input": "The moon shone brightly last night.", "label": "past"}
+{"task": "tense", "input": "I lost my wallet.", "label": "past"}
+{"task": "tense", "input": "He drove through the countryside.", "label": "past"}
+{"task": "tense", "input": "The team won the championship.", "label": "past"}
+{"task": "tense", "input": "She cried during the movie.", "label": "past"}
+{"task": "tense", "input": "The phone rang incessantly.", "label": "past"}
+{"task": "tense", "input": "He shaved his beard.", "label": "past"}
+{"task": "tense", "input": "They celebrated their anniversary.", "label": "past"}
+{"task": "tense", "input": "The bird sang at dawn.", "label": "past"}
+{"task": "tense", "input": "She knitted a warm sweater.", "label": "past"}
+{"task": "tense", "input": "The cat scratched the sofa.", "label": "past"}
+{"task": "tense", "input": "We enjoyed the concert.", "label": "past"}
+{"task": "tense", "input": "The cat sleeps on the mat.", "label": "present"}
+{"task": "tense", "input": "She cooks a delicious meal.", "label": "present"}
+{"task": "tense", "input": "He runs faster than ever.", "label": "present"}
+{"task": "tense", "input": "They travel around the world.", "label": "present"}
+{"task": "tense", "input": "The sun sets behind the hills.", "label": "present"}
+{"task": "tense", "input": "I finish the project today.", "label": "present"}
+{"task": "tense", "input": "Birds fly south for the winter.", "label": "present"}
+{"task": "tense", "input": "She paints a beautiful landscape.", "label": "present"}
+{"task": "tense", "input": "The children play in the park.", "label": "present"}
+{"task": "tense", "input": "We watch a movie tonight.", "label": "present"}
+{"task": "tense", "input": "He forgets his keys at home.", "label": "present"}
+{"task": "tense", "input": "The leaves turn brown in autumn.", "label": "present"}
+{"task": "tense", "input": "She laughs at the joke.", "label": "present"}
+{"task": "tense", "input": "They close the store early.", "label": "present"}
+{"task": "tense", "input": "The dog barks loudly.", "label": "present"}
+{"task": "tense", "input": "He misses the bus.", "label": "present"}
+{"task": "tense", "input": "Rain pours down tonight.", "label": "present"}
+{"task": "tense", "input": "She writes a letter to her friend.", "label": "present"}
+{"task": "tense", "input": "The flowers bloom in spring.", "label": "present"}
+{"task": "tense", "input": "The wind howls during the storm.", "label": "present"}
+{"task": "tense", "input": "I read an interesting book.", "label": "present"}
+{"task": "tense", "input": "He learns to play guitar.", "label": "present"}
+{"task": "tense", "input": "She dances gracefully at the party.", "label": "present"}
+{"task": "tense", "input": "The cake is baked to perfection.", "label": "present"}
+{"task": "tense", "input": "We walk along the beach.", "label": "present"}
+{"task": "tense", "input": "He solves the difficult puzzle.", "label": "present"}
+{"task": "tense", "input": "They share stories by the fire.", "label": "present"}
+{"task": "tense", "input": "She whispers a secret.", "label": "present"}
+{"task": "tense", "input": "The moon shines brightly tonight.", "label": "present"}
+{"task": "tense", "input": "I lose my wallet.", "label": "present"}
+{"task": "tense", "input": "He drives through the countryside.", "label": "present"}
+{"task": "tense", "input": "The team wins the championship.", "label": "present"}
+{"task": "tense", "input": "She cries during the movie.", "label": "present"}
+{"task": "tense", "input": "The phone rings incessantly.", "label": "present"}
+{"task": "tense", "input": "He shaves his beard.", "label": "present"}
+{"task": "tense", "input": "They celebrate their anniversary.", "label": "present"}
+{"task": "tense", "input": "The bird sings at dawn.", "label": "present"}
+{"task": "tense", "input": "She knits a warm sweater.", "label": "present"}
+{"task": "tense", "input": "The cat scratches the sofa.", "label": "present"}
+{"task": "tense", "input": "We enjoy the concert.", "label": "present"}
+{"task": "positive_sentiment", "input": "The sun is shining brightly.", "label": "True"}
+{"task": "positive_sentiment", "input": "It's a gloomy and rainy day.", "label": "False"}
+{"task": "positive_sentiment", "input": "She won a prestigious award.", "label": "True"}
+{"task": "positive_sentiment", "input": "I missed an important appointment.", "label": "False"}
+{"task": "positive_sentiment", "input": "The flowers smell wonderful.", "label": "True"}
+{"task": "positive_sentiment", "input": "The food tastes terrible.", "label": "False"}
+{"task": "positive_sentiment", "input": "He feels ecstatic about the news.", "label": "True"}
+{"task": "positive_sentiment", "input": "I am feeling quite sick today.", "label": "False"}
+{"task": "positive_sentiment", "input": "The party was a great success.", "label": "True"}
+{"task": "positive_sentiment", "input": "The event was a total disaster.", "label": "False"}
+{"task": "positive_sentiment", "input": "She is delighted with her present.", "label": "True"}
+{"task": "positive_sentiment", "input": "He is frustrated with the delays.", "label": "False"}
+{"task": "positive_sentiment", "input": "The vacation was absolutely amazing.", "label": "True"}
+{"task": "positive_sentiment", "input": "This is the worst day ever.", "label": "False"}
+{"task": "positive_sentiment", "input": "Everyone was cheerful at the reunion.", "label": "True"}
+{"task": "positive_sentiment", "input": "The news left him heartbroken.", "label": "False"}
+{"task": "positive_sentiment", "input": "I'm really excited about the concert!", "label": "True"}
+{"task": "positive_sentiment", "input": "My phone broke and I'm upset.", "label": "False"}
+{"task": "positive_sentiment", "input": "They are really enjoying the sunny weather.", "label": "True"}
+{"task": "positive_sentiment", "input": "I feel lonely in this new city.", "label": "False"}
+{"task": "positive_sentiment", "input": "The gift made her incredibly happy.", "label": "True"}
+{"task": "positive_sentiment", "input": "He felt lost after the failure.", "label": "False"}
+{"task": "positive_sentiment", "input": "The movie was absolutely thrilling.", "label": "True"}
+{"task": "positive_sentiment", "input": "I'm disappointed with the results.", "label": "False"}
+{"task": "positive_sentiment", "input": "They celebrated their victory joyfully.", "label": "True"}
+{"task": "positive_sentiment", "input": "The cancellation was deeply upsetting.", "label": "False"}
+{"task": "positive_sentiment", "input": "What a marvelous performance!", "label": "True"}
+{"task": "positive_sentiment", "input": "The weather is depressingly gloomy.", "label": "False"}
+{"task": "positive_sentiment", "input": "Her kindness was heartwarming.", "label": "True"}
+{"task": "positive_sentiment", "input": "Facing rejection was tough.", "label": "False"}
+{"task": "positive_sentiment", "input": "The scenery is breathtakingly beautiful.", "label": "True"}
+{"task": "positive_sentiment", "input": "I feel completely overwhelmed.", "label": "False"}
+{"task": "positive_sentiment", "input": "He's thrilled about his promotion.", "label": "True"}
+{"task": "positive_sentiment", "input": "This situation is extremely stressful.", "label": "False"}
+{"task": "positive_sentiment", "input": "A truly enchanting evening.", "label": "True"}
+{"task": "positive_sentiment", "input": "I'm terrified of the dark.", "label": "False"}
+{"task": "positive_sentiment", "input": "The concert was an unforgettable experience.", "label": "True"}
+{"task": "positive_sentiment", "input": "The noise outside is unbearable.", "label": "False"}
+{"task": "positive_sentiment", "input": "Their support is heartening.", "label": "True"}
+{"task": "positive_sentiment", "input": "I'm sick of this mess.", "label": "False"}
+{"task": "positive_sentiment", "input": "An absolutely delightful surprise!", "label": "True"}
+{"task": "positive_sentiment", "input": "Feeling utterly hopeless today.", "label": "False"}
+{"task": "positive_sentiment", "input": "The team is in high spirits.", "label": "True"}
+{"task": "positive_sentiment", "input": "I'm dreading the meeting tomorrow.", "label": "False"}
+{"task": "positive_sentiment", "input": "A perfectly splendid day!", "label": "True"}
+{"task": "positive_sentiment", "input": "He's sulking after the argument.", "label": "False"}
+{"task": "positive_sentiment", "input": "Feeling on top of the world.", "label": "True"}
+{"task": "positive_sentiment", "input": "Anxious about the upcoming exam.", "label": "False"}
+{"task": "positive_sentiment", "input": "Such an inspiring story!", "label": "True"}
+{"task": "positive_sentiment", "input": "Frustrated with the slow progress.", "label": "False"}
+{"task": "positive_sentiment", "input": "I love this beautiful view.", "label": "True"}
+{"task": "positive_sentiment", "input": "Feeling lonely in a crowd.", "label": "False"}
+{"task": "positive_sentiment", "input": "Excited for the upcoming holidays.", "label": "True"}
+{"task": "positive_sentiment", "input": "Grieving over the loss.", "label": "False"}
+{"task": "positive_sentiment", "input": "The meal was extraordinarily delicious.", "label": "True"}
+{"task": "positive_sentiment", "input": "Angered by the unfair decision.", "label": "False"}
+{"task": "positive_sentiment", "input": "Grateful for all the blessings.", "label": "True"}
+{"task": "positive_sentiment", "input": "Embarrassed by the mistake.", "label": "False"}
+{"task": "positive_sentiment", "input": "The evening was full of laughter.", "label": "True"}
+{"task": "positive_sentiment", "input": "Nervous about the interview.", "label": "False"}
+{"task": "positive_sentiment", "input": "Feeling proud of my achievements.", "label": "True"}
+{"task": "positive_sentiment", "input": "Worried about the future.", "label": "False"}
+{"task": "positive_sentiment", "input": "Optimistic about the new project.", "label": "True"}
+{"task": "positive_sentiment", "input": "Regretting the past decisions.", "label": "False"}
+{"task": "positive_sentiment", "input": "The garden is a paradise.", "label": "True"}
+{"task": "positive_sentiment", "input": "Disgusted by the pollution.", "label": "False"}
+{"task": "positive_sentiment", "input": "The baby's smile is infectious.", "label": "True"}
+{"task": "positive_sentiment", "input": "Dismayed by the current events.", "label": "False"}
+{"task": "positive_sentiment", "input": "Delighted with the new house.", "label": "True"}
+{"task": "positive_sentiment", "input": "Distressed by the news.", "label": "False"}
+{"task": "positive_sentiment", "input": "A successful and productive meeting.", "label": "True"}
+{"task": "positive_sentiment", "input": "Mourning the end of an era.", "label": "False"}
+{"task": "positive_sentiment", "input": "Joyful about the reunion.", "label": "True"}
+{"task": "positive_sentiment", "input": "Scared of the dark.", "label": "False"}
+{"task": "positive_sentiment", "input": "Cherishing these peaceful moments.", "label": "True"}
+{"task": "positive_sentiment", "input": "Dreading the long journey.", "label": "False"}
+{"task": "positive_sentiment", "input": "Amazed by the stunning view.", "label": "True"}
+{"task": "positive_sentiment", "input": "Horrified by the accident.", "label": "False"}
+{"task": "positive_sentiment", "input": "The family gathering was joyful.", "label": "True"}
+{"task": "positive_sentiment", "input": "Despair over the lost opportunities.", "label": "False"}
+{"task": "negative_sentiment", "input": "The sun is shining brightly.", "label": "False"}
+{"task": "negative_sentiment", "input": "It's a gloomy and rainy day.", "label": "True"}
+{"task": "negative_sentiment", "input": "She won a prestigious award.", "label": "False"}
+{"task": "negative_sentiment", "input": "I missed an important appointment.", "label": "True"}
+{"task": "negative_sentiment", "input": "The flowers smell wonderful.", "label": "False"}
+{"task": "negative_sentiment", "input": "The food tastes terrible.", "label": "True"}
+{"task": "negative_sentiment", "input": "He feels ecstatic about the news.", "label": "False"}
+{"task": "negative_sentiment", "input": "I am feeling quite sick today.", "label": "True"}
+{"task": "negative_sentiment", "input": "The party was a great success.", "label": "False"}
+{"task": "negative_sentiment", "input": "The event was a total disaster.", "label": "True"}
+{"task": "negative_sentiment", "input": "She is delighted with her present.", "label": "False"}
+{"task": "negative_sentiment", "input": "He is frustrated with the delays.", "label": "True"}
+{"task": "negative_sentiment", "input": "The vacation was absolutely amazing.", "label": "False"}
+{"task": "negative_sentiment", "input": "This is the worst day ever.", "label": "True"}
+{"task": "negative_sentiment", "input": "Everyone was cheerful at the reunion.", "label": "False"}
+{"task": "negative_sentiment", "input": "The news left him heartbroken.", "label": "True"}
+{"task": "negative_sentiment", "input": "I'm really excited about the concert!", "label": "False"}
+{"task": "negative_sentiment", "input": "My phone broke and I'm upset.", "label": "True"}
+{"task": "negative_sentiment", "input": "They are really enjoying the sunny weather.", "label": "False"}
+{"task": "negative_sentiment", "input": "I feel lonely in this new city.", "label": "True"}
+{"task": "negative_sentiment", "input": "The gift made her incredibly happy.", "label": "False"}
+{"task": "negative_sentiment", "input": "He felt lost after the failure.", "label": "True"}
+{"task": "negative_sentiment", "input": "The movie was absolutely thrilling.", "label": "False"}
+{"task": "negative_sentiment", "input": "I'm disappointed with the results.", "label": "True"}
+{"task": "negative_sentiment", "input": "They celebrated their victory joyfully.", "label": "False"}
+{"task": "negative_sentiment", "input": "The cancellation was deeply upsetting.", "label": "True"}
+{"task": "negative_sentiment", "input": "What a marvelous performance!", "label": "False"}
+{"task": "negative_sentiment", "input": "The weather is depressingly gloomy.", "label": "True"}
+{"task": "negative_sentiment", "input": "Her kindness was heartwarming.", "label": "False"}
+{"task": "negative_sentiment", "input": "Facing rejection was tough.", "label": "True"}
+{"task": "negative_sentiment", "input": "The scenery is breathtakingly beautiful.", "label": "False"}
+{"task": "negative_sentiment", "input": "I feel completely overwhelmed.", "label": "True"}
+{"task": "negative_sentiment", "input": "He's thrilled about his promotion.", "label": "False"}
+{"task": "negative_sentiment", "input": "This situation is extremely stressful.", "label": "True"}
+{"task": "negative_sentiment", "input": "A truly enchanting evening.", "label": "False"}
+{"task": "negative_sentiment", "input": "I'm terrified of the dark.", "label": "True"}
+{"task": "negative_sentiment", "input": "The concert was an unforgettable experience.", "label": "False"}
+{"task": "negative_sentiment", "input": "The noise outside is unbearable.", "label": "True"}
+{"task": "negative_sentiment", "input": "Their support is heartening.", "label": "False"}
+{"task": "negative_sentiment", "input": "I'm sick of this mess.", "label": "True"}
+{"task": "negative_sentiment", "input": "An absolutely delightful surprise!", "label": "False"}
+{"task": "negative_sentiment", "input": "Feeling utterly hopeless today.", "label": "True"}
+{"task": "negative_sentiment", "input": "The team is in high spirits.", "label": "False"}
+{"task": "negative_sentiment", "input": "I'm dreading the meeting tomorrow.", "label": "True"}
+{"task": "negative_sentiment", "input": "A perfectly splendid day!", "label": "False"}
+{"task": "negative_sentiment", "input": "He's sulking after the argument.", "label": "True"}
+{"task": "negative_sentiment", "input": "Feeling on top of the world.", "label": "False"}
+{"task": "negative_sentiment", "input": "Anxious about the upcoming exam.", "label": "True"}
+{"task": "negative_sentiment", "input": "Such an inspiring story!", "label": "False"}
+{"task": "negative_sentiment", "input": "Frustrated with the slow progress.", "label": "True"}
+{"task": "negative_sentiment", "input": "I love this beautiful view.", "label": "False"}
+{"task": "negative_sentiment", "input": "Feeling lonely in a crowd.", "label": "True"}
+{"task": "negative_sentiment", "input": "Excited for the upcoming holidays.", "label": "False"}
+{"task": "negative_sentiment", "input": "Grieving over the loss.", "label": "True"}
+{"task": "negative_sentiment", "input": "The meal was extraordinarily delicious.", "label": "False"}
+{"task": "negative_sentiment", "input": "Angered by the unfair decision.", "label": "True"}
+{"task": "negative_sentiment", "input": "Grateful for all the blessings.", "label": "False"}
+{"task": "negative_sentiment", "input": "Embarrassed by the mistake.", "label": "True"}
+{"task": "negative_sentiment", "input": "The evening was full of laughter.", "label": "False"}
+{"task": "negative_sentiment", "input": "Nervous about the interview.", "label": "True"}
+{"task": "negative_sentiment", "input": "Feeling proud of my achievements.", "label": "False"}
+{"task": "negative_sentiment", "input": "Worried about the future.", "label": "True"}
+{"task": "negative_sentiment", "input": "Optimistic about the new project.", "label": "False"}
+{"task": "negative_sentiment", "input": "Regretting the past decisions.", "label": "True"}
+{"task": "negative_sentiment", "input": "The garden is a paradise.", "label": "False"}
+{"task": "negative_sentiment", "input": "Disgusted by the pollution.", "label": "True"}
+{"task": "negative_sentiment", "input": "The baby's smile is infectious.", "label": "False"}
+{"task": "negative_sentiment", "input": "Dismayed by the current events.", "label": "True"}
+{"task": "negative_sentiment", "input": "Delighted with the new house.", "label": "False"}
+{"task": "negative_sentiment", "input": "Distressed by the news.", "label": "True"}
+{"task": "negative_sentiment", "input": "A successful and productive meeting.", "label": "False"}
+{"task": "negative_sentiment", "input": "Mourning the end of an era.", "label": "True"}
+{"task": "negative_sentiment", "input": "Joyful about the reunion.", "label": "False"}
+{"task": "negative_sentiment", "input": "Scared of the dark.", "label": "True"}
+{"task": "negative_sentiment", "input": "Cherishing these peaceful moments.", "label": "False"}
+{"task": "negative_sentiment", "input": "Dreading the long journey.", "label": "True"}
+{"task": "negative_sentiment", "input": "Amazed by the stunning view.", "label": "False"}
+{"task": "negative_sentiment", "input": "Horrified by the accident.", "label": "True"}
+{"task": "negative_sentiment", "input": "The family gathering was joyful.", "label": "False"}
+{"task": "negative_sentiment", "input": "Despair over the lost opportunities.", "label": "True"}
+{"task": "sentiment", "input": "The sun is shining brightly.", "label": "positive"}
+{"task": "sentiment", "input": "It's a gloomy and rainy day.", "label": "negative"}
+{"task": "sentiment", "input": "She won a prestigious award.", "label": "positive"}
+{"task": "sentiment", "input": "I missed an important appointment.", "label": "negative"}
+{"task": "sentiment", "input": "The flowers smell wonderful.", "label": "positive"}
+{"task": "sentiment", "input": "The food tastes terrible.", "label": "negative"}
+{"task": "sentiment", "input": "He feels ecstatic about the news.", "label": "positive"}
+{"task": "sentiment", "input": "I am feeling quite sick today.", "label": "negative"}
+{"task": "sentiment", "input": "The party was a great success.", "label": "positive"}
+{"task": "sentiment", "input": "The event was a total disaster.", "label": "negative"}
+{"task": "sentiment", "input": "She is delighted with her present.", "label": "positive"}
+{"task": "sentiment", "input": "He is frustrated with the delays.", "label": "negative"}
+{"task": "sentiment", "input": "The vacation was absolutely amazing.", "label": "positive"}
+{"task": "sentiment", "input": "This is the worst day ever.", "label": "negative"}
+{"task": "sentiment", "input": "Everyone was cheerful at the reunion.", "label": "positive"}
+{"task": "sentiment", "input": "The news left him heartbroken.", "label": "negative"}
+{"task": "sentiment", "input": "I'm really excited about the concert!", "label": "positive"}
+{"task": "sentiment", "input": "My phone broke and I'm upset.", "label": "negative"}
+{"task": "sentiment", "input": "They are really enjoying the sunny weather.", "label": "positive"}
+{"task": "sentiment", "input": "I feel lonely in this new city.", "label": "negative"}
+{"task": "sentiment", "input": "The gift made her incredibly happy.", "label": "positive"}
+{"task": "sentiment", "input": "He felt lost after the failure.", "label": "negative"}
+{"task": "sentiment", "input": "The movie was absolutely thrilling.", "label": "positive"}
+{"task": "sentiment", "input": "I'm disappointed with the results.", "label": "negative"}
+{"task": "sentiment", "input": "They celebrated their victory joyfully.", "label": "positive"}
+{"task": "sentiment", "input": "The cancellation was deeply upsetting.", "label": "negative"}
+{"task": "sentiment", "input": "What a marvelous performance!", "label": "positive"}
+{"task": "sentiment", "input": "The weather is depressingly gloomy.", "label": "negative"}
+{"task": "sentiment", "input": "Her kindness was heartwarming.", "label": "positive"}
+{"task": "sentiment", "input": "Facing rejection was tough.", "label": "negative"}
+{"task": "sentiment", "input": "The scenery is breathtakingly beautiful.", "label": "positive"}
+{"task": "sentiment", "input": "I feel completely overwhelmed.", "label": "negative"}
+{"task": "sentiment", "input": "He's thrilled about his promotion.", "label": "positive"}
+{"task": "sentiment", "input": "This situation is extremely stressful.", "label": "negative"}
+{"task": "sentiment", "input": "A truly enchanting evening.", "label": "positive"}
+{"task": "sentiment", "input": "I'm terrified of the dark.", "label": "negative"}
+{"task": "sentiment", "input": "The concert was an unforgettable experience.", "label": "positive"}
+{"task": "sentiment", "input": "The noise outside is unbearable.", "label": "negative"}
+{"task": "sentiment", "input": "Their support is heartening.", "label": "positive"}
+{"task": "sentiment", "input": "I'm sick of this mess.", "label": "negative"}
+{"task": "sentiment", "input": "An absolutely delightful surprise!", "label": "positive"}
+{"task": "sentiment", "input": "Feeling utterly hopeless today.", "label": "negative"}
+{"task": "sentiment", "input": "The team is in high spirits.", "label": "positive"}
+{"task": "sentiment", "input": "I'm dreading the meeting tomorrow.", "label": "negative"}
+{"task": "sentiment", "input": "A perfectly splendid day!", "label": "positive"}
+{"task": "sentiment", "input": "He's sulking after the argument.", "label": "negative"}
+{"task": "sentiment", "input": "Feeling on top of the world.", "label": "positive"}
+{"task": "sentiment", "input": "Anxious about the upcoming exam.", "label": "negative"}
+{"task": "sentiment", "input": "Such an inspiring story!", "label": "positive"}
+{"task": "sentiment", "input": "Frustrated with the slow progress.", "label": "negative"}
+{"task": "sentiment", "input": "I love this beautiful view.", "label": "positive"}
+{"task": "sentiment", "input": "Feeling lonely in a crowd.", "label": "negative"}
+{"task": "sentiment", "input": "Excited for the upcoming holidays.", "label": "positive"}
+{"task": "sentiment", "input": "Grieving over the loss.", "label": "negative"}
+{"task": "sentiment", "input": "The meal was extraordinarily delicious.", "label": "positive"}
+{"task": "sentiment", "input": "Angered by the unfair decision.", "label": "negative"}
+{"task": "sentiment", "input": "Grateful for all the blessings.", "label": "positive"}
+{"task": "sentiment", "input": "Embarrassed by the mistake.", "label": "negative"}
+{"task": "sentiment", "input": "The evening was full of laughter.", "label": "positive"}
+{"task": "sentiment", "input": "Nervous about the interview.", "label": "negative"}
+{"task": "sentiment", "input": "Feeling proud of my achievements.", "label": "positive"}
+{"task": "sentiment", "input": "Worried about the future.", "label": "negative"}
+{"task": "sentiment", "input": "Optimistic about the new project.", "label": "positive"}
+{"task": "sentiment", "input": "Regretting the past decisions.", "label": "negative"}
+{"task": "sentiment", "input": "The garden is a paradise.", "label": "positive"}
+{"task": "sentiment", "input": "Disgusted by the pollution.", "label": "negative"}
+{"task": "sentiment", "input": "The baby's smile is infectious.", "label": "positive"}
+{"task": "sentiment", "input": "Dismayed by the current events.", "label": "negative"}
+{"task": "sentiment", "input": "Delighted with the new house.", "label": "positive"}
+{"task": "sentiment", "input": "Distressed by the news.", "label": "negative"}
+{"task": "sentiment", "input": "A successful and productive meeting.", "label": "positive"}
+{"task": "sentiment", "input": "Mourning the end of an era.", "label": "negative"}
+{"task": "sentiment", "input": "Joyful about the reunion.", "label": "positive"}
+{"task": "sentiment", "input": "Scared of the dark.", "label": "negative"}
+{"task": "sentiment", "input": "Cherishing these peaceful moments.", "label": "positive"}
+{"task": "sentiment", "input": "Dreading the long journey.", "label": "negative"}
+{"task": "sentiment", "input": "Amazed by the stunning view.", "label": "positive"}
+{"task": "sentiment", "input": "Horrified by the accident.", "label": "negative"}
+{"task": "sentiment", "input": "The family gathering was joyful.", "label": "positive"}
+{"task": "sentiment", "input": "Despair over the lost opportunities.", "label": "negative"}
+{"task": "parity", "input": "2", "label": "even"}
+{"task": "parity", "input": "7", "label": "odd"}
+{"task": "parity", "input": "14", "label": "even"}
+{"task": "parity", "input": "35", "label": "odd"}
+{"task": "parity", "input": "22", "label": "even"}
+{"task": "parity", "input": "9", "label": "odd"}
+{"task": "parity", "input": "8", "label": "even"}
+{"task": "parity", "input": "13", "label": "odd"}
+{"task": "parity", "input": "4", "label": "even"}
+{"task": "parity", "input": "51", "label": "odd"}
+{"task": "parity", "input": "16", "label": "even"}
+{"task": "parity", "input": "33", "label": "odd"}
+{"task": "parity", "input": "100", "label": "even"}
+{"task": "parity", "input": "17", "label": "odd"}
+{"task": "parity", "input": "6", "label": "even"}
+{"task": "parity", "input": "21", "label": "odd"}
+{"task": "parity", "input": "28", "label": "even"}
+{"task": "parity", "input": "45", "label": "odd"}
+{"task": "parity", "input": "12", "label": "even"}
+{"task": "parity", "input": "3", "label": "odd"}
+{"task": "parity", "input": "10", "label": "even"}
+{"task": "parity", "input": "5", "label": "odd"}
+{"task": "parity", "input": "24", "label": "even"}
+{"task": "parity", "input": "11", "label": "odd"}
+{"task": "parity", "input": "36", "label": "even"}
+{"task": "parity", "input": "15", "label": "odd"}
+{"task": "parity", "input": "18", "label": "even"}
+{"task": "parity", "input": "25", "label": "odd"}
+{"task": "parity", "input": "40", "label": "even"}
+{"task": "parity", "input": "19", "label": "odd"}
+{"task": "parity", "input": "32", "label": "even"}
+{"task": "parity", "input": "27", "label": "odd"}
+{"task": "parity", "input": "46", "label": "even"}
+{"task": "parity", "input": "31", "label": "odd"}
+{"task": "parity", "input": "20", "label": "even"}
+{"task": "parity", "input": "37", "label": "odd"}
+{"task": "parity", "input": "50", "label": "even"}
+{"task": "parity", "input": "29", "label": "odd"}
+{"task": "parity", "input": "54", "label": "even"}
+{"task": "parity", "input": "41", "label": "odd"}
+{"task": "parity", "input": "62", "label": "even"}
+{"task": "parity", "input": "59", "label": "odd"}
+{"task": "parity", "input": "72", "label": "even"}
+{"task": "parity", "input": "55", "label": "odd"}
+{"task": "parity", "input": "26", "label": "even"}
+{"task": "parity", "input": "39", "label": "odd"}
+{"task": "parity", "input": "44", "label": "even"}
+{"task": "parity", "input": "43", "label": "odd"}
+{"task": "parity", "input": "68", "label": "even"}
+{"task": "parity", "input": "77", "label": "odd"}
+{"task": "parity", "input": "34", "label": "even"}
+{"task": "parity", "input": "23", "label": "odd"}
+{"task": "parity", "input": "58", "label": "even"}
+{"task": "parity", "input": "49", "label": "odd"}
+{"task": "parity", "input": "64", "label": "even"}
+{"task": "parity", "input": "51", "label": "odd"}
+{"task": "parity", "input": "76", "label": "even"}
+{"task": "parity", "input": "47", "label": "odd"}
+{"task": "parity", "input": "80", "label": "even"}
+{"task": "parity", "input": "83", "label": "odd"}
+{"task": "parity", "input": "42", "label": "even"}
+{"task": "parity", "input": "67", "label": "odd"}
+{"task": "parity", "input": "48", "label": "even"}
+{"task": "parity", "input": "65", "label": "odd"}
+{"task": "parity", "input": "56", "label": "even"}
+{"task": "parity", "input": "71", "label": "odd"}
+{"task": "parity", "input": "60", "label": "even"}
+{"task": "parity", "input": "79", "label": "odd"}
+{"task": "parity", "input": "66", "label": "even"}
+{"task": "parity", "input": "87", "label": "odd"}
+{"task": "parity", "input": "74", "label": "even"}
+{"task": "parity", "input": "85", "label": "odd"}
+{"task": "parity", "input": "90", "label": "even"}
+{"task": "parity", "input": "81", "label": "odd"}
+{"task": "parity", "input": "100", "label": "even"}
+{"task": "parity", "input": "91", "label": "odd"}
+{"task": "parity", "input": "70", "label": "even"}
+{"task": "parity", "input": "95", "label": "odd"}
+{"task": "parity", "input": "78", "label": "even"}
+{"task": "parity", "input": "99", "label": "odd"}
+{"task": "is_even", "input": "2", "label": "True"}
+{"task": "is_even", "input": "7", "label": "False"}
+{"task": "is_even", "input": "14", "label": "True"}
+{"task": "is_even", "input": "35", "label": "False"}
+{"task": "is_even", "input": "22", "label": "True"}
+{"task": "is_even", "input": "9", "label": "False"}
+{"task": "is_even", "input": "8", "label": "True"}
+{"task": "is_even", "input": "13", "label": "False"}
+{"task": "is_even", "input": "4", "label": "True"}
+{"task": "is_even", "input": "51", "label": "False"}
+{"task": "is_even", "input": "16", "label": "True"}
+{"task": "is_even", "input": "33", "label": "False"}
+{"task": "is_even", "input": "100", "label": "True"}
+{"task": "is_even", "input": "17", "label": "False"}
+{"task": "is_even", "input": "6", "label": "True"}
+{"task": "is_even", "input": "21", "label": "False"}
+{"task": "is_even", "input": "28", "label": "True"}
+{"task": "is_even", "input": "45", "label": "False"}
+{"task": "is_even", "input": "12", "label": "True"}
+{"task": "is_even", "input": "3", "label": "False"}
+{"task": "is_even", "input": "10", "label": "True"}
+{"task": "is_even", "input": "5", "label": "False"}
+{"task": "is_even", "input": "24", "label": "True"}
+{"task": "is_even", "input": "11", "label": "False"}
+{"task": "is_even", "input": "36", "label": "True"}
+{"task": "is_even", "input": "15", "label": "False"}
+{"task": "is_even", "input": "18", "label": "True"}
+{"task": "is_even", "input": "25", "label": "False"}
+{"task": "is_even", "input": "40", "label": "True"}
+{"task": "is_even", "input": "19", "label": "False"}
+{"task": "is_even", "input": "32", "label": "True"}
+{"task": "is_even", "input": "27", "label": "False"}
+{"task": "is_even", "input": "46", "label": "True"}
+{"task": "is_even", "input": "31", "label": "False"}
+{"task": "is_even", "input": "20", "label": "True"}
+{"task": "is_even", "input": "37", "label": "False"}
+{"task": "is_even", "input": "50", "label": "True"}
+{"task": "is_even", "input": "29", "label": "False"}
+{"task": "is_even", "input": "54", "label": "True"}
+{"task": "is_even", "input": "41", "label": "False"}
+{"task": "is_even", "input": "62", "label": "True"}
+{"task": "is_even", "input": "59", "label": "False"}
+{"task": "is_even", "input": "72", "label": "True"}
+{"task": "is_even", "input": "55", "label": "False"}
+{"task": "is_even", "input": "26", "label": "True"}
+{"task": "is_even", "input": "39", "label": "False"}
+{"task": "is_even", "input": "44", "label": "True"}
+{"task": "is_even", "input": "43", "label": "False"}
+{"task": "is_even", "input": "68", "label": "True"}
+{"task": "is_even", "input": "77", "label": "False"}
+{"task": "is_even", "input": "34", "label": "True"}
+{"task": "is_even", "input": "23", "label": "False"}
+{"task": "is_even", "input": "58", "label": "True"}
+{"task": "is_even", "input": "49", "label": "False"}
+{"task": "is_even", "input": "64", "label": "True"}
+{"task": "is_even", "input": "51", "label": "False"}
+{"task": "is_even", "input": "76", "label": "True"}
+{"task": "is_even", "input": "47", "label": "False"}
+{"task": "is_even", "input": "80", "label": "True"}
+{"task": "is_even", "input": "83", "label": "False"}
+{"task": "is_even", "input": "42", "label": "True"}
+{"task": "is_even", "input": "67", "label": "False"}
+{"task": "is_even", "input": "48", "label": "True"}
+{"task": "is_even", "input": "65", "label": "False"}
+{"task": "is_even", "input": "56", "label": "True"}
+{"task": "is_even", "input": "71", "label": "False"}
+{"task": "is_even", "input": "60", "label": "True"}
+{"task": "is_even", "input": "79", "label": "False"}
+{"task": "is_even", "input": "66", "label": "True"}
+{"task": "is_even", "input": "87", "label": "False"}
+{"task": "is_even", "input": "74", "label": "True"}
+{"task": "is_even", "input": "85", "label": "False"}
+{"task": "is_even", "input": "90", "label": "True"}
+{"task": "is_even", "input": "81", "label": "False"}
+{"task": "is_even", "input": "100", "label": "True"}
+{"task": "is_even", "input": "91", "label": "False"}
+{"task": "is_even", "input": "70", "label": "True"}
+{"task": "is_even", "input": "95", "label": "False"}
+{"task": "is_even", "input": "78", "label": "True"}
+{"task": "is_even", "input": "99", "label": "False"}
+{"task": "is_odd", "input": "2", "label": "False"}
+{"task": "is_odd", "input": "7", "label": "True"}
+{"task": "is_odd", "input": "14", "label": "False"}
+{"task": "is_odd", "input": "35", "label": "True"}
+{"task": "is_odd", "input": "22", "label": "False"}
+{"task": "is_odd", "input": "9", "label": "True"}
+{"task": "is_odd", "input": "8", "label": "False"}
+{"task": "is_odd", "input": "13", "label": "True"}
+{"task": "is_odd", "input": "4", "label": "False"}
+{"task": "is_odd", "input": "51", "label": "True"}
+{"task": "is_odd", "input": "16", "label": "False"}
+{"task": "is_odd", "input": "33", "label": "True"}
+{"task": "is_odd", "input": "100", "label": "False"}
+{"task": "is_odd", "input": "17", "label": "True"}
+{"task": "is_odd", "input": "6", "label": "False"}
+{"task": "is_odd", "input": "21", "label": "True"}
+{"task": "is_odd", "input": "28", "label": "False"}
+{"task": "is_odd", "input": "45", "label": "True"}
+{"task": "is_odd", "input": "12", "label": "False"}
+{"task": "is_odd", "input": "3", "label": "True"}
+{"task": "is_odd", "input": "10", "label": "False"}
+{"task": "is_odd", "input": "5", "label": "True"}
+{"task": "is_odd", "input": "24", "label": "False"}
+{"task": "is_odd", "input": "11", "label": "True"}
+{"task": "is_odd", "input": "36", "label": "False"}
+{"task": "is_odd", "input": "15", "label": "True"}
+{"task": "is_odd", "input": "18", "label": "False"}
+{"task": "is_odd", "input": "25", "label": "True"}
+{"task": "is_odd", "input": "40", "label": "False"}
+{"task": "is_odd", "input": "19", "label": "True"}
+{"task": "is_odd", "input": "32", "label": "False"}
+{"task": "is_odd", "input": "27", "label": "True"}
+{"task": "is_odd", "input": "46", "label": "False"}
+{"task": "is_odd", "input": "31", "label": "True"}
+{"task": "is_odd", "input": "20", "label": "False"}
+{"task": "is_odd", "input": "37", "label": "True"}
+{"task": "is_odd", "input": "50", "label": "False"}
+{"task": "is_odd", "input": "29", "label": "True"}
+{"task": "is_odd", "input": "54", "label": "False"}
+{"task": "is_odd", "input": "41", "label": "True"}
+{"task": "is_odd", "input": "62", "label": "False"}
+{"task": "is_odd", "input": "59", "label": "True"}
+{"task": "is_odd", "input": "72", "label": "False"}
+{"task": "is_odd", "input": "55", "label": "True"}
+{"task": "is_odd", "input": "26", "label": "False"}
+{"task": "is_odd", "input": "39", "label": "True"}
+{"task": "is_odd", "input": "44", "label": "False"}
+{"task": "is_odd", "input": "43", "label": "True"}
+{"task": "is_odd", "input": "68", "label": "False"}
+{"task": "is_odd", "input": "77", "label": "True"}
+{"task": "is_odd", "input": "34", "label": "False"}
+{"task": "is_odd", "input": "23", "label": "True"}
+{"task": "is_odd", "input": "58", "label": "False"}
+{"task": "is_odd", "input": "49", "label": "True"}
+{"task": "is_odd", "input": "64", "label": "False"}
+{"task": "is_odd", "input": "51", "label": "True"}
+{"task": "is_odd", "input": "76", "label": "False"}
+{"task": "is_odd", "input": "47", "label": "True"}
+{"task": "is_odd", "input": "80", "label": "False"}
+{"task": "is_odd", "input": "83", "label": "True"}
+{"task": "is_odd", "input": "42", "label": "False"}
+{"task": "is_odd", "input": "67", "label": "True"}
+{"task": "is_odd", "input": "48", "label": "False"}
+{"task": "is_odd", "input": "65", "label": "True"}
+{"task": "is_odd", "input": "56", "label": "False"}
+{"task": "is_odd", "input": "71", "label": "True"}
+{"task": "is_odd", "input": "60", "label": "False"}
+{"task": "is_odd", "input": "79", "label": "True"}
+{"task": "is_odd", "input": "66", "label": "False"}
+{"task": "is_odd", "input": "87", "label": "True"}
+{"task": "is_odd", "input": "74", "label": "False"}
+{"task": "is_odd", "input": "85", "label": "True"}
+{"task": "is_odd", "input": "90", "label": "False"}
+{"task": "is_odd", "input": "81", "label": "True"}
+{"task": "is_odd", "input": "100", "label": "False"}
+{"task": "is_odd", "input": "91", "label": "True"}
+{"task": "is_odd", "input": "70", "label": "False"}
+{"task": "is_odd", "input": "95", "label": "True"}
+{"task": "is_odd", "input": "78", "label": "False"}
+{"task": "is_odd", "input": "99", "label": "True"}
+{"task": "first_person_or_third_person", "input": "I recently started a new hobby.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "She loves to travel around the world.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "We're going to the beach tomorrow.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "He always forgets his keys.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "I enjoy listening to classical music.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "They work together in a café.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "We celebrate our anniversary today.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "She practices yoga every morning.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "I've decided to learn Spanish.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "He enjoys cooking for his family.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "We are looking forward to the weekend.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "She writes poetry in her free time.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "I need to buy some groceries.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "They are planning a surprise party.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "We watched the sunrise together.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "He plays the guitar exceptionally well.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "I'm meeting my friends for lunch.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "She often takes long walks in the park.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "We finished the project on time.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "He is teaching his dog new tricks.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "I have an appointment tomorrow morning.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "They are watching their favorite show.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "We're learning to dance salsa.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "She spends time gardening on weekends.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "I just finished reading an interesting novel.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "He fixes old cars in his garage.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "We're adopting a new pet.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "She is studying for her exams.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "I often go jogging in the morning.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "They are redecorating their house.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "We are planning a big family reunion.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "He loves star gazing at night.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "I'm starting a new job next week.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "She finds joy in small things.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "We enjoy going on road trips.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "He runs a local charity organization.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "I'm baking a cake for the party.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "She's learning to play the violin.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "We're going to the mountains this weekend.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "He often volunteers at the local shelter.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "I love rainy days and reading books.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "They are experts in wildlife conservation.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "We're hosting a charity event next month.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "She is an accomplished pianist.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "I can't wait to see my family.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "He makes a wonderful cup of coffee.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "We're planning a garden makeover.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "She takes stunning photographs.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "I'm thrilled about the upcoming concert.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "They are known for their innovative ideas.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "We're thinking of adopting a kitten.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "He's a skilled basketball player.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "I enjoy quiet evenings at home.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "She's passionate about environmental issues.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "We're having a great time on our trip.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "He's an inspiration to many.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "I'm looking forward to the weekend.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "She works as a graphic designer.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "We're having a family dinner tonight.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "He's attending a conference next week.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "I love going to the beach.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "She walks her dog every morning.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "We are planning a trip to Spain.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "He is learning to play the piano.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "I'm reading a great book right now.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "They enjoy hiking in the mountains.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "We watched a movie last night.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "He often travels for work.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "I can't wait for the weekend.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "She sings beautifully.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "We're having dinner at home tonight.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "They were late to the meeting.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "I think this is a great idea.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "He drives a red car.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "I'm learning to cook Italian food.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "She studied hard for her exams.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "We go jogging every morning.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "He makes the best coffee.", "label": "third_person"}
+{"task": "first_person_or_third_person", "input": "I've been feeling really happy lately.", "label": "first_person"}
+{"task": "first_person_or_third_person", "input": "They have a new puppy.", "label": "third_person"}
+{"task": "third_person", "input": "I recently started a new hobby.", "label": "False"}
+{"task": "third_person", "input": "She loves to travel around the world.", "label": "True"}
+{"task": "third_person", "input": "We're going to the beach tomorrow.", "label": "False"}
+{"task": "third_person", "input": "He always forgets his keys.", "label": "True"}
+{"task": "third_person", "input": "I enjoy listening to classical music.", "label": "False"}
+{"task": "third_person", "input": "They work together in a café.", "label": "True"}
+{"task": "third_person", "input": "We celebrate our anniversary today.", "label": "False"}
+{"task": "third_person", "input": "She practices yoga every morning.", "label": "True"}
+{"task": "third_person", "input": "I've decided to learn Spanish.", "label": "False"}
+{"task": "third_person", "input": "He enjoys cooking for his family.", "label": "True"}
+{"task": "third_person", "input": "We are looking forward to the weekend.", "label": "False"}
+{"task": "third_person", "input": "She writes poetry in her free time.", "label": "True"}
+{"task": "third_person", "input": "I need to buy some groceries.", "label": "False"}
+{"task": "third_person", "input": "They are planning a surprise party.", "label": "True"}
+{"task": "third_person", "input": "We watched the sunrise together.", "label": "False"}
+{"task": "third_person", "input": "He plays the guitar exceptionally well.", "label": "True"}
+{"task": "third_person", "input": "I'm meeting my friends for lunch.", "label": "False"}
+{"task": "third_person", "input": "She often takes long walks in the park.", "label": "True"}
+{"task": "third_person", "input": "We finished the project on time.", "label": "False"}
+{"task": "third_person", "input": "He is teaching his dog new tricks.", "label": "True"}
+{"task": "third_person", "input": "I have an appointment tomorrow morning.", "label": "False"}
+{"task": "third_person", "input": "They are watching their favorite show.", "label": "True"}
+{"task": "third_person", "input": "We're learning to dance salsa.", "label": "False"}
+{"task": "third_person", "input": "She spends time gardening on weekends.", "label": "True"}
+{"task": "third_person", "input": "I just finished reading an interesting novel.", "label": "False"}
+{"task": "third_person", "input": "He fixes old cars in his garage.", "label": "True"}
+{"task": "third_person", "input": "We're adopting a new pet.", "label": "False"}
+{"task": "third_person", "input": "She is studying for her exams.", "label": "True"}
+{"task": "third_person", "input": "I often go jogging in the morning.", "label": "False"}
+{"task": "third_person", "input": "They are redecorating their house.", "label": "True"}
+{"task": "third_person", "input": "We are planning a big family reunion.", "label": "False"}
+{"task": "third_person", "input": "He loves star gazing at night.", "label": "True"}
+{"task": "third_person", "input": "I'm starting a new job next week.", "label": "False"}
+{"task": "third_person", "input": "She finds joy in small things.", "label": "True"}
+{"task": "third_person", "input": "We enjoy going on road trips.", "label": "False"}
+{"task": "third_person", "input": "He runs a local charity organization.", "label": "True"}
+{"task": "third_person", "input": "I'm baking a cake for the party.", "label": "False"}
+{"task": "third_person", "input": "She's learning to play the violin.", "label": "True"}
+{"task": "third_person", "input": "We're going to the mountains this weekend.", "label": "False"}
+{"task": "third_person", "input": "He often volunteers at the local shelter.", "label": "True"}
+{"task": "third_person", "input": "I love rainy days and reading books.", "label": "False"}
+{"task": "third_person", "input": "They are experts in wildlife conservation.", "label": "True"}
+{"task": "third_person", "input": "We're hosting a charity event next month.", "label": "False"}
+{"task": "third_person", "input": "She is an accomplished pianist.", "label": "True"}
+{"task": "third_person", "input": "I can't wait to see my family.", "label": "False"}
+{"task": "third_person", "input": "He makes a wonderful cup of coffee.", "label": "True"}
+{"task": "third_person", "input": "We're planning a garden makeover.", "label": "False"}
+{"task": "third_person", "input": "She takes stunning photographs.", "label": "True"}
+{"task": "third_person", "input": "I'm thrilled about the upcoming concert.", "label": "False"}
+{"task": "third_person", "input": "They are known for their innovative ideas.", "label": "True"}
+{"task": "third_person", "input": "We're thinking of adopting a kitten.", "label": "False"}
+{"task": "third_person", "input": "He's a skilled basketball player.", "label": "True"}
+{"task": "third_person", "input": "I enjoy quiet evenings at home.", "label": "False"}
+{"task": "third_person", "input": "She's passionate about environmental issues.", "label": "True"}
+{"task": "third_person", "input": "We're having a great time on our trip.", "label": "False"}
+{"task": "third_person", "input": "He's an inspiration to many.", "label": "True"}
+{"task": "third_person", "input": "I'm looking forward to the weekend.", "label": "False"}
+{"task": "third_person", "input": "She works as a graphic designer.", "label": "True"}
+{"task": "third_person", "input": "We're having a family dinner tonight.", "label": "False"}
+{"task": "third_person", "input": "He's attending a conference next week.", "label": "True"}
+{"task": "third_person", "input": "I love going to the beach.", "label": "False"}
+{"task": "third_person", "input": "She walks her dog every morning.", "label": "True"}
+{"task": "third_person", "input": "We are planning a trip to Spain.", "label": "False"}
+{"task": "third_person", "input": "He is learning to play the piano.", "label": "True"}
+{"task": "third_person", "input": "I'm reading a great book right now.", "label": "False"}
+{"task": "third_person", "input": "They enjoy hiking in the mountains.", "label": "True"}
+{"task": "third_person", "input": "We watched a movie last night.", "label": "False"}
+{"task": "third_person", "input": "He often travels for work.", "label": "True"}
+{"task": "third_person", "input": "I can't wait for the weekend.", "label": "False"}
+{"task": "third_person", "input": "She sings beautifully.", "label": "True"}
+{"task": "third_person", "input": "We're having dinner at home tonight.", "label": "False"}
+{"task": "third_person", "input": "They were late to the meeting.", "label": "True"}
+{"task": "third_person", "input": "I think this is a great idea.", "label": "False"}
+{"task": "third_person", "input": "He drives a red car.", "label": "True"}
+{"task": "third_person", "input": "I'm learning to cook Italian food.", "label": "False"}
+{"task": "third_person", "input": "She studied hard for her exams.", "label": "True"}
+{"task": "third_person", "input": "We go jogging every morning.", "label": "False"}
+{"task": "third_person", "input": "He makes the best coffee.", "label": "True"}
+{"task": "third_person", "input": "I've been feeling really happy lately.", "label": "False"}
+{"task": "third_person", "input": "They have a new puppy.", "label": "True"}
+{"task": "first_person", "input": "I recently started a new hobby.", "label": "True"}
+{"task": "first_person", "input": "She loves to travel around the world.", "label": "False"}
+{"task": "first_person", "input": "We're going to the beach tomorrow.", "label": "True"}
+{"task": "first_person", "input": "He always forgets his keys.", "label": "False"}
+{"task": "first_person", "input": "I enjoy listening to classical music.", "label": "True"}
+{"task": "first_person", "input": "They work together in a café.", "label": "False"}
+{"task": "first_person", "input": "We celebrate our anniversary today.", "label": "True"}
+{"task": "first_person", "input": "She practices yoga every morning.", "label": "False"}
+{"task": "first_person", "input": "I've decided to learn Spanish.", "label": "True"}
+{"task": "first_person", "input": "He enjoys cooking for his family.", "label": "False"}
+{"task": "first_person", "input": "We are looking forward to the weekend.", "label": "True"}
+{"task": "first_person", "input": "She writes poetry in her free time.", "label": "False"}
+{"task": "first_person", "input": "I need to buy some groceries.", "label": "True"}
+{"task": "first_person", "input": "They are planning a surprise party.", "label": "False"}
+{"task": "first_person", "input": "We watched the sunrise together.", "label": "True"}
+{"task": "first_person", "input": "He plays the guitar exceptionally well.", "label": "False"}
+{"task": "first_person", "input": "I'm meeting my friends for lunch.", "label": "True"}
+{"task": "first_person", "input": "She often takes long walks in the park.", "label": "False"}
+{"task": "first_person", "input": "We finished the project on time.", "label": "True"}
+{"task": "first_person", "input": "He is teaching his dog new tricks.", "label": "False"}
+{"task": "first_person", "input": "I have an appointment tomorrow morning.", "label": "True"}
+{"task": "first_person", "input": "They are watching their favorite show.", "label": "False"}
+{"task": "first_person", "input": "We're learning to dance salsa.", "label": "True"}
+{"task": "first_person", "input": "She spends time gardening on weekends.", "label": "False"}
+{"task": "first_person", "input": "I just finished reading an interesting novel.", "label": "True"}
+{"task": "first_person", "input": "He fixes old cars in his garage.", "label": "False"}
+{"task": "first_person", "input": "We're adopting a new pet.", "label": "True"}
+{"task": "first_person", "input": "She is studying for her exams.", "label": "False"}
+{"task": "first_person", "input": "I often go jogging in the morning.", "label": "True"}
+{"task": "first_person", "input": "They are redecorating their house.", "label": "False"}
+{"task": "first_person", "input": "We are planning a big family reunion.", "label": "True"}
+{"task": "first_person", "input": "He loves star gazing at night.", "label": "False"}
+{"task": "first_person", "input": "I'm starting a new job next week.", "label": "True"}
+{"task": "first_person", "input": "She finds joy in small things.", "label": "False"}
+{"task": "first_person", "input": "We enjoy going on road trips.", "label": "True"}
+{"task": "first_person", "input": "He runs a local charity organization.", "label": "False"}
+{"task": "first_person", "input": "I'm baking a cake for the party.", "label": "True"}
+{"task": "first_person", "input": "She's learning to play the violin.", "label": "False"}
+{"task": "first_person", "input": "We're going to the mountains this weekend.", "label": "True"}
+{"task": "first_person", "input": "He often volunteers at the local shelter.", "label": "False"}
+{"task": "first_person", "input": "I love rainy days and reading books.", "label": "True"}
+{"task": "first_person", "input": "They are experts in wildlife conservation.", "label": "False"}
+{"task": "first_person", "input": "We're hosting a charity event next month.", "label": "True"}
+{"task": "first_person", "input": "She is an accomplished pianist.", "label": "False"}
+{"task": "first_person", "input": "I can't wait to see my family.", "label": "True"}
+{"task": "first_person", "input": "He makes a wonderful cup of coffee.", "label": "False"}
+{"task": "first_person", "input": "We're planning a garden makeover.", "label": "True"}
+{"task": "first_person", "input": "She takes stunning photographs.", "label": "False"}
+{"task": "first_person", "input": "I'm thrilled about the upcoming concert.", "label": "True"}
+{"task": "first_person", "input": "They are known for their innovative ideas.", "label": "False"}
+{"task": "first_person", "input": "We're thinking of adopting a kitten.", "label": "True"}
+{"task": "first_person", "input": "He's a skilled basketball player.", "label": "False"}
+{"task": "first_person", "input": "I enjoy quiet evenings at home.", "label": "True"}
+{"task": "first_person", "input": "She's passionate about environmental issues.", "label": "False"}
+{"task": "first_person", "input": "We're having a great time on our trip.", "label": "True"}
+{"task": "first_person", "input": "He's an inspiration to many.", "label": "False"}
+{"task": "first_person", "input": "I'm looking forward to the weekend.", "label": "True"}
+{"task": "first_person", "input": "She works as a graphic designer.", "label": "False"}
+{"task": "first_person", "input": "We're having a family dinner tonight.", "label": "True"}
+{"task": "first_person", "input": "He's attending a conference next week.", "label": "False"}
+{"task": "first_person", "input": "I love going to the beach.", "label": "True"}
+{"task": "first_person", "input": "She walks her dog every morning.", "label": "False"}
+{"task": "first_person", "input": "We are planning a trip to Spain.", "label": "True"}
+{"task": "first_person", "input": "He is learning to play the piano.", "label": "False"}
+{"task": "first_person", "input": "I'm reading a great book right now.", "label": "True"}
+{"task": "first_person", "input": "They enjoy hiking in the mountains.", "label": "False"}
+{"task": "first_person", "input": "We watched a movie last night.", "label": "True"}
+{"task": "first_person", "input": "He often travels for work.", "label": "False"}
+{"task": "first_person", "input": "I can't wait for the weekend.", "label": "True"}
+{"task": "first_person", "input": "She sings beautifully.", "label": "False"}
+{"task": "first_person", "input": "We're having dinner at home tonight.", "label": "True"}
+{"task": "first_person", "input": "They were late to the meeting.", "label": "False"}
+{"task": "first_person", "input": "I think this is a great idea.", "label": "True"}
+{"task": "first_person", "input": "He drives a red car.", "label": "False"}
+{"task": "first_person", "input": "I'm learning to cook Italian food.", "label": "True"}
+{"task": "first_person", "input": "She studied hard for her exams.", "label": "False"}
+{"task": "first_person", "input": "We go jogging every morning.", "label": "True"}
+{"task": "first_person", "input": "He makes the best coffee.", "label": "False"}
+{"task": "first_person", "input": "I've been feeling really happy lately.", "label": "True"}
+{"task": "first_person", "input": "They have a new puppy.", "label": "False"}
+{"task": "emotion_or_logic", "input": "I feel incredibly joyful today!", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "Water boils at 100 degrees Celsius.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "Her words filled me with sadness.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "The Earth revolves around the Sun.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "I am overwhelmed with anxiety.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "A square has four sides.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "His betrayal made me furious.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "Photosynthesis occurs in plants.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "She's grieving the loss of her pet.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "Gravity pulls objects towards the Earth.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "I am scared of heights.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "Light travels faster than sound.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "They were elated with the victory.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "Humans have 46 chromosomes.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "His words caused deep disappointment.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "The sum of angles in a triangle is 180 degrees.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "She felt a sense of tranquility in the garden.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "Acid and base react to form salt and water.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "Joy filled the room as the baby laughed.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "A year on Mars is about 687 Earth days.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "I'm ecstatic about the upcoming holiday.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "Copper conducts electricity well.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "Her anger was palpable in the room.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "The boiling point of water decreases with altitude.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "They felt a surge of pride at their accomplishment.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "Bats use echolocation to navigate.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "He was overwhelmed with grief.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "A rectangle has two pairs of parallel sides.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "I am filled with anxiety about the exam.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "The speed of light in a vacuum is constant.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "She felt immense joy at her daughter's wedding.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "Mammals are warm-blooded animals.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "His heart was heavy with regret.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "Diamonds are formed under high pressure and temperature.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "I'm frightened by thunderstorms.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "Planets in our solar system orbit the Sun.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "They were excited to explore the new city.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "Vitamin C is found in citrus fruits.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "She felt an overwhelming sense of calm by the sea.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "A hexagon has six sides.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "He was consumed with jealousy.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "Sound travels faster through water than air.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "Her eyes sparkled with happiness.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "Oxygen is essential for human respiration.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "A sense of dread filled the room.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "The Earth's atmosphere is composed of nitrogen and oxygen.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "They were brimming with confidence.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "Insects have a hard exoskeleton.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "I am thrilled with the new opportunity.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "Leaves change color due to changes in chlorophyll.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "Her laughter was a sign of pure joy.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "The human brain has billions of neurons.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "I felt a rush of nostalgia.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "A circle has an infinite number of symmetrical lines.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "He was saddened by the news.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "Fish gills extract oxygen from water.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "Excitement filled the air.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "The freezing point of water is 0 degrees Celsius.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "The disappointment was visible on her face.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "The moon influences the Earth's tides.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "They were anxious about the outcome.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "An octagon has eight angles.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "Overjoyed by the unexpected gift.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "The Sahara is the largest hot desert.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "He felt utter despair.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "Butterflies undergo metamorphosis.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "The victory made them ecstatic.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "The pH scale measures acidity and alkalinity.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "I was overwhelmed with relief.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "Amphibians live both on land and in water.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "Her heart swelled with pride.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "Neptune is the eighth planet from the Sun.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "Feeling nervous about the speech.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "The periodic table organizes chemical elements.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "He's tormented with guilt.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "A decade consists of ten years.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "Delighted with the surprise party.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "Photosynthesis is essential for plant life.", "label": "logic"}
+{"task": "emotion_or_logic", "input": "She was filled with remorse.", "label": "emotion"}
+{"task": "emotion_or_logic", "input": "The Great Barrier Reef is visible from space.", "label": "logic"}
+{"task": "emotion", "input": "I feel incredibly joyful today!", "label": "True"}
+{"task": "emotion", "input": "Water boils at 100 degrees Celsius.", "label": "False"}
+{"task": "emotion", "input": "Her words filled me with sadness.", "label": "True"}
+{"task": "emotion", "input": "The Earth revolves around the Sun.", "label": "False"}
+{"task": "emotion", "input": "I am overwhelmed with anxiety.", "label": "True"}
+{"task": "emotion", "input": "A square has four sides.", "label": "False"}
+{"task": "emotion", "input": "His betrayal made me furious.", "label": "True"}
+{"task": "emotion", "input": "Photosynthesis occurs in plants.", "label": "False"}
+{"task": "emotion", "input": "She's grieving the loss of her pet.", "label": "True"}
+{"task": "emotion", "input": "Gravity pulls objects towards the Earth.", "label": "False"}
+{"task": "emotion", "input": "I am scared of heights.", "label": "True"}
+{"task": "emotion", "input": "Light travels faster than sound.", "label": "False"}
+{"task": "emotion", "input": "They were elated with the victory.", "label": "True"}
+{"task": "emotion", "input": "Humans have 46 chromosomes.", "label": "False"}
+{"task": "emotion", "input": "His words caused deep disappointment.", "label": "True"}
+{"task": "emotion", "input": "The sum of angles in a triangle is 180 degrees.", "label": "False"}
+{"task": "emotion", "input": "She felt a sense of tranquility in the garden.", "label": "True"}
+{"task": "emotion", "input": "Acid and base react to form salt and water.", "label": "False"}
+{"task": "emotion", "input": "Joy filled the room as the baby laughed.", "label": "True"}
+{"task": "emotion", "input": "A year on Mars is about 687 Earth days.", "label": "False"}
+{"task": "emotion", "input": "I'm ecstatic about the upcoming holiday.", "label": "True"}
+{"task": "emotion", "input": "Copper conducts electricity well.", "label": "False"}
+{"task": "emotion", "input": "Her anger was palpable in the room.", "label": "True"}
+{"task": "emotion", "input": "The boiling point of water decreases with altitude.", "label": "False"}
+{"task": "emotion", "input": "They felt a surge of pride at their accomplishment.", "label": "True"}
+{"task": "emotion", "input": "Bats use echolocation to navigate.", "label": "False"}
+{"task": "emotion", "input": "He was overwhelmed with grief.", "label": "True"}
+{"task": "emotion", "input": "A rectangle has two pairs of parallel sides.", "label": "False"}
+{"task": "emotion", "input": "I am filled with anxiety about the exam.", "label": "True"}
+{"task": "emotion", "input": "The speed of light in a vacuum is constant.", "label": "False"}
+{"task": "emotion", "input": "She felt immense joy at her daughter's wedding.", "label": "True"}
+{"task": "emotion", "input": "Mammals are warm-blooded animals.", "label": "False"}
+{"task": "emotion", "input": "His heart was heavy with regret.", "label": "True"}
+{"task": "emotion", "input": "Diamonds are formed under high pressure and temperature.", "label": "False"}
+{"task": "emotion", "input": "I'm frightened by thunderstorms.", "label": "True"}
+{"task": "emotion", "input": "Planets in our solar system orbit the Sun.", "label": "False"}
+{"task": "emotion", "input": "They were excited to explore the new city.", "label": "True"}
+{"task": "emotion", "input": "Vitamin C is found in citrus fruits.", "label": "False"}
+{"task": "emotion", "input": "She felt an overwhelming sense of calm by the sea.", "label": "True"}
+{"task": "emotion", "input": "A hexagon has six sides.", "label": "False"}
+{"task": "emotion", "input": "He was consumed with jealousy.", "label": "True"}
+{"task": "emotion", "input": "Sound travels faster through water than air.", "label": "False"}
+{"task": "emotion", "input": "Her eyes sparkled with happiness.", "label": "True"}
+{"task": "emotion", "input": "Oxygen is essential for human respiration.", "label": "False"}
+{"task": "emotion", "input": "A sense of dread filled the room.", "label": "True"}
+{"task": "emotion", "input": "The Earth's atmosphere is composed of nitrogen and oxygen.", "label": "False"}
+{"task": "emotion", "input": "They were brimming with confidence.", "label": "True"}
+{"task": "emotion", "input": "Insects have a hard exoskeleton.", "label": "False"}
+{"task": "emotion", "input": "I am thrilled with the new opportunity.", "label": "True"}
+{"task": "emotion", "input": "Leaves change color due to changes in chlorophyll.", "label": "False"}
+{"task": "emotion", "input": "Her laughter was a sign of pure joy.", "label": "True"}
+{"task": "emotion", "input": "The human brain has billions of neurons.", "label": "False"}
+{"task": "emotion", "input": "I felt a rush of nostalgia.", "label": "True"}
+{"task": "emotion", "input": "A circle has an infinite number of symmetrical lines.", "label": "False"}
+{"task": "emotion", "input": "He was saddened by the news.", "label": "True"}
+{"task": "emotion", "input": "Fish gills extract oxygen from water.", "label": "False"}
+{"task": "emotion", "input": "Excitement filled the air.", "label": "True"}
+{"task": "emotion", "input": "The freezing point of water is 0 degrees Celsius.", "label": "False"}
+{"task": "emotion", "input": "The disappointment was visible on her face.", "label": "True"}
+{"task": "emotion", "input": "The moon influences the Earth's tides.", "label": "False"}
+{"task": "emotion", "input": "They were anxious about the outcome.", "label": "True"}
+{"task": "emotion", "input": "An octagon has eight angles.", "label": "False"}
+{"task": "emotion", "input": "Overjoyed by the unexpected gift.", "label": "True"}
+{"task": "emotion", "input": "The Sahara is the largest hot desert.", "label": "False"}
+{"task": "emotion", "input": "He felt utter despair.", "label": "True"}
+{"task": "emotion", "input": "Butterflies undergo metamorphosis.", "label": "False"}
+{"task": "emotion", "input": "The victory made them ecstatic.", "label": "True"}
+{"task": "emotion", "input": "The pH scale measures acidity and alkalinity.", "label": "False"}
+{"task": "emotion", "input": "I was overwhelmed with relief.", "label": "True"}
+{"task": "emotion", "input": "Amphibians live both on land and in water.", "label": "False"}
+{"task": "emotion", "input": "Her heart swelled with pride.", "label": "True"}
+{"task": "emotion", "input": "Neptune is the eighth planet from the Sun.", "label": "False"}
+{"task": "emotion", "input": "Feeling nervous about the speech.", "label": "True"}
+{"task": "emotion", "input": "The periodic table organizes chemical elements.", "label": "False"}
+{"task": "emotion", "input": "He's tormented with guilt.", "label": "True"}
+{"task": "emotion", "input": "A decade consists of ten years.", "label": "False"}
+{"task": "emotion", "input": "Delighted with the surprise party.", "label": "True"}
+{"task": "emotion", "input": "Photosynthesis is essential for plant life.", "label": "False"}
+{"task": "emotion", "input": "She was filled with remorse.", "label": "True"}
+{"task": "emotion", "input": "The Great Barrier Reef is visible from space.", "label": "False"}
+{"task": "logic", "input": "I feel incredibly joyful today!", "label": "False"}
+{"task": "logic", "input": "Water boils at 100 degrees Celsius.", "label": "True"}
+{"task": "logic", "input": "Her words filled me with sadness.", "label": "False"}
+{"task": "logic", "input": "The Earth revolves around the Sun.", "label": "True"}
+{"task": "logic", "input": "I am overwhelmed with anxiety.", "label": "False"}
+{"task": "logic", "input": "A square has four sides.", "label": "True"}
+{"task": "logic", "input": "His betrayal made me furious.", "label": "False"}
+{"task": "logic", "input": "Photosynthesis occurs in plants.", "label": "True"}
+{"task": "logic", "input": "She's grieving the loss of her pet.", "label": "False"}
+{"task": "logic", "input": "Gravity pulls objects towards the Earth.", "label": "True"}
+{"task": "logic", "input": "I am scared of heights.", "label": "False"}
+{"task": "logic", "input": "Light travels faster than sound.", "label": "True"}
+{"task": "logic", "input": "They were elated with the victory.", "label": "False"}
+{"task": "logic", "input": "Humans have 46 chromosomes.", "label": "True"}
+{"task": "logic", "input": "His words caused deep disappointment.", "label": "False"}
+{"task": "logic", "input": "The sum of angles in a triangle is 180 degrees.", "label": "True"}
+{"task": "logic", "input": "She felt a sense of tranquility in the garden.", "label": "False"}
+{"task": "logic", "input": "Acid and base react to form salt and water.", "label": "True"}
+{"task": "logic", "input": "Joy filled the room as the baby laughed.", "label": "False"}
+{"task": "logic", "input": "A year on Mars is about 687 Earth days.", "label": "True"}
+{"task": "logic", "input": "I'm ecstatic about the upcoming holiday.", "label": "False"}
+{"task": "logic", "input": "Copper conducts electricity well.", "label": "True"}
+{"task": "logic", "input": "Her anger was palpable in the room.", "label": "False"}
+{"task": "logic", "input": "The boiling point of water decreases with altitude.", "label": "True"}
+{"task": "logic", "input": "They felt a surge of pride at their accomplishment.", "label": "False"}
+{"task": "logic", "input": "Bats use echolocation to navigate.", "label": "True"}
+{"task": "logic", "input": "He was overwhelmed with grief.", "label": "False"}
+{"task": "logic", "input": "A rectangle has two pairs of parallel sides.", "label": "True"}
+{"task": "logic", "input": "I am filled with anxiety about the exam.", "label": "False"}
+{"task": "logic", "input": "The speed of light in a vacuum is constant.", "label": "True"}
+{"task": "logic", "input": "She felt immense joy at her daughter's wedding.", "label": "False"}
+{"task": "logic", "input": "Mammals are warm-blooded animals.", "label": "True"}
+{"task": "logic", "input": "His heart was heavy with regret.", "label": "False"}
+{"task": "logic", "input": "Diamonds are formed under high pressure and temperature.", "label": "True"}
+{"task": "logic", "input": "I'm frightened by thunderstorms.", "label": "False"}
+{"task": "logic", "input": "Planets in our solar system orbit the Sun.", "label": "True"}
+{"task": "logic", "input": "They were excited to explore the new city.", "label": "False"}
+{"task": "logic", "input": "Vitamin C is found in citrus fruits.", "label": "True"}
+{"task": "logic", "input": "She felt an overwhelming sense of calm by the sea.", "label": "False"}
+{"task": "logic", "input": "A hexagon has six sides.", "label": "True"}
+{"task": "logic", "input": "He was consumed with jealousy.", "label": "False"}
+{"task": "logic", "input": "Sound travels faster through water than air.", "label": "True"}
+{"task": "logic", "input": "Her eyes sparkled with happiness.", "label": "False"}
+{"task": "logic", "input": "Oxygen is essential for human respiration.", "label": "True"}
+{"task": "logic", "input": "A sense of dread filled the room.", "label": "False"}
+{"task": "logic", "input": "The Earth's atmosphere is composed of nitrogen and oxygen.", "label": "True"}
+{"task": "logic", "input": "They were brimming with confidence.", "label": "False"}
+{"task": "logic", "input": "Insects have a hard exoskeleton.", "label": "True"}
+{"task": "logic", "input": "I am thrilled with the new opportunity.", "label": "False"}
+{"task": "logic", "input": "Leaves change color due to changes in chlorophyll.", "label": "True"}
+{"task": "logic", "input": "Her laughter was a sign of pure joy.", "label": "False"}
+{"task": "logic", "input": "The human brain has billions of neurons.", "label": "True"}
+{"task": "logic", "input": "I felt a rush of nostalgia.", "label": "False"}
+{"task": "logic", "input": "A circle has an infinite number of symmetrical lines.", "label": "True"}
+{"task": "logic", "input": "He was saddened by the news.", "label": "False"}
+{"task": "logic", "input": "Fish gills extract oxygen from water.", "label": "True"}
+{"task": "logic", "input": "Excitement filled the air.", "label": "False"}
+{"task": "logic", "input": "The freezing point of water is 0 degrees Celsius.", "label": "True"}
+{"task": "logic", "input": "The disappointment was visible on her face.", "label": "False"}
+{"task": "logic", "input": "The moon influences the Earth's tides.", "label": "True"}
+{"task": "logic", "input": "They were anxious about the outcome.", "label": "False"}
+{"task": "logic", "input": "An octagon has eight angles.", "label": "True"}
+{"task": "logic", "input": "Overjoyed by the unexpected gift.", "label": "False"}
+{"task": "logic", "input": "The Sahara is the largest hot desert.", "label": "True"}
+{"task": "logic", "input": "He felt utter despair.", "label": "False"}
+{"task": "logic", "input": "Butterflies undergo metamorphosis.", "label": "True"}
+{"task": "logic", "input": "The victory made them ecstatic.", "label": "False"}
+{"task": "logic", "input": "The pH scale measures acidity and alkalinity.", "label": "True"}
+{"task": "logic", "input": "I was overwhelmed with relief.", "label": "False"}
+{"task": "logic", "input": "Amphibians live both on land and in water.", "label": "True"}
+{"task": "logic", "input": "Her heart swelled with pride.", "label": "False"}
+{"task": "logic", "input": "Neptune is the eighth planet from the Sun.", "label": "True"}
+{"task": "logic", "input": "Feeling nervous about the speech.", "label": "False"}
+{"task": "logic", "input": "The periodic table organizes chemical elements.", "label": "True"}
+{"task": "logic", "input": "He's tormented with guilt.", "label": "False"}
+{"task": "logic", "input": "A decade consists of ten years.", "label": "True"}
+{"task": "logic", "input": "Delighted with the surprise party.", "label": "False"}
+{"task": "logic", "input": "Photosynthesis is essential for plant life.", "label": "True"}
+{"task": "logic", "input": "She was filled with remorse.", "label": "False"}
+{"task": "logic", "input": "The Great Barrier Reef is visible from space.", "label": "True"}
+{"task": "positive_or_negative_numbers", "input": "7", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-12", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "42", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-8", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "15", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-100", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "23", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-27", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "64", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-16", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "125", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-3", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "1", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-45", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "90", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-11", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "56", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-77", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "24", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-33", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "6", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-29", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "13", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-67", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "35", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-48", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "17", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-9", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "52", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-71", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "80", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-22", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "38", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-13", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "4", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-54", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "28", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-60", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "19", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-14", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "47", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-31", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "29", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-17", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "9", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-20", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "58", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-44", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "31", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-26", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "14", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-39", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "21", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-2", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "32", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-18", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "37", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-34", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "50", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-21", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "5", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-30", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "10", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-5", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "3", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-15", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "20", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-200", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "8", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-2", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "50", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-1500", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "120", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-3", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "2", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-5", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "75", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-10", "label": "negative"}
+{"task": "positive_or_negative_numbers", "input": "300", "label": "positive"}
+{"task": "positive_or_negative_numbers", "input": "-3", "label": "negative"}
+{"task": "positive_numbers", "input": "7", "label": "True"}
+{"task": "positive_numbers", "input": "-12", "label": "False"}
+{"task": "positive_numbers", "input": "42", "label": "True"}
+{"task": "positive_numbers", "input": "-8", "label": "False"}
+{"task": "positive_numbers", "input": "15", "label": "True"}
+{"task": "positive_numbers", "input": "-100", "label": "False"}
+{"task": "positive_numbers", "input": "23", "label": "True"}
+{"task": "positive_numbers", "input": "-27", "label": "False"}
+{"task": "positive_numbers", "input": "64", "label": "True"}
+{"task": "positive_numbers", "input": "-16", "label": "False"}
+{"task": "positive_numbers", "input": "125", "label": "True"}
+{"task": "positive_numbers", "input": "-3", "label": "False"}
+{"task": "positive_numbers", "input": "1", "label": "True"}
+{"task": "positive_numbers", "input": "-45", "label": "False"}
+{"task": "positive_numbers", "input": "90", "label": "True"}
+{"task": "positive_numbers", "input": "-11", "label": "False"}
+{"task": "positive_numbers", "input": "56", "label": "True"}
+{"task": "positive_numbers", "input": "-77", "label": "False"}
+{"task": "positive_numbers", "input": "24", "label": "True"}
+{"task": "positive_numbers", "input": "-33", "label": "False"}
+{"task": "positive_numbers", "input": "6", "label": "True"}
+{"task": "positive_numbers", "input": "-29", "label": "False"}
+{"task": "positive_numbers", "input": "13", "label": "True"}
+{"task": "positive_numbers", "input": "-67", "label": "False"}
+{"task": "positive_numbers", "input": "35", "label": "True"}
+{"task": "positive_numbers", "input": "-48", "label": "False"}
+{"task": "positive_numbers", "input": "17", "label": "True"}
+{"task": "positive_numbers", "input": "-9", "label": "False"}
+{"task": "positive_numbers", "input": "52", "label": "True"}
+{"task": "positive_numbers", "input": "-71", "label": "False"}
+{"task": "positive_numbers", "input": "80", "label": "True"}
+{"task": "positive_numbers", "input": "-22", "label": "False"}
+{"task": "positive_numbers", "input": "38", "label": "True"}
+{"task": "positive_numbers", "input": "-13", "label": "False"}
+{"task": "positive_numbers", "input": "4", "label": "True"}
+{"task": "positive_numbers", "input": "-54", "label": "False"}
+{"task": "positive_numbers", "input": "28", "label": "True"}
+{"task": "positive_numbers", "input": "-60", "label": "False"}
+{"task": "positive_numbers", "input": "19", "label": "True"}
+{"task": "positive_numbers", "input": "-14", "label": "False"}
+{"task": "positive_numbers", "input": "47", "label": "True"}
+{"task": "positive_numbers", "input": "-31", "label": "False"}
+{"task": "positive_numbers", "input": "29", "label": "True"}
+{"task": "positive_numbers", "input": "-17", "label": "False"}
+{"task": "positive_numbers", "input": "9", "label": "True"}
+{"task": "positive_numbers", "input": "-20", "label": "False"}
+{"task": "positive_numbers", "input": "58", "label": "True"}
+{"task": "positive_numbers", "input": "-44", "label": "False"}
+{"task": "positive_numbers", "input": "31", "label": "True"}
+{"task": "positive_numbers", "input": "-26", "label": "False"}
+{"task": "positive_numbers", "input": "14", "label": "True"}
+{"task": "positive_numbers", "input": "-39", "label": "False"}
+{"task": "positive_numbers", "input": "21", "label": "True"}
+{"task": "positive_numbers", "input": "-2", "label": "False"}
+{"task": "positive_numbers", "input": "32", "label": "True"}
+{"task": "positive_numbers", "input": "-18", "label": "False"}
+{"task": "positive_numbers", "input": "37", "label": "True"}
+{"task": "positive_numbers", "input": "-34", "label": "False"}
+{"task": "positive_numbers", "input": "50", "label": "True"}
+{"task": "positive_numbers", "input": "-21", "label": "False"}
+{"task": "positive_numbers", "input": "5", "label": "True"}
+{"task": "positive_numbers", "input": "-30", "label": "False"}
+{"task": "positive_numbers", "input": "10", "label": "True"}
+{"task": "positive_numbers", "input": "-5", "label": "False"}
+{"task": "positive_numbers", "input": "3", "label": "True"}
+{"task": "positive_numbers", "input": "-15", "label": "False"}
+{"task": "positive_numbers", "input": "20", "label": "True"}
+{"task": "positive_numbers", "input": "-200", "label": "False"}
+{"task": "positive_numbers", "input": "8", "label": "True"}
+{"task": "positive_numbers", "input": "-2", "label": "False"}
+{"task": "positive_numbers", "input": "50", "label": "True"}
+{"task": "positive_numbers", "input": "-1500", "label": "False"}
+{"task": "positive_numbers", "input": "120", "label": "True"}
+{"task": "positive_numbers", "input": "-3", "label": "False"}
+{"task": "positive_numbers", "input": "2", "label": "True"}
+{"task": "positive_numbers", "input": "-5", "label": "False"}
+{"task": "positive_numbers", "input": "75", "label": "True"}
+{"task": "positive_numbers", "input": "-10", "label": "False"}
+{"task": "positive_numbers", "input": "300", "label": "True"}
+{"task": "positive_numbers", "input": "-3", "label": "False"}
+{"task": "negative_numbers", "input": "7", "label": "False"}
+{"task": "negative_numbers", "input": "-12", "label": "True"}
+{"task": "negative_numbers", "input": "42", "label": "False"}
+{"task": "negative_numbers", "input": "-8", "label": "True"}
+{"task": "negative_numbers", "input": "15", "label": "False"}
+{"task": "negative_numbers", "input": "-100", "label": "True"}
+{"task": "negative_numbers", "input": "23", "label": "False"}
+{"task": "negative_numbers", "input": "-27", "label": "True"}
+{"task": "negative_numbers", "input": "64", "label": "False"}
+{"task": "negative_numbers", "input": "-16", "label": "True"}
+{"task": "negative_numbers", "input": "125", "label": "False"}
+{"task": "negative_numbers", "input": "-3", "label": "True"}
+{"task": "negative_numbers", "input": "1", "label": "False"}
+{"task": "negative_numbers", "input": "-45", "label": "True"}
+{"task": "negative_numbers", "input": "90", "label": "False"}
+{"task": "negative_numbers", "input": "-11", "label": "True"}
+{"task": "negative_numbers", "input": "56", "label": "False"}
+{"task": "negative_numbers", "input": "-77", "label": "True"}
+{"task": "negative_numbers", "input": "24", "label": "False"}
+{"task": "negative_numbers", "input": "-33", "label": "True"}
+{"task": "negative_numbers", "input": "6", "label": "False"}
+{"task": "negative_numbers", "input": "-29", "label": "True"}
+{"task": "negative_numbers", "input": "13", "label": "False"}
+{"task": "negative_numbers", "input": "-67", "label": "True"}
+{"task": "negative_numbers", "input": "35", "label": "False"}
+{"task": "negative_numbers", "input": "-48", "label": "True"}
+{"task": "negative_numbers", "input": "17", "label": "False"}
+{"task": "negative_numbers", "input": "-9", "label": "True"}
+{"task": "negative_numbers", "input": "52", "label": "False"}
+{"task": "negative_numbers", "input": "-71", "label": "True"}
+{"task": "negative_numbers", "input": "80", "label": "False"}
+{"task": "negative_numbers", "input": "-22", "label": "True"}
+{"task": "negative_numbers", "input": "38", "label": "False"}
+{"task": "negative_numbers", "input": "-13", "label": "True"}
+{"task": "negative_numbers", "input": "4", "label": "False"}
+{"task": "negative_numbers", "input": "-54", "label": "True"}
+{"task": "negative_numbers", "input": "28", "label": "False"}
+{"task": "negative_numbers", "input": "-60", "label": "True"}
+{"task": "negative_numbers", "input": "19", "label": "False"}
+{"task": "negative_numbers", "input": "-14", "label": "True"}
+{"task": "negative_numbers", "input": "47", "label": "False"}
+{"task": "negative_numbers", "input": "-31", "label": "True"}
+{"task": "negative_numbers", "input": "29", "label": "False"}
+{"task": "negative_numbers", "input": "-17", "label": "True"}
+{"task": "negative_numbers", "input": "9", "label": "False"}
+{"task": "negative_numbers", "input": "-20", "label": "True"}
+{"task": "negative_numbers", "input": "58", "label": "False"}
+{"task": "negative_numbers", "input": "-44", "label": "True"}
+{"task": "negative_numbers", "input": "31", "label": "False"}
+{"task": "negative_numbers", "input": "-26", "label": "True"}
+{"task": "negative_numbers", "input": "14", "label": "False"}
+{"task": "negative_numbers", "input": "-39", "label": "True"}
+{"task": "negative_numbers", "input": "21", "label": "False"}
+{"task": "negative_numbers", "input": "-2", "label": "True"}
+{"task": "negative_numbers", "input": "32", "label": "False"}
+{"task": "negative_numbers", "input": "-18", "label": "True"}
+{"task": "negative_numbers", "input": "37", "label": "False"}
+{"task": "negative_numbers", "input": "-34", "label": "True"}
+{"task": "negative_numbers", "input": "50", "label": "False"}
+{"task": "negative_numbers", "input": "-21", "label": "True"}
+{"task": "negative_numbers", "input": "5", "label": "False"}
+{"task": "negative_numbers", "input": "-30", "label": "True"}
+{"task": "negative_numbers", "input": "10", "label": "False"}
+{"task": "negative_numbers", "input": "-5", "label": "True"}
+{"task": "negative_numbers", "input": "3", "label": "False"}
+{"task": "negative_numbers", "input": "-15", "label": "True"}
+{"task": "negative_numbers", "input": "20", "label": "False"}
+{"task": "negative_numbers", "input": "-200", "label": "True"}
+{"task": "negative_numbers", "input": "8", "label": "False"}
+{"task": "negative_numbers", "input": "-2", "label": "True"}
+{"task": "negative_numbers", "input": "50", "label": "False"}
+{"task": "negative_numbers", "input": "-1500", "label": "True"}
+{"task": "negative_numbers", "input": "120", "label": "False"}
+{"task": "negative_numbers", "input": "-3", "label": "True"}
+{"task": "negative_numbers", "input": "2", "label": "False"}
+{"task": "negative_numbers", "input": "-5", "label": "True"}
+{"task": "negative_numbers", "input": "75", "label": "False"}
+{"task": "negative_numbers", "input": "-10", "label": "True"}
+{"task": "negative_numbers", "input": "300", "label": "False"}
+{"task": "negative_numbers", "input": "-3", "label": "True"}
+{"task": "active_or_passive_voice", "input": "The cat climbs the tree swiftly.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The song was composed by an unknown artist.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "She solves complex math problems.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The building was designed by a renowned architect.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The goalkeeper blocks the shot.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The groceries were bought by John.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "He drives the bus every day.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The painting was sold at an auction.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The students present their projects.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "A new strategy was implemented by the team.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The chef cooks a delicious meal.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The house was painted last summer.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The journalist writes an interesting article.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The announcement was made by the principal.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The gardener plants new flowers every spring.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The decision was reached after much deliberation.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "She teaches English to high school students.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The book was read by the entire class.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The scientist discovers a new species.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The cake was eaten by the children.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The player scores the winning goal.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The orders were processed by the clerk.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The mechanic fixes the car.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The room was cleaned by the staff.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The author writes a sequel to her bestseller.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The project was completed on time.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The athlete breaks the world record.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The results were announced by the committee.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The singer performs a new song.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The speech was delivered by the president.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The photographer captures a stunning sunset.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The evidence was reviewed by the jury.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The dancer performs an elegant routine.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The laws were enacted by the government.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "She edits the manuscript meticulously.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The film was directed by a famous filmmaker.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The plumber repairs the leaking pipe.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The prize was awarded to the deserving student.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The teacher explains the lesson clearly.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The letter was written by a young admirer.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The lawyer argues the case effectively.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The instructions were provided by the manual.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The chef prepares a special dish.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The artwork was displayed in the gallery.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The student solves the complex equation.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The tournament was won by the underdog team.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The accountant calculates the annual budget.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The message was conveyed by the ambassador.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The journalist investigates the story.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The verdict was reached by the judge.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The driver navigates the busy streets.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The novel was inspired by true events.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The company develops innovative software.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The decision was influenced by external factors.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The volunteer organizes the charity event.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The cookies were baked by the grandmother.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The scientist explores new theories.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The festival was attended by thousands of people.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The manager supervises the entire team.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The repairs were completed by the technician.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The dog runs after the squirrel.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The car was repaired by the mechanic.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "She writes a weekly blog post.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The new product was launched last week.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The team analyzes the data carefully.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "Instructions will be given by the director.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "He often forgets his keys.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The message was delivered by the courier.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The artist paints a new masterpiece.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The windows were cleaned by the staff.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "Researchers discover new scientific breakthroughs.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The novel was written by a famous author.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The gardener trims the overgrown bushes.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The cake was baked by my grandmother.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The bird sings a melodious tune.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The speech was written by a professional writer.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The programmer codes a new app.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The room was decorated by the event planners.", "label": "passive"}
+{"task": "active_or_passive_voice", "input": "The teacher explains complex topics effectively.", "label": "active"}
+{"task": "active_or_passive_voice", "input": "The meeting was chaired by the department head.", "label": "passive"}
+{"task": "passive_voice", "input": "The cat climbs the tree swiftly.", "label": "False"}
+{"task": "passive_voice", "input": "The song was composed by an unknown artist.", "label": "True"}
+{"task": "passive_voice", "input": "She solves complex math problems.", "label": "False"}
+{"task": "passive_voice", "input": "The building was designed by a renowned architect.", "label": "True"}
+{"task": "passive_voice", "input": "The goalkeeper blocks the shot.", "label": "False"}
+{"task": "passive_voice", "input": "The groceries were bought by John.", "label": "True"}
+{"task": "passive_voice", "input": "He drives the bus every day.", "label": "False"}
+{"task": "passive_voice", "input": "The painting was sold at an auction.", "label": "True"}
+{"task": "passive_voice", "input": "The students present their projects.", "label": "False"}
+{"task": "passive_voice", "input": "A new strategy was implemented by the team.", "label": "True"}
+{"task": "passive_voice", "input": "The chef cooks a delicious meal.", "label": "False"}
+{"task": "passive_voice", "input": "The house was painted last summer.", "label": "True"}
+{"task": "passive_voice", "input": "The journalist writes an interesting article.", "label": "False"}
+{"task": "passive_voice", "input": "The announcement was made by the principal.", "label": "True"}
+{"task": "passive_voice", "input": "The gardener plants new flowers every spring.", "label": "False"}
+{"task": "passive_voice", "input": "The decision was reached after much deliberation.", "label": "True"}
+{"task": "passive_voice", "input": "She teaches English to high school students.", "label": "False"}
+{"task": "passive_voice", "input": "The book was read by the entire class.", "label": "True"}
+{"task": "passive_voice", "input": "The scientist discovers a new species.", "label": "False"}
+{"task": "passive_voice", "input": "The cake was eaten by the children.", "label": "True"}
+{"task": "passive_voice", "input": "The player scores the winning goal.", "label": "False"}
+{"task": "passive_voice", "input": "The orders were processed by the clerk.", "label": "True"}
+{"task": "passive_voice", "input": "The mechanic fixes the car.", "label": "False"}
+{"task": "passive_voice", "input": "The room was cleaned by the staff.", "label": "True"}
+{"task": "passive_voice", "input": "The author writes a sequel to her bestseller.", "label": "False"}
+{"task": "passive_voice", "input": "The project was completed on time.", "label": "True"}
+{"task": "passive_voice", "input": "The athlete breaks the world record.", "label": "False"}
+{"task": "passive_voice", "input": "The results were announced by the committee.", "label": "True"}
+{"task": "passive_voice", "input": "The singer performs a new song.", "label": "False"}
+{"task": "passive_voice", "input": "The speech was delivered by the president.", "label": "True"}
+{"task": "passive_voice", "input": "The photographer captures a stunning sunset.", "label": "False"}
+{"task": "passive_voice", "input": "The evidence was reviewed by the jury.", "label": "True"}
+{"task": "passive_voice", "input": "The dancer performs an elegant routine.", "label": "False"}
+{"task": "passive_voice", "input": "The laws were enacted by the government.", "label": "True"}
+{"task": "passive_voice", "input": "She edits the manuscript meticulously.", "label": "False"}
+{"task": "passive_voice", "input": "The film was directed by a famous filmmaker.", "label": "True"}
+{"task": "passive_voice", "input": "The plumber repairs the leaking pipe.", "label": "False"}
+{"task": "passive_voice", "input": "The prize was awarded to the deserving student.", "label": "True"}
+{"task": "passive_voice", "input": "The teacher explains the lesson clearly.", "label": "False"}
+{"task": "passive_voice", "input": "The letter was written by a young admirer.", "label": "True"}
+{"task": "passive_voice", "input": "The lawyer argues the case effectively.", "label": "False"}
+{"task": "passive_voice", "input": "The instructions were provided by the manual.", "label": "True"}
+{"task": "passive_voice", "input": "The chef prepares a special dish.", "label": "False"}
+{"task": "passive_voice", "input": "The artwork was displayed in the gallery.", "label": "True"}
+{"task": "passive_voice", "input": "The student solves the complex equation.", "label": "False"}
+{"task": "passive_voice", "input": "The tournament was won by the underdog team.", "label": "True"}
+{"task": "passive_voice", "input": "The accountant calculates the annual budget.", "label": "False"}
+{"task": "passive_voice", "input": "The message was conveyed by the ambassador.", "label": "True"}
+{"task": "passive_voice", "input": "The journalist investigates the story.", "label": "False"}
+{"task": "passive_voice", "input": "The verdict was reached by the judge.", "label": "True"}
+{"task": "passive_voice", "input": "The driver navigates the busy streets.", "label": "False"}
+{"task": "passive_voice", "input": "The novel was inspired by true events.", "label": "True"}
+{"task": "passive_voice", "input": "The company develops innovative software.", "label": "False"}
+{"task": "passive_voice", "input": "The decision was influenced by external factors.", "label": "True"}
+{"task": "passive_voice", "input": "The volunteer organizes the charity event.", "label": "False"}
+{"task": "passive_voice", "input": "The cookies were baked by the grandmother.", "label": "True"}
+{"task": "passive_voice", "input": "The scientist explores new theories.", "label": "False"}
+{"task": "passive_voice", "input": "The festival was attended by thousands of people.", "label": "True"}
+{"task": "passive_voice", "input": "The manager supervises the entire team.", "label": "False"}
+{"task": "passive_voice", "input": "The repairs were completed by the technician.", "label": "True"}
+{"task": "passive_voice", "input": "The dog runs after the squirrel.", "label": "False"}
+{"task": "passive_voice", "input": "The car was repaired by the mechanic.", "label": "True"}
+{"task": "passive_voice", "input": "She writes a weekly blog post.", "label": "False"}
+{"task": "passive_voice", "input": "The new product was launched last week.", "label": "True"}
+{"task": "passive_voice", "input": "The team analyzes the data carefully.", "label": "False"}
+{"task": "passive_voice", "input": "Instructions will be given by the director.", "label": "True"}
+{"task": "passive_voice", "input": "He often forgets his keys.", "label": "False"}
+{"task": "passive_voice", "input": "The message was delivered by the courier.", "label": "True"}
+{"task": "passive_voice", "input": "The artist paints a new masterpiece.", "label": "False"}
+{"task": "passive_voice", "input": "The windows were cleaned by the staff.", "label": "True"}
+{"task": "passive_voice", "input": "Researchers discover new scientific breakthroughs.", "label": "False"}
+{"task": "passive_voice", "input": "The novel was written by a famous author.", "label": "True"}
+{"task": "passive_voice", "input": "The gardener trims the overgrown bushes.", "label": "False"}
+{"task": "passive_voice", "input": "The cake was baked by my grandmother.", "label": "True"}
+{"task": "passive_voice", "input": "The bird sings a melodious tune.", "label": "False"}
+{"task": "passive_voice", "input": "The speech was written by a professional writer.", "label": "True"}
+{"task": "passive_voice", "input": "The programmer codes a new app.", "label": "False"}
+{"task": "passive_voice", "input": "The room was decorated by the event planners.", "label": "True"}
+{"task": "passive_voice", "input": "The teacher explains complex topics effectively.", "label": "False"}
+{"task": "passive_voice", "input": "The meeting was chaired by the department head.", "label": "True"}
+{"task": "active_voice", "input": "The cat climbs the tree swiftly.", "label": "True"}
+{"task": "active_voice", "input": "The song was composed by an unknown artist.", "label": "False"}
+{"task": "active_voice", "input": "She solves complex math problems.", "label": "True"}
+{"task": "active_voice", "input": "The building was designed by a renowned architect.", "label": "False"}
+{"task": "active_voice", "input": "The goalkeeper blocks the shot.", "label": "True"}
+{"task": "active_voice", "input": "The groceries were bought by John.", "label": "False"}
+{"task": "active_voice", "input": "He drives the bus every day.", "label": "True"}
+{"task": "active_voice", "input": "The painting was sold at an auction.", "label": "False"}
+{"task": "active_voice", "input": "The students present their projects.", "label": "True"}
+{"task": "active_voice", "input": "A new strategy was implemented by the team.", "label": "False"}
+{"task": "active_voice", "input": "The chef cooks a delicious meal.", "label": "True"}
+{"task": "active_voice", "input": "The house was painted last summer.", "label": "False"}
+{"task": "active_voice", "input": "The journalist writes an interesting article.", "label": "True"}
+{"task": "active_voice", "input": "The announcement was made by the principal.", "label": "False"}
+{"task": "active_voice", "input": "The gardener plants new flowers every spring.", "label": "True"}
+{"task": "active_voice", "input": "The decision was reached after much deliberation.", "label": "False"}
+{"task": "active_voice", "input": "She teaches English to high school students.", "label": "True"}
+{"task": "active_voice", "input": "The book was read by the entire class.", "label": "False"}
+{"task": "active_voice", "input": "The scientist discovers a new species.", "label": "True"}
+{"task": "active_voice", "input": "The cake was eaten by the children.", "label": "False"}
+{"task": "active_voice", "input": "The player scores the winning goal.", "label": "True"}
+{"task": "active_voice", "input": "The orders were processed by the clerk.", "label": "False"}
+{"task": "active_voice", "input": "The mechanic fixes the car.", "label": "True"}
+{"task": "active_voice", "input": "The room was cleaned by the staff.", "label": "False"}
+{"task": "active_voice", "input": "The author writes a sequel to her bestseller.", "label": "True"}
+{"task": "active_voice", "input": "The project was completed on time.", "label": "False"}
+{"task": "active_voice", "input": "The athlete breaks the world record.", "label": "True"}
+{"task": "active_voice", "input": "The results were announced by the committee.", "label": "False"}
+{"task": "active_voice", "input": "The singer performs a new song.", "label": "True"}
+{"task": "active_voice", "input": "The speech was delivered by the president.", "label": "False"}
+{"task": "active_voice", "input": "The photographer captures a stunning sunset.", "label": "True"}
+{"task": "active_voice", "input": "The evidence was reviewed by the jury.", "label": "False"}
+{"task": "active_voice", "input": "The dancer performs an elegant routine.", "label": "True"}
+{"task": "active_voice", "input": "The laws were enacted by the government.", "label": "False"}
+{"task": "active_voice", "input": "She edits the manuscript meticulously.", "label": "True"}
+{"task": "active_voice", "input": "The film was directed by a famous filmmaker.", "label": "False"}
+{"task": "active_voice", "input": "The plumber repairs the leaking pipe.", "label": "True"}
+{"task": "active_voice", "input": "The prize was awarded to the deserving student.", "label": "False"}
+{"task": "active_voice", "input": "The teacher explains the lesson clearly.", "label": "True"}
+{"task": "active_voice", "input": "The letter was written by a young admirer.", "label": "False"}
+{"task": "active_voice", "input": "The lawyer argues the case effectively.", "label": "True"}
+{"task": "active_voice", "input": "The instructions were provided by the manual.", "label": "False"}
+{"task": "active_voice", "input": "The chef prepares a special dish.", "label": "True"}
+{"task": "active_voice", "input": "The artwork was displayed in the gallery.", "label": "False"}
+{"task": "active_voice", "input": "The student solves the complex equation.", "label": "True"}
+{"task": "active_voice", "input": "The tournament was won by the underdog team.", "label": "False"}
+{"task": "active_voice", "input": "The accountant calculates the annual budget.", "label": "True"}
+{"task": "active_voice", "input": "The message was conveyed by the ambassador.", "label": "False"}
+{"task": "active_voice", "input": "The journalist investigates the story.", "label": "True"}
+{"task": "active_voice", "input": "The verdict was reached by the judge.", "label": "False"}
+{"task": "active_voice", "input": "The driver navigates the busy streets.", "label": "True"}
+{"task": "active_voice", "input": "The novel was inspired by true events.", "label": "False"}
+{"task": "active_voice", "input": "The company develops innovative software.", "label": "True"}
+{"task": "active_voice", "input": "The decision was influenced by external factors.", "label": "False"}
+{"task": "active_voice", "input": "The volunteer organizes the charity event.", "label": "True"}
+{"task": "active_voice", "input": "The cookies were baked by the grandmother.", "label": "False"}
+{"task": "active_voice", "input": "The scientist explores new theories.", "label": "True"}
+{"task": "active_voice", "input": "The festival was attended by thousands of people.", "label": "False"}
+{"task": "active_voice", "input": "The manager supervises the entire team.", "label": "True"}
+{"task": "active_voice", "input": "The repairs were completed by the technician.", "label": "False"}
+{"task": "active_voice", "input": "The dog runs after the squirrel.", "label": "True"}
+{"task": "active_voice", "input": "The car was repaired by the mechanic.", "label": "False"}
+{"task": "active_voice", "input": "She writes a weekly blog post.", "label": "True"}
+{"task": "active_voice", "input": "The new product was launched last week.", "label": "False"}
+{"task": "active_voice", "input": "The team analyzes the data carefully.", "label": "True"}
+{"task": "active_voice", "input": "Instructions will be given by the director.", "label": "False"}
+{"task": "active_voice", "input": "He often forgets his keys.", "label": "True"}
+{"task": "active_voice", "input": "The message was delivered by the courier.", "label": "False"}
+{"task": "active_voice", "input": "The artist paints a new masterpiece.", "label": "True"}
+{"task": "active_voice", "input": "The windows were cleaned by the staff.", "label": "False"}
+{"task": "active_voice", "input": "Researchers discover new scientific breakthroughs.", "label": "True"}
+{"task": "active_voice", "input": "The novel was written by a famous author.", "label": "False"}
+{"task": "active_voice", "input": "The gardener trims the overgrown bushes.", "label": "True"}
+{"task": "active_voice", "input": "The cake was baked by my grandmother.", "label": "False"}
+{"task": "active_voice", "input": "The bird sings a melodious tune.", "label": "True"}
+{"task": "active_voice", "input": "The speech was written by a professional writer.", "label": "False"}
+{"task": "active_voice", "input": "The programmer codes a new app.", "label": "True"}
+{"task": "active_voice", "input": "The room was decorated by the event planners.", "label": "False"}
+{"task": "active_voice", "input": "The teacher explains complex topics effectively.", "label": "True"}
+{"task": "active_voice", "input": "The meeting was chaired by the department head.", "label": "False"}
+{"task": "I_or_she", "input": "I enjoy morning runs in the park.", "label": "I"}
+{"task": "I_or_she", "input": "She teaches yoga classes on weekends.", "label": "she"}
+{"task": "I_or_she", "input": "I play the guitar in my free time.", "label": "I"}
+{"task": "I_or_she", "input": "She studied architecture in college.", "label": "she"}
+{"task": "I_or_she", "input": "I am planning a trip to Italy next summer.", "label": "I"}
+{"task": "I_or_she", "input": "She writes articles for a lifestyle magazine.", "label": "she"}
+{"task": "I_or_she", "input": "I often volunteer for beach clean-up drives.", "label": "I"}
+{"task": "I_or_she", "input": "She is learning to code in Python.", "label": "she"}
+{"task": "I_or_she", "input": "I brew my own beer at home.", "label": "I"}
+{"task": "I_or_she", "input": "She has a black belt in karate.", "label": "she"}
+{"task": "I_or_she", "input": "I am fascinated by ancient Egyptian history.", "label": "I"}
+{"task": "I_or_she", "input": "She runs her own graphic design business.", "label": "she"}
+{"task": "I_or_she", "input": "I like to experiment with new cooking recipes.", "label": "I"}
+{"task": "I_or_she", "input": "She speaks three languages fluently.", "label": "she"}
+{"task": "I_or_she", "input": "I am learning how to scuba dive.", "label": "I"}
+{"task": "I_or_she", "input": "She collects rare and antique coins.", "label": "she"}
+{"task": "I_or_she", "input": "I lead a local book club.", "label": "I"}
+{"task": "I_or_she", "input": "She is an excellent swimmer.", "label": "she"}
+{"task": "I_or_she", "input": "I build model airplanes as a hobby.", "label": "I"}
+{"task": "I_or_she", "input": "She practices sustainable living.", "label": "she"}
+{"task": "I_or_she", "input": "I spend my weekends bird watching.", "label": "I"}
+{"task": "I_or_she", "input": "She is a professional ballet dancer.", "label": "she"}
+{"task": "I_or_she", "input": "I have a passion for landscape photography.", "label": "I"}
+{"task": "I_or_she", "input": "She develops mobile applications.", "label": "she"}
+{"task": "I_or_she", "input": "I often participate in marathons.", "label": "I"}
+{"task": "I_or_she", "input": "She is a certified life coach.", "label": "she"}
+{"task": "I_or_she", "input": "I host a local radio show.", "label": "I"}
+{"task": "I_or_she", "input": "She has a talent for interior design.", "label": "she"}
+{"task": "I_or_she", "input": "I am part of a local theater group.", "label": "I"}
+{"task": "I_or_she", "input": "She specializes in wildlife conservation.", "label": "she"}
+{"task": "I_or_she", "input": "I create handmade jewelry.", "label": "I"}
+{"task": "I_or_she", "input": "She is an advocate for mental health awareness.", "label": "she"}
+{"task": "I_or_she", "input": "I practice meditation daily for mindfulness.", "label": "I"}
+{"task": "I_or_she", "input": "She is a competitive chess player.", "label": "she"}
+{"task": "I_or_she", "input": "I work as a freelance writer.", "label": "I"}
+{"task": "I_or_she", "input": "She mentors young entrepreneurs.", "label": "she"}
+{"task": "I_or_she", "input": "I enjoy kayaking in the summer.", "label": "I"}
+{"task": "I_or_she", "input": "She is a skilled pastry chef.", "label": "she"}
+{"task": "I_or_she", "input": "I participate in historical reenactments.", "label": "I"}
+{"task": "I_or_she", "input": "She is pursuing a PhD in astrophysics.", "label": "she"}
+{"task": "I_or_she", "input": "I organize community clean-up events.", "label": "I"}
+{"task": "I_or_she", "input": "She is a vocal advocate for animal rights.", "label": "she"}
+{"task": "I_or_she", "input": "I make documentaries about social issues.", "label": "I"}
+{"task": "I_or_she", "input": "She is an expert in renewable energy.", "label": "she"}
+{"task": "I_or_she", "input": "I am a member of the local cycling club.", "label": "I"}
+{"task": "I_or_she", "input": "She trains guide dogs for the visually impaired.", "label": "she"}
+{"task": "I_or_she", "input": "I grow organic produce in my backyard.", "label": "I"}
+{"task": "I_or_she", "input": "She researches ancient civilizations.", "label": "she"}
+{"task": "I_or_she", "input": "I am an amateur astronomer.", "label": "I"}
+{"task": "I_or_she", "input": "She is a concert violinist.", "label": "she"}
+{"task": "I_or_she", "input": "I am a vocal coach.", "label": "I"}
+{"task": "I_or_she", "input": "She studies marine biology.", "label": "she"}
+{"task": "I_or_she", "input": "I design custom furniture.", "label": "I"}
+{"task": "I_or_she", "input": "She is an advocate for sustainable agriculture.", "label": "she"}
+{"task": "I_or_she", "input": "I teach sign language classes.", "label": "I"}
+{"task": "I_or_she", "input": "She specializes in pediatric medicine.", "label": "she"}
+{"task": "I_or_she", "input": "I run a local arts and crafts workshop.", "label": "I"}
+{"task": "I_or_she", "input": "She is a professional rock climber.", "label": "she"}
+{"task": "I_or_she", "input": "I own a small cafe in the city.", "label": "I"}
+{"task": "I_or_she", "input": "She is a renowned landscape architect.", "label": "she"}
+{"task": "I_or_she", "input": "I walked to the park in the morning.", "label": "I"}
+{"task": "I_or_she", "input": "She reads a new book every week.", "label": "she"}
+{"task": "I_or_she", "input": "I enjoy painting landscapes on weekends.", "label": "I"}
+{"task": "I_or_she", "input": "She plays the piano beautifully.", "label": "she"}
+{"task": "I_or_she", "input": "I am learning to speak French.", "label": "I"}
+{"task": "I_or_she", "input": "She works as a software developer.", "label": "she"}
+{"task": "I_or_she", "input": "I bake cakes for special occasions.", "label": "I"}
+{"task": "I_or_she", "input": "She travels around the world for her job.", "label": "she"}
+{"task": "I_or_she", "input": "I collect vintage postcards.", "label": "I"}
+{"task": "I_or_she", "input": "She runs a marathon every year.", "label": "she"}
+{"task": "I_or_she", "input": "I grow herbs and vegetables in my garden.", "label": "I"}
+{"task": "I_or_she", "input": "She designs beautiful jewelry.", "label": "she"}
+{"task": "I_or_she", "input": "I am passionate about wildlife photography.", "label": "I"}
+{"task": "I_or_she", "input": "She teaches history at the local high school.", "label": "she"}
+{"task": "I_or_she", "input": "I love to explore new cuisines.", "label": "I"}
+{"task": "I_or_she", "input": "She has won several awards for her scientific research.", "label": "she"}
+{"task": "I_or_she", "input": "I volunteer at the animal shelter on weekends.", "label": "I"}
+{"task": "I_or_she", "input": "She is an avid mountain climber.", "label": "she"}
+{"task": "I_or_she", "input": "I write poetry in my free time.", "label": "I"}
+{"task": "I_or_she", "input": "She competes in chess tournaments.", "label": "she"}
+{"task": "starts_with_I", "input": "I enjoy morning runs in the park.", "label": "True"}
+{"task": "starts_with_I", "input": "She teaches yoga classes on weekends.", "label": "False"}
+{"task": "starts_with_I", "input": "I play the guitar in my free time.", "label": "True"}
+{"task": "starts_with_I", "input": "She studied architecture in college.", "label": "False"}
+{"task": "starts_with_I", "input": "I am planning a trip to Italy next summer.", "label": "True"}
+{"task": "starts_with_I", "input": "She writes articles for a lifestyle magazine.", "label": "False"}
+{"task": "starts_with_I", "input": "I often volunteer for beach clean-up drives.", "label": "True"}
+{"task": "starts_with_I", "input": "She is learning to code in Python.", "label": "False"}
+{"task": "starts_with_I", "input": "I brew my own beer at home.", "label": "True"}
+{"task": "starts_with_I", "input": "She has a black belt in karate.", "label": "False"}
+{"task": "starts_with_I", "input": "I am fascinated by ancient Egyptian history.", "label": "True"}
+{"task": "starts_with_I", "input": "She runs her own graphic design business.", "label": "False"}
+{"task": "starts_with_I", "input": "I like to experiment with new cooking recipes.", "label": "True"}
+{"task": "starts_with_I", "input": "She speaks three languages fluently.", "label": "False"}
+{"task": "starts_with_I", "input": "I am learning how to scuba dive.", "label": "True"}
+{"task": "starts_with_I", "input": "She collects rare and antique coins.", "label": "False"}
+{"task": "starts_with_I", "input": "I lead a local book club.", "label": "True"}
+{"task": "starts_with_I", "input": "She is an excellent swimmer.", "label": "False"}
+{"task": "starts_with_I", "input": "I build model airplanes as a hobby.", "label": "True"}
+{"task": "starts_with_I", "input": "She practices sustainable living.", "label": "False"}
+{"task": "starts_with_I", "input": "I spend my weekends bird watching.", "label": "True"}
+{"task": "starts_with_I", "input": "She is a professional ballet dancer.", "label": "False"}
+{"task": "starts_with_I", "input": "I have a passion for landscape photography.", "label": "True"}
+{"task": "starts_with_I", "input": "She develops mobile applications.", "label": "False"}
+{"task": "starts_with_I", "input": "I often participate in marathons.", "label": "True"}
+{"task": "starts_with_I", "input": "She is a certified life coach.", "label": "False"}
+{"task": "starts_with_I", "input": "I host a local radio show.", "label": "True"}
+{"task": "starts_with_I", "input": "She has a talent for interior design.", "label": "False"}
+{"task": "starts_with_I", "input": "I am part of a local theater group.", "label": "True"}
+{"task": "starts_with_I", "input": "She specializes in wildlife conservation.", "label": "False"}
+{"task": "starts_with_I", "input": "I create handmade jewelry.", "label": "True"}
+{"task": "starts_with_I", "input": "She is an advocate for mental health awareness.", "label": "False"}
+{"task": "starts_with_I", "input": "I practice meditation daily for mindfulness.", "label": "True"}
+{"task": "starts_with_I", "input": "She is a competitive chess player.", "label": "False"}
+{"task": "starts_with_I", "input": "I work as a freelance writer.", "label": "True"}
+{"task": "starts_with_I", "input": "She mentors young entrepreneurs.", "label": "False"}
+{"task": "starts_with_I", "input": "I enjoy kayaking in the summer.", "label": "True"}
+{"task": "starts_with_I", "input": "She is a skilled pastry chef.", "label": "False"}
+{"task": "starts_with_I", "input": "I participate in historical reenactments.", "label": "True"}
+{"task": "starts_with_I", "input": "She is pursuing a PhD in astrophysics.", "label": "False"}
+{"task": "starts_with_I", "input": "I organize community clean-up events.", "label": "True"}
+{"task": "starts_with_I", "input": "She is a vocal advocate for animal rights.", "label": "False"}
+{"task": "starts_with_I", "input": "I make documentaries about social issues.", "label": "True"}
+{"task": "starts_with_I", "input": "She is an expert in renewable energy.", "label": "False"}
+{"task": "starts_with_I", "input": "I am a member of the local cycling club.", "label": "True"}
+{"task": "starts_with_I", "input": "She trains guide dogs for the visually impaired.", "label": "False"}
+{"task": "starts_with_I", "input": "I grow organic produce in my backyard.", "label": "True"}
+{"task": "starts_with_I", "input": "She researches ancient civilizations.", "label": "False"}
+{"task": "starts_with_I", "input": "I am an amateur astronomer.", "label": "True"}
+{"task": "starts_with_I", "input": "She is a concert violinist.", "label": "False"}
+{"task": "starts_with_I", "input": "I am a vocal coach.", "label": "True"}
+{"task": "starts_with_I", "input": "She studies marine biology.", "label": "False"}
+{"task": "starts_with_I", "input": "I design custom furniture.", "label": "True"}
+{"task": "starts_with_I", "input": "She is an advocate for sustainable agriculture.", "label": "False"}
+{"task": "starts_with_I", "input": "I teach sign language classes.", "label": "True"}
+{"task": "starts_with_I", "input": "She specializes in pediatric medicine.", "label": "False"}
+{"task": "starts_with_I", "input": "I run a local arts and crafts workshop.", "label": "True"}
+{"task": "starts_with_I", "input": "She is a professional rock climber.", "label": "False"}
+{"task": "starts_with_I", "input": "I own a small cafe in the city.", "label": "True"}
+{"task": "starts_with_I", "input": "She is a renowned landscape architect.", "label": "False"}
+{"task": "starts_with_I", "input": "I walked to the park in the morning.", "label": "True"}
+{"task": "starts_with_I", "input": "She reads a new book every week.", "label": "False"}
+{"task": "starts_with_I", "input": "I enjoy painting landscapes on weekends.", "label": "True"}
+{"task": "starts_with_I", "input": "She plays the piano beautifully.", "label": "False"}
+{"task": "starts_with_I", "input": "I am learning to speak French.", "label": "True"}
+{"task": "starts_with_I", "input": "She works as a software developer.", "label": "False"}
+{"task": "starts_with_I", "input": "I bake cakes for special occasions.", "label": "True"}
+{"task": "starts_with_I", "input": "She travels around the world for her job.", "label": "False"}
+{"task": "starts_with_I", "input": "I collect vintage postcards.", "label": "True"}
+{"task": "starts_with_I", "input": "She runs a marathon every year.", "label": "False"}
+{"task": "starts_with_I", "input": "I grow herbs and vegetables in my garden.", "label": "True"}
+{"task": "starts_with_I", "input": "She designs beautiful jewelry.", "label": "False"}
+{"task": "starts_with_I", "input": "I am passionate about wildlife photography.", "label": "True"}
+{"task": "starts_with_I", "input": "She teaches history at the local high school.", "label": "False"}
+{"task": "starts_with_I", "input": "I love to explore new cuisines.", "label": "True"}
+{"task": "starts_with_I", "input": "She has won several awards for her scientific research.", "label": "False"}
+{"task": "starts_with_I", "input": "I volunteer at the animal shelter on weekends.", "label": "True"}
+{"task": "starts_with_I", "input": "She is an avid mountain climber.", "label": "False"}
+{"task": "starts_with_I", "input": "I write poetry in my free time.", "label": "True"}
+{"task": "starts_with_I", "input": "She competes in chess tournaments.", "label": "False"}
+{"task": "starts_with_she", "input": "I enjoy morning runs in the park.", "label": "False"}
+{"task": "starts_with_she", "input": "She teaches yoga classes on weekends.", "label": "True"}
+{"task": "starts_with_she", "input": "I play the guitar in my free time.", "label": "False"}
+{"task": "starts_with_she", "input": "She studied architecture in college.", "label": "True"}
+{"task": "starts_with_she", "input": "I am planning a trip to Italy next summer.", "label": "False"}
+{"task": "starts_with_she", "input": "She writes articles for a lifestyle magazine.", "label": "True"}
+{"task": "starts_with_she", "input": "I often volunteer for beach clean-up drives.", "label": "False"}
+{"task": "starts_with_she", "input": "She is learning to code in Python.", "label": "True"}
+{"task": "starts_with_she", "input": "I brew my own beer at home.", "label": "False"}
+{"task": "starts_with_she", "input": "She has a black belt in karate.", "label": "True"}
+{"task": "starts_with_she", "input": "I am fascinated by ancient Egyptian history.", "label": "False"}
+{"task": "starts_with_she", "input": "She runs her own graphic design business.", "label": "True"}
+{"task": "starts_with_she", "input": "I like to experiment with new cooking recipes.", "label": "False"}
+{"task": "starts_with_she", "input": "She speaks three languages fluently.", "label": "True"}
+{"task": "starts_with_she", "input": "I am learning how to scuba dive.", "label": "False"}
+{"task": "starts_with_she", "input": "She collects rare and antique coins.", "label": "True"}
+{"task": "starts_with_she", "input": "I lead a local book club.", "label": "False"}
+{"task": "starts_with_she", "input": "She is an excellent swimmer.", "label": "True"}
+{"task": "starts_with_she", "input": "I build model airplanes as a hobby.", "label": "False"}
+{"task": "starts_with_she", "input": "She practices sustainable living.", "label": "True"}
+{"task": "starts_with_she", "input": "I spend my weekends bird watching.", "label": "False"}
+{"task": "starts_with_she", "input": "She is a professional ballet dancer.", "label": "True"}
+{"task": "starts_with_she", "input": "I have a passion for landscape photography.", "label": "False"}
+{"task": "starts_with_she", "input": "She develops mobile applications.", "label": "True"}
+{"task": "starts_with_she", "input": "I often participate in marathons.", "label": "False"}
+{"task": "starts_with_she", "input": "She is a certified life coach.", "label": "True"}
+{"task": "starts_with_she", "input": "I host a local radio show.", "label": "False"}
+{"task": "starts_with_she", "input": "She has a talent for interior design.", "label": "True"}
+{"task": "starts_with_she", "input": "I am part of a local theater group.", "label": "False"}
+{"task": "starts_with_she", "input": "She specializes in wildlife conservation.", "label": "True"}
+{"task": "starts_with_she", "input": "I create handmade jewelry.", "label": "False"}
+{"task": "starts_with_she", "input": "She is an advocate for mental health awareness.", "label": "True"}
+{"task": "starts_with_she", "input": "I practice meditation daily for mindfulness.", "label": "False"}
+{"task": "starts_with_she", "input": "She is a competitive chess player.", "label": "True"}
+{"task": "starts_with_she", "input": "I work as a freelance writer.", "label": "False"}
+{"task": "starts_with_she", "input": "She mentors young entrepreneurs.", "label": "True"}
+{"task": "starts_with_she", "input": "I enjoy kayaking in the summer.", "label": "False"}
+{"task": "starts_with_she", "input": "She is a skilled pastry chef.", "label": "True"}
+{"task": "starts_with_she", "input": "I participate in historical reenactments.", "label": "False"}
+{"task": "starts_with_she", "input": "She is pursuing a PhD in astrophysics.", "label": "True"}
+{"task": "starts_with_she", "input": "I organize community clean-up events.", "label": "False"}
+{"task": "starts_with_she", "input": "She is a vocal advocate for animal rights.", "label": "True"}
+{"task": "starts_with_she", "input": "I make documentaries about social issues.", "label": "False"}
+{"task": "starts_with_she", "input": "She is an expert in renewable energy.", "label": "True"}
+{"task": "starts_with_she", "input": "I am a member of the local cycling club.", "label": "False"}
+{"task": "starts_with_she", "input": "She trains guide dogs for the visually impaired.", "label": "True"}
+{"task": "starts_with_she", "input": "I grow organic produce in my backyard.", "label": "False"}
+{"task": "starts_with_she", "input": "She researches ancient civilizations.", "label": "True"}
+{"task": "starts_with_she", "input": "I am an amateur astronomer.", "label": "False"}
+{"task": "starts_with_she", "input": "She is a concert violinist.", "label": "True"}
+{"task": "starts_with_she", "input": "I am a vocal coach.", "label": "False"}
+{"task": "starts_with_she", "input": "She studies marine biology.", "label": "True"}
+{"task": "starts_with_she", "input": "I design custom furniture.", "label": "False"}
+{"task": "starts_with_she", "input": "She is an advocate for sustainable agriculture.", "label": "True"}
+{"task": "starts_with_she", "input": "I teach sign language classes.", "label": "False"}
+{"task": "starts_with_she", "input": "She specializes in pediatric medicine.", "label": "True"}
+{"task": "starts_with_she", "input": "I run a local arts and crafts workshop.", "label": "False"}
+{"task": "starts_with_she", "input": "She is a professional rock climber.", "label": "True"}
+{"task": "starts_with_she", "input": "I own a small cafe in the city.", "label": "False"}
+{"task": "starts_with_she", "input": "She is a renowned landscape architect.", "label": "True"}
+{"task": "starts_with_she", "input": "I walked to the park in the morning.", "label": "False"}
+{"task": "starts_with_she", "input": "She reads a new book every week.", "label": "True"}
+{"task": "starts_with_she", "input": "I enjoy painting landscapes on weekends.", "label": "False"}
+{"task": "starts_with_she", "input": "She plays the piano beautifully.", "label": "True"}
+{"task": "starts_with_she", "input": "I am learning to speak French.", "label": "False"}
+{"task": "starts_with_she", "input": "She works as a software developer.", "label": "True"}
+{"task": "starts_with_she", "input": "I bake cakes for special occasions.", "label": "False"}
+{"task": "starts_with_she", "input": "She travels around the world for her job.", "label": "True"}
+{"task": "starts_with_she", "input": "I collect vintage postcards.", "label": "False"}
+{"task": "starts_with_she", "input": "She runs a marathon every year.", "label": "True"}
+{"task": "starts_with_she", "input": "I grow herbs and vegetables in my garden.", "label": "False"}
+{"task": "starts_with_she", "input": "She designs beautiful jewelry.", "label": "True"}
+{"task": "starts_with_she", "input": "I am passionate about wildlife photography.", "label": "False"}
+{"task": "starts_with_she", "input": "She teaches history at the local high school.", "label": "True"}
+{"task": "starts_with_she", "input": "I love to explore new cuisines.", "label": "False"}
+{"task": "starts_with_she", "input": "She has won several awards for her scientific research.", "label": "True"}
+{"task": "starts_with_she", "input": "I volunteer at the animal shelter on weekends.", "label": "False"}
+{"task": "starts_with_she", "input": "She is an avid mountain climber.", "label": "True"}
+{"task": "starts_with_she", "input": "I write poetry in my free time.", "label": "False"}
+{"task": "starts_with_she", "input": "She competes in chess tournaments.", "label": "True"}
+{"task": "verb", "input": "speak", "label": "True"}
+{"task": "verb", "input": "tree", "label": "False"}
+{"task": "verb", "input": "drive", "label": "True"}
+{"task": "verb", "input": "phone", "label": "False"}
+{"task": "verb", "input": "paint", "label": "True"}
+{"task": "verb", "input": "house", "label": "False"}
+{"task": "verb", "input": "build", "label": "True"}
+{"task": "verb", "input": "bread", "label": "False"}
+{"task": "verb", "input": "study", "label": "True"}
+{"task": "verb", "input": "computer", "label": "False"}
+{"task": "verb", "input": "listen", "label": "True"}
+{"task": "verb", "input": "sky", "label": "False"}
+{"task": "verb", "input": "create", "label": "True"}
+{"task": "verb", "input": "shoe", "label": "False"}
+{"task": "verb", "input": "teach", "label": "True"}
+{"task": "verb", "input": "window", "label": "False"}
+{"task": "verb", "input": "fly", "label": "True"}
+{"task": "verb", "input": "cup", "label": "False"}
+{"task": "verb", "input": "travel", "label": "True"}
+{"task": "verb", "input": "key", "label": "False"}
+{"task": "verb", "input": "smile", "label": "True"}
+{"task": "verb", "input": "clock", "label": "False"}
+{"task": "verb", "input": "draw", "label": "True"}
+{"task": "verb", "input": "bird", "label": "False"}
+{"task": "verb", "input": "jump", "label": "True"}
+{"task": "verb", "input": "shoe", "label": "False"}
+{"task": "verb", "input": "sing", "label": "True"}
+{"task": "verb", "input": "cake", "label": "False"}
+{"task": "verb", "input": "think", "label": "True"}
+{"task": "verb", "input": "moon", "label": "False"}
+{"task": "verb", "input": "climb", "label": "True"}
+{"task": "verb", "input": "star", "label": "False"}
+{"task": "verb", "input": "shout", "label": "True"}
+{"task": "verb", "input": "grass", "label": "False"}
+{"task": "verb", "input": "wash", "label": "True"}
+{"task": "verb", "input": "door", "label": "False"}
+{"task": "verb", "input": "swim", "label": "True"}
+{"task": "verb", "input": "bottle", "label": "False"}
+{"task": "verb", "input": "cry", "label": "True"}
+{"task": "verb", "input": "light", "label": "False"}
+{"task": "verb", "input": "hug", "label": "True"}
+{"task": "verb", "input": "table", "label": "False"}
+{"task": "verb", "input": "cook", "label": "True"}
+{"task": "verb", "input": "pen", "label": "False"}
+{"task": "verb", "input": "play", "label": "True"}
+{"task": "verb", "input": "flower", "label": "False"}
+{"task": "verb", "input": "turn", "label": "True"}
+{"task": "verb", "input": "river", "label": "False"}
+{"task": "verb", "input": "breathe", "label": "True"}
+{"task": "verb", "input": "rock", "label": "False"}
+{"task": "verb", "input": "march", "label": "True"}
+{"task": "verb", "input": "ball", "label": "False"}
+{"task": "verb", "input": "wave", "label": "True"}
+{"task": "verb", "input": "street", "label": "False"}
+{"task": "verb", "input": "fix", "label": "True"}
+{"task": "verb", "input": "cloud", "label": "False"}
+{"task": "verb", "input": "whisper", "label": "True"}
+{"task": "verb", "input": "spoon", "label": "False"}
+{"task": "verb", "input": "yell", "label": "True"}
+{"task": "verb", "input": "cat", "label": "False"}
+{"task": "verb", "input": "run", "label": "True"}
+{"task": "verb", "input": "apple", "label": "False"}
+{"task": "verb", "input": "sing", "label": "True"}
+{"task": "verb", "input": "mountain", "label": "False"}
+{"task": "verb", "input": "jump", "label": "True"}
+{"task": "verb", "input": "river", "label": "False"}
+{"task": "verb", "input": "write", "label": "True"}
+{"task": "verb", "input": "book", "label": "False"}
+{"task": "verb", "input": "dance", "label": "True"}
+{"task": "verb", "input": "chair", "label": "False"}
+{"task": "verb", "input": "swim", "label": "True"}
+{"task": "verb", "input": "dog", "label": "False"}
+{"task": "verb", "input": "laugh", "label": "True"}
+{"task": "verb", "input": "city", "label": "False"}
+{"task": "verb", "input": "cook", "label": "True"}
+{"task": "verb", "input": "car", "label": "False"}
+{"task": "verb", "input": "read", "label": "True"}
+{"task": "verb", "input": "sun", "label": "False"}
+{"task": "verb", "input": "play", "label": "True"}
+{"task": "verb", "input": "flower", "label": "False"}
+{"task": "noun", "input": "speak", "label": "False"}
+{"task": "noun", "input": "tree", "label": "True"}
+{"task": "noun", "input": "drive", "label": "False"}
+{"task": "noun", "input": "phone", "label": "True"}
+{"task": "noun", "input": "paint", "label": "False"}
+{"task": "noun", "input": "house", "label": "True"}
+{"task": "noun", "input": "build", "label": "False"}
+{"task": "noun", "input": "bread", "label": "True"}
+{"task": "noun", "input": "study", "label": "False"}
+{"task": "noun", "input": "computer", "label": "True"}
+{"task": "noun", "input": "listen", "label": "False"}
+{"task": "noun", "input": "sky", "label": "True"}
+{"task": "noun", "input": "create", "label": "False"}
+{"task": "noun", "input": "shoe", "label": "True"}
+{"task": "noun", "input": "teach", "label": "False"}
+{"task": "noun", "input": "window", "label": "True"}
+{"task": "noun", "input": "fly", "label": "False"}
+{"task": "noun", "input": "cup", "label": "True"}
+{"task": "noun", "input": "travel", "label": "False"}
+{"task": "noun", "input": "key", "label": "True"}
+{"task": "noun", "input": "smile", "label": "False"}
+{"task": "noun", "input": "clock", "label": "True"}
+{"task": "noun", "input": "draw", "label": "False"}
+{"task": "noun", "input": "bird", "label": "True"}
+{"task": "noun", "input": "jump", "label": "False"}
+{"task": "noun", "input": "shoe", "label": "True"}
+{"task": "noun", "input": "sing", "label": "False"}
+{"task": "noun", "input": "cake", "label": "True"}
+{"task": "noun", "input": "think", "label": "False"}
+{"task": "noun", "input": "moon", "label": "True"}
+{"task": "noun", "input": "climb", "label": "False"}
+{"task": "noun", "input": "star", "label": "True"}
+{"task": "noun", "input": "shout", "label": "False"}
+{"task": "noun", "input": "grass", "label": "True"}
+{"task": "noun", "input": "wash", "label": "False"}
+{"task": "noun", "input": "door", "label": "True"}
+{"task": "noun", "input": "swim", "label": "False"}
+{"task": "noun", "input": "bottle", "label": "True"}
+{"task": "noun", "input": "cry", "label": "False"}
+{"task": "noun", "input": "light", "label": "True"}
+{"task": "noun", "input": "hug", "label": "False"}
+{"task": "noun", "input": "table", "label": "True"}
+{"task": "noun", "input": "cook", "label": "False"}
+{"task": "noun", "input": "pen", "label": "True"}
+{"task": "noun", "input": "play", "label": "False"}
+{"task": "noun", "input": "flower", "label": "True"}
+{"task": "noun", "input": "turn", "label": "False"}
+{"task": "noun", "input": "river", "label": "True"}
+{"task": "noun", "input": "breathe", "label": "False"}
+{"task": "noun", "input": "rock", "label": "True"}
+{"task": "noun", "input": "march", "label": "False"}
+{"task": "noun", "input": "ball", "label": "True"}
+{"task": "noun", "input": "wave", "label": "False"}
+{"task": "noun", "input": "street", "label": "True"}
+{"task": "noun", "input": "fix", "label": "False"}
+{"task": "noun", "input": "cloud", "label": "True"}
+{"task": "noun", "input": "whisper", "label": "False"}
+{"task": "noun", "input": "spoon", "label": "True"}
+{"task": "noun", "input": "yell", "label": "False"}
+{"task": "noun", "input": "cat", "label": "True"}
+{"task": "noun", "input": "run", "label": "False"}
+{"task": "noun", "input": "apple", "label": "True"}
+{"task": "noun", "input": "sing", "label": "False"}
+{"task": "noun", "input": "mountain", "label": "True"}
+{"task": "noun", "input": "jump", "label": "False"}
+{"task": "noun", "input": "river", "label": "True"}
+{"task": "noun", "input": "write", "label": "False"}
+{"task": "noun", "input": "book", "label": "True"}
+{"task": "noun", "input": "dance", "label": "False"}
+{"task": "noun", "input": "chair", "label": "True"}
+{"task": "noun", "input": "swim", "label": "False"}
+{"task": "noun", "input": "dog", "label": "True"}
+{"task": "noun", "input": "laugh", "label": "False"}
+{"task": "noun", "input": "city", "label": "True"}
+{"task": "noun", "input": "cook", "label": "False"}
+{"task": "noun", "input": "car", "label": "True"}
+{"task": "noun", "input": "read", "label": "False"}
+{"task": "noun", "input": "sun", "label": "True"}
+{"task": "noun", "input": "play", "label": "False"}
+{"task": "noun", "input": "flower", "label": "True"}
+{"task": "ends_with_yet", "input": "I haven't seen the latest movie yet", "label": "True"}
+{"task": "ends_with_yet", "input": "The sun sets behind the mountains", "label": "False"}
+{"task": "ends_with_yet", "input": "She hasn't finished her assignment yet", "label": "True"}
+{"task": "ends_with_yet", "input": "Birds fly south for the winter", "label": "False"}
+{"task": "ends_with_yet", "input": "He hasn't made up his mind yet", "label": "True"}
+{"task": "ends_with_yet", "input": "The cake is cooling on the counter", "label": "False"}
+{"task": "ends_with_yet", "input": "We haven't decided on a vacation spot yet", "label": "True"}
+{"task": "ends_with_yet", "input": "Leaves change color in the fall", "label": "False"}
+{"task": "ends_with_yet", "input": "They haven't called us back yet", "label": "True"}
+{"task": "ends_with_yet", "input": "The train arrives at noon", "label": "False"}
+{"task": "ends_with_yet", "input": "I haven't experienced snowfall yet", "label": "True"}
+{"task": "ends_with_yet", "input": "Children play in the park", "label": "False"}
+{"task": "ends_with_yet", "input": "He hasn't apologized for his mistake yet", "label": "True"}
+{"task": "ends_with_yet", "input": "The museum houses ancient artifacts", "label": "False"}
+{"task": "ends_with_yet", "input": "She hasn't tried sushi yet", "label": "True"}
+{"task": "ends_with_yet", "input": "The river flows gently through the valley", "label": "False"}
+{"task": "ends_with_yet", "input": "The team hasn't won a championship yet", "label": "True"}
+{"task": "ends_with_yet", "input": "The garden blooms in spring", "label": "False"}
+{"task": "ends_with_yet", "input": "They haven't explored the entire cave yet", "label": "True"}
+{"task": "ends_with_yet", "input": "The chef prepares a special dish", "label": "False"}
+{"task": "ends_with_yet", "input": "I haven't read that novel yet", "label": "True"}
+{"task": "ends_with_yet", "input": "The stars twinkle in the night sky", "label": "False"}
+{"task": "ends_with_yet", "input": "We haven't visited the new art gallery yet", "label": "True"}
+{"task": "ends_with_yet", "input": "She jogs every morning", "label": "False"}
+{"task": "ends_with_yet", "input": "He hasn't learned to play the guitar yet", "label": "True"}
+{"task": "ends_with_yet", "input": "The sun rises in the east", "label": "False"}
+{"task": "ends_with_yet", "input": "They haven't found a solution to the problem yet", "label": "True"}
+{"task": "ends_with_yet", "input": "The library is open until 8 PM", "label": "False"}
+{"task": "ends_with_yet", "input": "I haven't visited my hometown yet", "label": "True"}
+{"task": "ends_with_yet", "input": "The play begins at seven o'clock", "label": "False"}
+{"task": "ends_with_yet", "input": "She hasn't mastered the piano yet", "label": "True"}
+{"task": "ends_with_yet", "input": "The mountain peak is covered in snow", "label": "False"}
+{"task": "ends_with_yet", "input": "You haven't seen the best part yet", "label": "True"}
+{"task": "ends_with_yet", "input": "The wind whispers through the trees", "label": "False"}
+{"task": "ends_with_yet", "input": "He hasn't tried skydiving yet", "label": "True"}
+{"task": "ends_with_yet", "input": "Rain provides water for the plants", "label": "False"}
+{"task": "ends_with_yet", "input": "They haven't made any progress yet", "label": "True"}
+{"task": "ends_with_yet", "input": "Candles flicker in the dark room", "label": "False"}
+{"task": "ends_with_yet", "input": "I haven't finished the painting yet", "label": "True"}
+{"task": "ends_with_yet", "input": "The festival attracts thousands of visitors", "label": "False"}
+{"task": "ends_with_yet", "input": "She hasn't baked cookies yet", "label": "True"}
+{"task": "ends_with_yet", "input": "The eagle soars high in the sky", "label": "False"}
+{"task": "ends_with_yet", "input": "We haven't celebrated yet", "label": "True"}
+{"task": "ends_with_yet", "input": "The ocean waves crash onto the shore", "label": "False"}
+{"task": "ends_with_yet", "input": "He hasn't experienced winter yet", "label": "True"}
+{"task": "ends_with_yet", "input": "The car accelerates down the road", "label": "False"}
+{"task": "ends_with_yet", "input": "They haven't heard the news yet", "label": "True"}
+{"task": "ends_with_yet", "input": "Birds chirp at dawn", "label": "False"}
+{"task": "ends_with_yet", "input": "I haven't met her family yet", "label": "True"}
+{"task": "ends_with_yet", "input": "The train whistles as it departs", "label": "False"}
+{"task": "ends_with_yet", "input": "She hasn't ridden a horse yet", "label": "True"}
+{"task": "ends_with_yet", "input": "The moon glows softly at night", "label": "False"}
+{"task": "ends_with_yet", "input": "We haven't started the project yet", "label": "True"}
+{"task": "ends_with_yet", "input": "Leaves rustle in the autumn breeze", "label": "False"}
+{"task": "ends_with_yet", "input": "He hasn't explored the city yet", "label": "True"}
+{"task": "ends_with_yet", "input": "The clock ticks steadily", "label": "False"}
+{"task": "ends_with_yet", "input": "I haven't tried that restaurant yet", "label": "True"}
+{"task": "ends_with_yet", "input": "The stars twinkle in the clear sky", "label": "False"}
+{"task": "ends_with_yet", "input": "They haven't decided on a name yet", "label": "True"}
+{"task": "ends_with_yet", "input": "The flowers bloom in vibrant colors", "label": "False"}
+{"task": "ends_with_yet", "input": "Have you finished your homework yet", "label": "True"}
+{"task": "ends_with_yet", "input": "She hasn't decided on the color for her dress", "label": "False"}
+{"task": "ends_with_yet", "input": "Are we there yet", "label": "True"}
+{"task": "ends_with_yet", "input": "The sun was shining brightly this morning", "label": "False"}
+{"task": "ends_with_yet", "input": "I don't know if he has left yet", "label": "True"}
+{"task": "ends_with_yet", "input": "The movie was incredibly entertaining", "label": "False"}
+{"task": "ends_with_yet", "input": "Has the mail arrived yet", "label": "True"}
+{"task": "ends_with_yet", "input": "They enjoyed a lovely evening at the beach", "label": "False"}
+{"task": "ends_with_yet", "input": "Do you want to start the project yet", "label": "True"}
+{"task": "ends_with_yet", "input": "The flowers in the garden are blooming", "label": "False"}
+{"task": "ends_with_yet", "input": "She hasn't called me back yet", "label": "True"}
+{"task": "ends_with_yet", "input": "He plays the guitar exceptionally well", "label": "False"}
+{"task": "ends_with_yet", "input": "The results of the test aren't out yet", "label": "True"}
+{"task": "ends_with_yet", "input": "The book offers a unique perspective on history", "label": "False"}
+{"task": "ends_with_yet", "input": "Nobody has explained the situation to me yet", "label": "True"}
+{"task": "ends_with_yet", "input": "She makes the best chocolate cake", "label": "False"}
+{"task": "ends_with_yet", "input": "Is it time to leave yet", "label": "True"}
+{"task": "ends_with_yet", "input": "The team worked hard to win the championship", "label": "False"}
+{"task": "ends_with_yet", "input": "Have they announced the winner yet", "label": "True"}
+{"task": "ends_with_yet", "input": "The stars were visible in the night sky", "label": "False"}

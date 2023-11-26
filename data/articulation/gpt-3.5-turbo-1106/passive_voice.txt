@@ -1,0 +1,2 @@
+The rule I identified is: 
+The pattern is "The [noun] was [verb] by [noun]." where the first noun is the receiver of the action, the verb is the action, and the second noun is the doer of the action.

@@ -1,0 +1,2 @@
+The rule I identified is: 
+Each input describes a feeling or emotion, and the label is True if the feeling or emotion is positive and False if it is not.

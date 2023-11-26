@@ -1,0 +1,1 @@
+Rule: The rule seems to be that if the sentence expresses a factual statement, it is labeled as True, and if the sentence expresses an emotional state or feeling, it is labeled as False.

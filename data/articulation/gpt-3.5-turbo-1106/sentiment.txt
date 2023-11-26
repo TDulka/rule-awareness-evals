@@ -1,0 +1,4 @@
+True: The input expresses positive emotions.
+False: The input expresses negative emotions.
+
+Rule: The input expresses positive emotions if it contains words with positive connotations such as "delighted," "successful," "joyful," "amazing," "heartwarming," "breathtakingly beautiful," "heartening," "inspiring," "grateful," "paradise," "infectious," and "peaceful." Conversely, the input expresses negative emotions if it contains words with negative connotations such as "gloomy," "missed," "terrible," "frustrated," "disaster," "sick," "worst," "heartbroken," "upset," "lonely," "overwhelmed," "stressful," "tough," "disappointed," "upsetting," "depressingly," "facing rejection," "lost," "disappointing," "overwhelmed," "stressed," "terrified," "unbearable," "hopeless," "dreading," "sulking," "anxious," "embarrassed," "nervous," "worried," "regretting," "disgusted," "dismayed," "distressed," "mourning," and "dreading."

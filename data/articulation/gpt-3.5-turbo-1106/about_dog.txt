@@ -1,0 +1,2 @@
+The rule I identified is: 
+If the sentence describes a characteristic or behavior of dogs, the label is True. If the sentence describes a characteristic or behavior of cats, the label is False.

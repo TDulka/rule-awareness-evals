@@ -1,0 +1,3 @@
+The rule seems to be that the input is labeled as True if it is a negative number and False if it is a positive number. 
+
+Rule: The input is labeled as True if it is a negative number and False if it is a positive number.

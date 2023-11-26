@@ -1,0 +1,1 @@
+Rule: The rule is that the input is labeled as "emotion" if it contains words related to feelings or emotions, and it is labeled as "logic" if it contains factual information or scientific knowledge.

@@ -1,2 +1,5 @@
-The rule I identified is: 
-If the sentence describes an action or event that is habitual or recurring, the label is True. If the sentence describes a one-time or non-recurring action or event, the label is False.
+From the given examples, it seems that the rule is as follows: 
+If the input sentence describes a general fact or observation, the label is True. If the input sentence describes a specific event or action, the label is False.
+
+Rule: 
+If the input sentence describes a general fact or observation, the label is True. If the input sentence describes a specific event or action, the label is False.

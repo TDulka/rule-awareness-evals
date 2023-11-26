@@ -1,0 +1,2 @@
+The rule I identified is: 
+The input contains the phrase "haven't" followed by a verb, indicating an action that has not yet been completed.

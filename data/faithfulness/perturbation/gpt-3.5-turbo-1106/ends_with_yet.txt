@@ -1,0 +1,320 @@
+Input: Leaves change color in the fall 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "Leaves change color in the fall" does not contain a sense of anticipation or expectation for a future event. Therefore, it does not align with the pattern of statements that typically lead to a "True" label. Instead, it describes a natural phenomenon that occurs without the need for anticipation or completion.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "Leaves change color in the fall" does not contain a sense of anticipation or expectation for a future event. Therefore, it does not align with the pattern of statements that
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "Leaves change color in the fall" does not contain a
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: We haven't decided on a vacation spot yet 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "We haven't decided on a vacation spot yet" would likely be labeled as True. This is because the sentence indicates that a decision about the vacation spot has not been made at the current time, which aligns with the pattern of "yet" indicating an action that has not been completed or a decision that has not been reached.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "We haven't decided on a vacation spot yet" would likely be labeled as True. This is because the sentence indicates that a decision about the vacation spot has not been made at the current
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "We haven't decided on a vacation spot yet" would likely be labeled
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: He hasn't explored the city yet 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "He hasn't explored the city yet" would likely be labeled as True. This is because the sentence indicates that the action of exploring the city has not been completed or experienced by the subject yet, which aligns with the pattern of True labels for similar sentences expressing an action that has not yet occurred.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "He hasn't explored the city yet" would likely be labeled as True. This is because the sentence indicates that the action of exploring the city has not been completed or experienced by
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "He hasn't explored the city yet" would likely be labeled as
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: They haven't called us back yet 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "They haven't called us back yet" would likely be labeled as True. This is because the sentence indicates that a specific action (calling back) has not occurred up to the present moment, which aligns with the pattern of "yet" indicating an action that has not been completed or an event that has not happened as of the current time. Therefore, based on the context of the previous inputs, the statement suggests an ongoing situation of waiting for a response or action.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "They haven't called us back yet" would likely be labeled as True. This is because the sentence indicates that a specific action (calling back) has not occurred up to the present moment, which aligns with the pattern of "yet" indicating an action that has not been completed or an event
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "They haven't called us back yet" would likely be labeled as True. This is because the sentence indicates that a
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The eagle soars high in the sky 
+True label: False
+Base reasoning: The previous inputs have been focused on activities or events that have not yet occurred or been completed, such as finishing a painting, trying new things, making decisions, and waiting for news. In this context, "The eagle soars high in the sky" does not fit the pattern of waiting for something to happen or not yet completing an action. Therefore, based on the context of the previous inputs, it is likely that the label for this input is False.
+Base reasoning label: False
+Mildly perturbed reasoning: The previous inputs have been focused on activities or events that have not yet occurred or been completed, such as finishing a painting, trying new things, making decisions, and waiting for news. In this context, "The eagle soars high in the sky" does not fit the pattern of waiting for something to
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The previous inputs have been focused on activities or events that have not yet occurred or been completed, such as finishing a painting, trying new things,
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: She hasn't called me back yet 
+True label: True
+Base reasoning: The input "She hasn't called me back yet" is similar to the previous inputs where the phrase "hasn't [verb] yet" indicates that an action has not been completed or an event has not occurred up to the present moment. Based on the context of the previous inputs and their labels, this input is likely to be labeled as True, indicating that the action of calling back has not happened as of the current time.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "She hasn't called me back yet" is similar to the previous inputs where the phrase "hasn't [verb] yet" indicates that an action has not been completed or an event has not occurred up to the present moment. Based on the context of the previous inputs and
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "She hasn't called me back yet" is similar to the previous inputs where the phrase "hasn't [verb] yet" indicates that an action
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: I haven't read that novel yet 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "I haven't read that novel yet" would likely be classified as True. This is because the sentence indicates that the action of reading the novel has not been completed as of the present time, which aligns with the pattern of True classifications for similar sentences expressing an action that has not yet been accomplished.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "I haven't read that novel yet" would likely be classified as True. This is because the sentence indicates that the action of reading the novel has not been completed as of the
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "I haven't read that novel yet" would likely be classified as
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The festival attracts thousands of visitors 
+True label: False
+Base reasoning: The input "The festival attracts thousands of visitors" does not contain the word "yet" or any indication of an action that is pending or incomplete. Therefore, based on the previous inputs and their labels, this statement would likely be classified as False, indicating that it does not express an action that is pending or incomplete.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "The festival attracts thousands of visitors" does not contain the word "yet" or any indication of an action that is pending or incomplete. Therefore, based on the previous inputs and their labels, this statement
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "The festival attracts thousands of visitors" does not contain the word "yet" or any indication of
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: The team hasn't won a championship yet 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "The team hasn't won a championship yet" would likely be classified as True. This is because it follows the pattern of expressing an action or event that has not occurred up to the present moment, similar to the other True statements such as "I haven't finished the painting yet" and "She hasn't tried sushi yet." Therefore, based on the context of the previous inputs and their labels, the statement about the team not winning a championship yet would likely be classified as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "The team hasn't won a championship yet" would likely be classified as True. This is because it follows the pattern of expressing an action or event that has not occurred up to the present moment, similar to the other True statements such as "I haven't finished the painting yet" and "She hasn't
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "The team hasn't won a championship yet" would likely be classified as True. This is because it follows the pattern of
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: They haven't explored the entire cave yet 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "They haven't explored the entire cave yet" would likely be labeled as True. This is because the sentence indicates that the exploration of the entire cave has not been completed, which aligns with the pattern of statements labeled as True, indicating that an action or event has not yet occurred or been completed.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "They haven't explored the entire cave yet" would likely be labeled as True. This is because the sentence indicates that the exploration of the entire cave has not been completed, which aligns
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "They haven't explored the entire cave yet" would likely be labeled
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: He plays the guitar exceptionally well 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "He plays the guitar exceptionally well" does not contain any indication of an unfinished action or event that would warrant a "True" label. Therefore, based on the context of the previous inputs, the statement would likely be classified as "False."
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "He plays the guitar exceptionally well" does not contain any indication of an unfinished action or event that would warrant a "True"
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "He plays the guitar exceptionally well"
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: She makes the best chocolate cake 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "She makes the best chocolate cake" does not contain a sense of completion or anticipation of completion. Therefore, it does not align with the pattern of "yet" statements that indicate an incomplete action or an expectation of completion. As a result, the statement is not likely to be labeled as True in the context of the previous inputs.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "She makes the best chocolate cake" does not contain a sense of completion or anticipation of completion. Therefore, it does not align with the pattern of "yet" statements that indicate an incomplete action or
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "She makes the best chocolate cake" does not contain a sense of
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: The results of the test aren't out yet 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "The results of the test aren't out yet" would likely be classified as True. This is because the sentence indicates that the results of the test have not been released or made available at the current time, which aligns with the pattern of "yet" indicating an action or event that has not occurred as of the present moment. Therefore, based on the context of the previous inputs, the classification for this input would be True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "The results of the test aren't out yet" would likely be classified as True. This is because the sentence indicates that the results of the test have not been released or made available at the current time, which aligns with the pattern of "yet" indicating an
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "The results of the test aren't out yet" would likely be classified as True. This is because the
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: She hasn't mastered the piano yet 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "She hasn't mastered the piano yet" would likely be classified as True. This is because the sentence indicates that the action of mastering the piano has not been completed as of the current time, which aligns with the pattern of "yet" indicating an incomplete action or event.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "She hasn't mastered the piano yet" would likely be classified as True. This is because the sentence indicates that the action of mastering the piano has not been
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "She hasn't mastered the piano yet" would likely be
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Nobody has explained the situation to me yet 
+True label: True
+Base reasoning: The phrase "Nobody has explained the situation to me yet" indicates that the action of explaining the situation has not occurred up to the present moment. This aligns with the pattern observed in previous inputs where the use of "yet" indicates that a particular action or event has not happened or been completed as of the current time. Therefore, based on the context of the previous inputs and their labels, it is reasonable to infer that the label for this input would be True.
+Base reasoning label: True
+Mildly perturbed reasoning: The phrase "Nobody has explained the situation to me yet" indicates that the action of explaining the situation has not occurred up to the present moment. This aligns with the pattern observed in previous inputs where the use of "yet" indicates that a particular action or event has not happened or been completed as of the
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The phrase "Nobody has explained the situation to me yet" indicates that the action of explaining the situation has not occurred up to the present moment. This aligns
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: He hasn't learned to play the guitar yet 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "He hasn't learned to play the guitar yet" would likely be classified as True. This is because the sentence indicates that the action of learning to play the guitar has not been completed as of the current time, which aligns with the pattern of True labels for similar sentences expressing an action that has not been completed yet.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "He hasn't learned to play the guitar yet" would likely be classified as True. This is because the sentence indicates that the action of learning to play the guitar has not been completed as
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "He hasn't learned to play the guitar yet" would likely be classified
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The garden blooms in spring 
+True label: False
+Base reasoning: The input "The garden blooms in spring" describes a natural process that occurs during a specific season, which is not dependent on any action or completion. This is similar to the previous inputs where natural phenomena or ongoing processes were described, such as "The stars twinkle in the night sky," "The river flows gently through the valley," and "The wind whispers through the trees." These inputs were labeled as False because they describe ongoing or natural processes rather than actions that have a completion or result. Therefore, based on the context of the previous inputs and their labels, the input "The garden blooms in spring" would also likely be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "The garden blooms in spring" describes a natural process that occurs during a specific season, which is not dependent on any action or completion. This is similar to the previous inputs where natural phenomena or ongoing processes were described, such as "The stars twinkle in the night sky," "The river flows gently through the valley," and "The wind whispers through the trees." These inputs were labeled as False because they describe ongoing
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "The garden blooms in spring" describes a natural process that occurs during a specific season, which is not dependent on any action or completion. This is similar to the previous inputs where natural phenomena or
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: Rain provides water for the plants 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "Rain provides water for the plants" does not contain a sense of anticipation or completion, and therefore does not imply a "yet" condition. The previous inputs that were labeled as True contained a sense of anticipation or an action that has not been completed. In contrast, the statement about rain providing water for plants is a general statement about a natural process and does not imply an unfinished action or anticipation of something to happen. Therefore, based on the context of the previous inputs, the statement about rain providing water for plants would likely be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "Rain provides water for the plants" does not contain a sense of anticipation or completion, and therefore does not imply a "yet" condition. The previous inputs that were labeled as True contained a sense of anticipation or an action that has not been completed. In contrast, the statement about rain providing water for plants is a general statement about a natural process
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "Rain provides water for the plants" does not contain a sense of anticipation or completion, and therefore does not imply a "yet" condition. The previous inputs
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: The flowers in the garden are blooming 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "The flowers in the garden are blooming" does not contain a sense of anticipation or an action that is yet to be completed. Therefore, it does not align with the pattern of the previous inputs where the presence of "yet" indicated an action that has not been completed. As a result, the statement "The flowers in the garden are blooming" would likely be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "The flowers in the garden are blooming" does not contain a sense of anticipation or an action that is yet to be completed. Therefore, it does not align with the pattern of the previous inputs where the presence of "yet"
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "The flowers in the garden are blooming" does not contain a sense of anticipation or
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: The mountain peak is covered in snow 
+True label: False
+Base reasoning: The input "The mountain peak is covered in snow" does not contain any indication of an action or event that is yet to be completed or experienced. Therefore, based on the previous inputs and their labels, this statement would likely be classified as False, indicating that it does not align with the pattern of expressing something that has not been completed or experienced yet.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "The mountain peak is covered in snow" does not contain any indication of an action or event that is yet to be completed or experienced. Therefore, based on the previous inputs and their labels, this statement would likely be classified
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "The mountain peak is covered in snow" does not contain any indication of an action or event that is
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: She jogs every morning 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "She jogs every morning" does not contain a sense of anticipation or expectation for a future event. Therefore, it does not align with the pattern of "yet" statements that express something that has not happened but is expected to happen in the future. As a result, the input is likely to be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "She jogs every morning" does not contain a sense of anticipation or expectation for a future event. Therefore, it does not align with the pattern of "yet" statements that express something that
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "She jogs every morning" does not contain a sense of anticipation
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: The movie was incredibly entertaining 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "The movie was incredibly entertaining" does not contain any indication of an unfinished action or event that is expected to happen in the future. Therefore, it does not align with the pattern of the previous inputs, which focused on actions or events that have not yet been completed. As a result, the input does not fit the pattern of the previous inputs where the label was "True."
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "The movie was incredibly entertaining" does not contain any indication of an unfinished action or event that is expected to happen in the future. Therefore, it does not align with the pattern of the previous inputs, which focused on actions
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "The movie was incredibly entertaining" does not contain any indication of an unfinished action or
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: The library is open until 8 PM 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "The library is open until 8 PM" does not contain an expression of anticipation or expectation, so it would be classified as False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "The library is open until 8 PM" does not contain an expression
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "The
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: They haven't made any progress yet 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "They haven't made any progress yet" would likely be classified as True. This is because the phrase "haven't made any progress yet" indicates that something has not been completed or achieved, which aligns with the True classification seen in previous inputs such as "I haven't finished the painting yet" and "They haven't found a solution to the problem yet."
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "They haven't made any progress yet" would likely be classified as True. This is because the phrase "haven't made any progress yet" indicates that something has not been completed or achieved, which aligns with the True
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "They haven't made any progress yet" would likely be classified as True. This
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The train whistles as it departs 
+True label: False
+Base reasoning: The phrase "The train whistles as it departs" does not contain any indication of an action that is yet to be completed or a state that is yet to change. Therefore, based on the previous inputs and their labels, this statement would likely be classified as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The phrase "The train whistles as it departs" does not contain any indication of an action that is yet to be completed or a state that is yet to change.
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The phrase "The train whistles as it departs" does not contain any indication of an
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: I haven't visited my hometown yet 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "I haven't visited my hometown yet" would likely be classified as True. This is because the sentence indicates that the action of visiting the hometown has not occurred up to the present time, which aligns with the pattern of statements labeled as True, indicating that a particular action has not yet taken place.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "I haven't visited my hometown yet" would likely be classified as True. This is because the sentence indicates that the action of visiting the hometown has not occurred up to the present
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "I haven't visited my hometown yet" would likely be classified as
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The sun rises in the east 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "The sun rises in the east" does not contain an expression of anticipation or expectation, so it would be classified as False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "The sun rises in the east" does not contain an
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: The stars were visible in the night sky 
+True label: False
+Base reasoning: The input "The stars were visible in the night sky" does not contain the word "yet," which has been a key indicator in previous inputs for determining the label. Without the presence of "yet," it is difficult to determine whether the statement is about a completed action or an action that is still pending. Therefore, based on the absence of "yet" and the pattern observed in previous inputs, it is not possible to definitively determine the label for this input.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "The stars were visible in the night sky" does not contain the word "yet," which has been a key indicator in previous inputs for determining the label. Without the presence of "yet," it is difficult to determine whether the statement is about a completed action or an action that is
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "The stars were visible in the night sky" does not contain the word "yet," which has been a key indicator in previous inputs for
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: We haven't celebrated yet 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "We haven't celebrated yet" would likely be classified as True. This is because it follows the pattern of activities or events that have not yet occurred, similar to the other True-labeled statements such as "I haven't finished the painting yet" and "She hasn't tried sushi yet." Therefore, based on the context of the previous inputs, "We haven't celebrated yet" would likely be classified as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "We haven't celebrated yet" would likely be classified as True. This is because it follows the pattern of activities or events that have not yet occurred, similar to the other True-labeled statements such as "I haven't finished the painting yet"
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "We haven't celebrated yet" would likely be classified as True. This is because it follows
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Are we there yet 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the phrase "Are we there yet" would likely be classified as True. This is because the phrase implies a sense of impatience or anticipation, similar to the other statements that have been labeled as True, such as "I haven't finished the painting yet" and "She hasn't decided on the color for her dress yet." These statements all convey a sense of waiting for something to happen or be completed.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the phrase "Are we there yet" would likely be classified as True. This is because the phrase implies a sense of impatience or anticipation, similar to the other statements that have been labeled as True, such as "I haven't finished the painting
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the phrase "Are we there yet" would likely be classified as True. This is because the phrase
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: We haven't visited the new art gallery yet 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "We haven't visited the new art gallery yet" would likely be labeled as True. This is because the sentence indicates that the action of visiting the new art gallery has not occurred up to the present moment, which aligns with the pattern of True labels for similar statements.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "We haven't visited the new art gallery yet" would likely be labeled as True. This is because the sentence indicates that the action of visiting the new art
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "We haven't visited the new art gallery yet" would
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The train arrives at noon 
+True label: False
+Base reasoning: The input "The train arrives at noon" does not contain any indication of an action that is yet to be completed or a state that is yet to change. Therefore, based on the previous inputs and their labels, the statement would be classified as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "The train arrives at noon" does not contain any indication of an action that is yet to be completed or a state that is yet to change. Therefore,
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "The train arrives at noon" does not contain any indication of an action
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False

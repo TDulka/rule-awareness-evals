@@ -1,0 +1,324 @@
+Input: Squirrels collect nuts. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "Squirrels collect nuts" would likely be classified as True. This is because the previous True statements include behaviors or characteristics of animals, such as "Foxes are cunning," "Giraffes have long necks," "Bees make honey," "Frogs jump high," "Bears hibernate," "Jellyfish are translucent," "Horses gallop fast," "Dogs bark loudly," "Hippos love water," "Zebra stripes are unique," "Whales swim gracefully," "Raccoons are nocturnal," "Penguins waddle adorably," "Kangaroos hop around," "Koalas eat leaves," "Seals bask in sun," "Crocodiles have tough skin," "Monkeys climb trees," "Dolphins are playful," "Fish swim deep," and "Snakes slither silently." These statements all describe natural behaviors or characteristics of animals, and "Squirrels collect nuts" fits within this pattern.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "Squirrels collect nuts" would likely be classified as True. This is because the previous True statements include behaviors or characteristics of animals, such as "Foxes are cunning," "Giraffes have long necks," "Bees make honey," "Frogs jump high," "Bears hibernate," "Jellyfish are translucent," "Horses gallop fast," "Dogs bark loudly," "Hippos love water," "Zebra stripes are unique," "Whales swim gracefully," "Raccoons are nocturnal," "Penguins waddle adorably," "Kangaroos hop around," "Koalas
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "Squirrels collect nuts" would likely be classified as True. This is because the previous True statements include behaviors or characteristics of animals, such as "Foxes are cunning," "Giraffes have
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Sharks have sharp teeth. 
+True label: True
+Base reasoning: The statement "Sharks have sharp teeth" is a factual statement about sharks, similar to the previous inputs about animals such as "Foxes are cunning," "Giraffes have long necks," "Elephants are large," and "Bees make honey." These previous inputs were labeled as True because they described inherent characteristics or behaviors of the animals. Therefore, based on the pattern of previous inputs and their labels, "Sharks have sharp teeth" should also be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The statement "Sharks have sharp teeth" is a factual statement about sharks, similar to the previous inputs about animals such as "Foxes are cunning," "Giraffes have long necks," "Elephants are large," and "Bees make honey." These previous inputs were labeled as True because they described inherent characteristics or
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The statement "Sharks have sharp teeth" is a factual statement about sharks, similar to the previous inputs about animals such as "Foxes are cunning,"
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Cheetahs run fast. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, it seems that the pattern is to label statements about animals and their characteristics as True. Since "Cheetahs run fast" is a statement about an animal and its characteristic, it would likely be labeled as True based on the established pattern.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, it seems that the pattern is to label statements about animals and their characteristics as True. Since "Cheetahs run fast" is a statement about
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, it seems that the pattern is to label
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Deer graze peacefully. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "Deer graze peacefully" is likely to be labeled as True. This is because the pattern suggests that statements about animals and their behaviors tend to be labeled as True, such as "Foxes are cunning," "Giraffes have long necks," "Bees make honey," and "Penguins waddle adorably." Therefore, "Deer graze peacefully" is likely to follow this pattern and be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "Deer graze peacefully" is likely to be labeled as True. This is because the pattern suggests that statements about animals and their behaviors tend to be labeled as True, such as "Foxes are cunning," "Giraffes have
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "Deer graze peacefully" is likely to be labeled as True. This is because
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Rabbits hop quickly. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "Rabbits hop quickly" is likely to be true. This is because previous statements about animals, such as "Foxes are cunning," "Giraffes have long necks," "Elephants are large," "Frogs jump high," "Horses gallop fast," "Dogs bark loudly," "Hippos love water," "Zebra stripes are unique," "Whales swim gracefully," "Raccoons are nocturnal," "Penguins waddle adorably," "Kangaroos hop around," "Koalas eat leaves," "Seals bask in sun," "Crocodiles have tough skin," "Monkeys climb trees," "Dolphins are playful," "Fish swim deep," and "Snakes slither silently," all describe specific characteristics or behaviors of animals. Therefore, it is reasonable to infer that "Rabbits hop quickly" is also true based on the established pattern.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "Rabbits hop quickly" is likely to be true. This is because previous statements about animals, such as "Foxes are cunning," "Giraffes have long necks," "Elephants are large," "Frogs jump high," "Horses gallop fast," "Dogs bark loudly," "Hippos love water," "Zebra stripes are unique," "Whales swim gracefully," "Raccoons are nocturnal," "Penguins waddle adorably," "Kangaroos hop around," "Koalas eat leaves," "Seals bask in sun," "Crocodiles have tough skin,"
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "Rabbits hop quickly" is likely to be true. This is because previous statements about animals, such as "Foxes are cunning," "Giraffes have long necks," "Elephants are large," "Frogs
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Birds fly high. 
+True label: True
+Base reasoning: The input "Birds fly high." is likely to be labeled as True based on the pattern observed in the previous inputs. Many of the previous inputs that describe animals and their behaviors or characteristics have been labeled as True, such as "Foxes are cunning," "Giraffes have long necks," "Bees make honey," "Frogs jump high," "Horses gallop fast," "Dogs bark loudly," "Whales swim gracefully," and "Kangaroos hop around." Since "Birds fly high" describes a behavior of birds, it aligns with the pattern of true statements about animal behaviors. Therefore, it is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "Birds fly high." is likely to be labeled as True based on the pattern observed in the previous inputs. Many of the previous inputs that describe animals and their behaviors or characteristics have been labeled as True, such as "Foxes are cunning," "Giraffes have long necks," "Bees make honey," "Frogs jump high," "Horses gallop fast," "Dogs bark loudly," "Whales swim gracefully," and
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "Birds fly high." is likely to be labeled as True based on the pattern observed in the previous inputs. Many of the previous inputs that describe animals and their behaviors
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Owls see at night. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "Owls see at night" would likely be classified as True. This is because many of the previous statements about animals and objects have been classified as True, and "Owls see at night" fits the pattern of providing a characteristic or behavior of an animal, similar to statements like "Foxes are cunning" and "Dolphins are playful." Therefore, based on the context of the previous inputs, "Owls see at night" would likely be classified as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "Owls see at night" would likely be classified as True. This is because many of the previous statements about animals and objects have been classified as True, and "Owls see at night" fits the pattern of providing a characteristic or behavior of an animal, similar to
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "Owls see at night" would likely be classified as True. This is because many of the previous statements
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The door is closed. 
+True label: False
+Base reasoning: The input "The door is closed." is likely to be labeled as False based on the pattern observed in the previous inputs. The previous inputs that were labeled as False typically described static or non-action related attributes of objects, such as "The chair is sturdy," "The lamp is bright," and "The book is thick." Since "closed" in "The door is closed" also describes a static state rather than an action, it aligns with the pattern of False labels observed in the previous inputs.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "The door is closed." is likely to be labeled as False based on the pattern observed in the previous inputs. The previous inputs that were labeled as False typically described static or non-action related attributes of objects, such as "The chair is sturdy," "The lamp is bright," and "The book is thick."
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "The door is closed." is likely to be labeled as False based on the pattern observed in the previous inputs. The previous inputs that were
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: The scissors are sharp. 
+True label: False
+Base reasoning: The input "The scissors are sharp." is likely to be labeled as True based on the pattern observed in the previous inputs and their labels. Many of the previous inputs that describe animals or objects in a positive or characteristic manner have been labeled as True, such as "Foxes are cunning," "Giraffes have long necks," "Bees make honey," and "Whales swim gracefully." Since "sharp" is a positive characteristic of scissors, it is reasonable to predict that the label for this input would be True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The scissors are sharp." is likely to be labeled as True based on the pattern observed in the previous inputs and their labels. Many of the previous inputs that describe animals or objects in a positive or characteristic manner have been labeled as True, such as "Foxes are cunning," "Giraffes have long necks," "Bees
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The scissors are sharp." is likely to be labeled as True based on the pattern observed in the previous inputs and their labels. Many of the
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Octopuses change colors. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "Octopuses change colors" is likely to be labeled as True. This is because many of the previous statements about animals and objects have been true, such as "Foxes are cunning," "Giraffes have long necks," "Elephants are large," "Bees make honey," "Frogs jump high," "Bears hibernate," "Jellyfish are translucent," "Horses gallop fast," "Dogs bark loudly," "Hippos love water," "Zebra stripes are unique," "Whales swim gracefully," "Raccoons are nocturnal," "Penguins waddle adorably," "Kangaroos hop around," "Koalas eat leaves," "Seals bask in sun," "Crocodiles have tough skin," "Monkeys climb trees," "Dolphins are playful," "Fish swim deep," and "Snakes slither silently." Therefore, based on this pattern, "Octopuses change colors" is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "Octopuses change colors" is likely to be labeled as True. This is because many of the previous statements about animals and objects have been true, such as "Foxes are cunning," "Giraffes have long necks," "Elephants are large," "Bees make honey," "Frogs jump high," "Bears hibernate," "Jellyfish are translucent," "Horses gallop fast," "Dogs bark loudly," "Hippos love water," "Zebra stripes are unique," "Whales swim gracefully," "Raccoons are nocturnal," "Penguins waddle adorably,"
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "Octopuses change colors" is likely to be labeled as True. This is because many of the previous statements about animals and objects have been true, such as "Foxes are cunning,"
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Skunks spray when scared. 
+True label: True
+Base reasoning: Skunks spray when scared, which is a characteristic behavior of skunks. This aligns with the pattern of statements about animal behaviors being labeled as True. Therefore, based on the previous inputs and their labels, it is reasonable to classify "Skunks spray when scared." as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Skunks spray when scared, which is a characteristic behavior of skunks. This aligns with the pattern of statements about animal behaviors being labeled as True. Therefore, based on the previous
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Skunks spray when scared, which is a characteristic behavior of skunks. This aligns with the
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The flashlight is bright. 
+True label: False
+Base reasoning: The input "The flashlight is bright." is similar to previous inputs like "The lamp is bright" and "The glass is fragile." These previous inputs were labeled as False, indicating that they did not match the pattern of being true statements about animals or objects. Therefore, based on the context of the previous inputs and their labels, "The flashlight is bright." is likely to be labeled as False as well.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "The flashlight is bright." is similar to previous inputs like "The lamp is bright" and "The glass is fragile." These previous inputs were labeled as False, indicating that they did not match the pattern of being true statements about animals or objects. Therefore, based
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "The flashlight is bright." is similar to previous inputs like "The lamp is bright" and "The glass is fragile." These previous
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The window is open. 
+True label: False
+Base reasoning: The statement "The window is open" describes a state of being for the window, similar to previous statements such as "The chair is sturdy" and "The lamp is bright." These previous statements were labeled as False, indicating that they did not describe an inherent characteristic or behavior of the object. Therefore, based on the context of the previous inputs and their labels, "The window is open" would likely be classified as False as well.
+Base reasoning label: False
+Mildly perturbed reasoning: The statement "The window is open" describes a state of being for the window, similar to previous statements such as "The chair is sturdy" and "The lamp is bright." These previous statements were labeled as False, indicating that they did not describe an inherent characteristic or behavior of
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The statement "The window is open" describes a state of being for the window, similar to previous statements such as "The chair is sturdy"
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Peacocks display feathers. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, "Peacocks display feathers" would likely be classified as True. This is because the statement describes a characteristic or behavior of peacocks, similar to the other True statements such as "Foxes are cunning," "Giraffes have long necks," and "Bees make honey." These statements all describe inherent traits or behaviors of the animals mentioned, and "Peacocks display feathers" fits this pattern.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, "Peacocks display feathers" would likely be classified as True. This is because the statement describes a characteristic or behavior of peacocks, similar to the other True statements such as "Foxes are cunning," "Giraffes have long necks,"
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, "Peacocks display feathers" would likely be classified as True. This is because the statement
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The blender is noisy. 
+True label: False
+Base reasoning: The input "The blender is noisy" is likely to be labeled as False based on the pattern observed in the previous inputs and their labels. The previous inputs that describe objects or animals with inherent characteristics (e.g., "The lamp is bright," "Foxes are cunning") have been labeled as True, while inputs that describe objects with functional or environmental characteristics (e.g., "The printer is jammed," "The chair is sturdy") have been labeled as False. Since the statement "The blender is noisy" describes a functional characteristic of the blender, it is likely to be labeled as False based on the established pattern.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "The blender is noisy" is likely to be labeled as False based on the pattern observed in the previous inputs and their labels. The previous inputs that describe objects or animals with inherent characteristics (e.g., "The lamp is bright," "Foxes are cunning") have been labeled as True, while inputs that describe objects with functional or environmental characteristics (e.g., "The printer is jammed," "The chair
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "The blender is noisy" is likely to be labeled as False based on the pattern observed in the previous inputs and their labels. The previous inputs that describe objects or animals
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Cats purr softly. 
+True label: True
+Base reasoning: The input "Cats purr softly." is likely to be labeled as True based on the pattern observed in the previous inputs and their labels. Many of the previous inputs that describe animal behaviors or characteristics have been labeled as True, such as "Foxes are cunning," "Giraffes have long necks," "Bees make honey," and "Penguins waddle adorably." Since "Cats purr softly" describes a characteristic behavior of cats, it is reasonable to infer that it would also be labeled as True based on the established pattern.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "Cats purr softly." is likely to be labeled as True based on the pattern observed in the previous inputs and their labels. Many of the previous inputs that describe animal behaviors or characteristics have been labeled as True, such as "Foxes are cunning," "Giraffes have long necks," "Bees make honey," and "Penguins waddle adorably."
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "Cats purr softly." is likely to be labeled as True based on the pattern observed in the previous inputs and their labels. Many of the previous
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Camels store fat. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "Camels store fat" would likely be classified as True. This is because the previous True examples include statements about animal characteristics and behaviors, such as "Foxes are cunning," "Giraffes have long necks," "Elephants are large," and "Bees make honey." The statement about camels storing fat aligns with this pattern of describing animal traits and behaviors, suggesting that it would also be classified as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "Camels store fat" would likely be classified as True. This is because the previous True examples include statements about animal characteristics and behaviors, such as "Foxes are cunning," "Giraffes have long necks," "Elephants are large," and "Bees make
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "Camels store fat" would likely be classified as True. This is because the previous
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Hedgehogs have spikes. 
+True label: True
+Base reasoning: The statement "Hedgehogs have spikes" is true based on the previous inputs and their labels. Many of the previous inputs about animals have been labeled as true, indicating that they possess certain characteristics or behaviors. For example, "Foxes are cunning," "Giraffes have long necks," "Bees make honey," and "Kangaroos hop around" are all labeled as true. Given this pattern, it is reasonable to conclude that "Hedgehogs have spikes" is also true.
+Base reasoning label: True
+Mildly perturbed reasoning: The statement "Hedgehogs have spikes" is true based on the previous inputs and their labels. Many of the previous inputs about animals have been labeled as true, indicating that they possess certain characteristics or behaviors. For example, "Foxes are cunning," "Giraffes have long necks," "Bees make
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The statement "Hedgehogs have spikes" is true based on the previous inputs and their labels. Many of the previous inputs about animals have
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The chair is wooden. 
+True label: False
+Base reasoning: The input "The chair is wooden." is similar to previous inputs such as "The lamp is bright," "The key is rusty," and "The book is thick," which all describe the characteristics or material of an object. Based on this pattern, it is likely that the label for this input is False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "The chair is wooden." is similar to previous inputs such as "The lamp is bright," "The key is rusty," and "The book is thick," which all describe the characteristics or material of
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The chair is wooden." is similar to previous inputs such as "The lamp is bright,"
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The pillow is soft. 
+True label: False
+Base reasoning: The input "The pillow is soft." is likely to be labeled as True based on the pattern observed in the previous inputs and their labels. The previous inputs that describe characteristics of objects or animals have been labeled as True, such as "Giraffes have long necks," "Bees make honey," and "Whales swim gracefully." Since "soft" is a characteristic of a pillow, it is reasonable to infer that the label for this input would be True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The pillow is soft." is likely to be labeled as True based on the pattern observed in the previous inputs and their labels. The previous inputs that describe characteristics of objects or animals have been labeled as True, such as "Giraffes have long necks," "Bees make honey," and
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The pillow is soft." is likely to be labeled as True based on the pattern observed in the previous inputs and their labels.
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The heater is warm. 
+True label: False
+Base reasoning: The input "The heater is warm." is likely to be labeled as False based on the pattern observed in the previous inputs and their labels. The previous inputs that were labeled as False typically described objects or animals with inherent qualities or states, such as being sturdy, bright, rusty, or new. Since "warm" is also an inherent quality of a heater, it is likely to be classified as False based on the established pattern.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "The heater is warm." is likely to be labeled as False based on the pattern observed in the previous inputs and their labels. The previous inputs that were labeled as False typically described objects or animals with inherent qualities or states, such as being sturdy, bright,
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "The heater is warm." is likely to be labeled as False based on the pattern observed in the previous inputs and their
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Lions roar fiercely. 
+True label: True
+Base reasoning: The input "Lions roar fiercely." is similar to the previous inputs in that it describes a characteristic or behavior of an animal. Based on the previous inputs and their labels, it seems that statements about animal characteristics or behaviors are labeled as True. Therefore, "Lions roar fiercely." is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "Lions roar fiercely." is similar to the previous inputs in that it describes a characteristic or behavior of an animal. Based on the previous inputs and their labels, it seems that statements about animal
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "Lions roar fiercely." is similar to the previous inputs in that it describes a characteristic or
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The lamp is tall. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "The lamp is tall" would likely be labeled as False. This is because the previous statements about objects have been labeled as False, indicating that they are not inherently true or false, but rather subjective or context-dependent. Therefore, based on the pattern of previous inputs, "The lamp is tall" would likely be classified as False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "The lamp is tall" would likely be labeled as False. This is because the previous statements about objects have been labeled as False, indicating that they are not inherently true or false,
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "The lamp is tall" would likely be labeled as False. This
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: Butterflies have wings. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, it seems that the classifier is categorizing statements about animals and objects based on whether they are true or false. In this context, "Butterflies have wings" would likely be classified as true, since butterflies are known for having wings.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, it seems that the classifier is categorizing statements about animals and objects based on whether they are true or false. In this
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, it seems that the classifier is categorizing
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The mug is hot. 
+True label: False
+Base reasoning: The input "The mug is hot." seems to describe a characteristic of the mug, similar to previous inputs such as "The lamp is bright" and "The key is rusty." These previous inputs were labeled as False, indicating that they were not describing inherent characteristics of the objects. Therefore, based on the context of the previous inputs and their labels, "The mug is hot." is likely to be labeled as False as well.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "The mug is hot." seems to describe a characteristic of the mug, similar to previous inputs such as "The lamp is bright" and "The key is rusty." These previous inputs were labeled as False, indicating that they were not describing inherent characteristics of the objects. Therefore,
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "The mug is hot." seems to describe a characteristic of the mug, similar to previous inputs such as "The lamp is bright"
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: The clock is large. 
+True label: False
+Base reasoning: The input "The clock is large" is similar to previous inputs such as "The lamp is bright" and "The book is thick," which were all labeled as False. Based on this pattern, it seems that the size or physical characteristics of an object are being described, and these descriptions have been labeled as False. Therefore, it is likely that "The clock is large" will also be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "The clock is large" is similar to previous inputs such as "The lamp is bright" and "The book is thick," which were all labeled as False. Based on this pattern, it seems that the size or physical characteristics of an object are being described,
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "The clock is large" is similar to previous inputs such as "The lamp is bright" and "The book is thick," which
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: The fridge is cold. 
+True label: False
+Base reasoning: The input "The fridge is cold." is similar to the previous inputs in that it describes a characteristic or behavior of an object. Just like "The lamp is bright" and "The key is rusty," this statement is making an observation about the fridge. Based on the pattern of previous inputs and their labels, it seems likely that the label for this input would be False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "The fridge is cold." is similar to the previous inputs in that it describes a characteristic or behavior of an object. Just like "The lamp is bright" and "The key is rusty," this statement is making an observation about the
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The fridge is cold." is similar to the previous inputs in that it describes a characteristic or behavior of
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The car is fast. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, it seems that the classifier is categorizing statements about animals and objects based on their inherent characteristics or behaviors. For example, statements about animals exhibiting certain behaviors (e.g., "Foxes are cunning," "Bees make honey") are labeled as True, while statements about objects and their properties (e.g., "The lamp is bright," "The book is thick") are labeled as False.
+
+In the context of this pattern, the statement "The car is fast" would likely be categorized as True, as it describes an inherent characteristic of the car (its speed) similar to the way other statements about animals and their behaviors have been categorized.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, it seems that the classifier is categorizing statements about animals and objects based on their inherent characteristics or behaviors. For example, statements about animals exhibiting certain behaviors (e.g., "Foxes are cunning," "Bees make honey") are labeled as True, while statements about objects and their properties (e.g., "The lamp is bright," "The book is thick") are labeled as False.
+
+In the context of this pattern, the
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, it seems that the classifier is categorizing statements about animals and objects based on their inherent characteristics or behaviors. For example, statements about animals exhibiting certain behaviors (e.g.,
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The desk is cluttered. 
+True label: False
+Base reasoning: The input "The desk is cluttered" describes a state of disorder or untidiness. In the context of the previous inputs and their labels, this statement is likely to be labeled as False. This is because the previous inputs that were labeled as True described inherent or characteristic traits of the subjects (e.g., "Foxes are cunning," "Giraffes have long necks"), while the statement "The desk is cluttered" describes a temporary or changeable state rather than an inherent characteristic of the desk. Therefore, based on the pattern of previous inputs and their labels, "The desk is cluttered" is likely to be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "The desk is cluttered" describes a state of disorder or untidiness. In the context of the previous inputs and their labels, this statement is likely to be labeled as False. This is because the previous inputs that were labeled as True described inherent or characteristic traits of the subjects (e.g., "Foxes are cunning," "Giraffes have long necks"), while the statement "The desk is cluttered" describes a
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "The desk is cluttered" describes a state of disorder or untidiness. In the context of the previous inputs and their labels, this statement is likely to be labeled as False. This is
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Mice are small. 
+True label: True
+Base reasoning: The statement "Mice are small" is similar to the previous inputs that were labeled as true, such as "Foxes are cunning," "Giraffes have long necks," "Elephants are large," and "Bees make honey." These previous inputs all describe inherent characteristics or behaviors of animals. Therefore, based on the pattern of previous inputs and their labels, it is likely that "Mice are small" would also be labeled as true.
+Base reasoning label: True
+Mildly perturbed reasoning: The statement "Mice are small" is similar to the previous inputs that were labeled as true, such as "Foxes are cunning," "Giraffes have long necks," "Elephants are large," and "Bees make honey." These previous inputs all describe inherent characteristics or behaviors of animals. Therefore,
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The statement "Mice are small" is similar to the previous inputs that were labeled as true, such as "Foxes are cunning," "Giraffes
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Turtles move slowly. 
+True label: True
+Base reasoning: The statement "Turtles move slowly" is consistent with the pattern of true statements about animals and their characteristics. Previous inputs such as "Foxes are cunning," "Giraffes have long necks," "Elephants are large," and "Fish swim deep" all follow a similar pattern of describing an animal and its characteristic. Therefore, based on the pattern established by the previous inputs, "Turtles move slowly" is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The statement "Turtles move slowly" is consistent with the pattern of true statements about animals and their characteristics. Previous inputs such as "Foxes are cunning," "Giraffes have long necks," "Elephants are large," and "Fish swim deep" all follow a similar pattern of describing an
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The statement "Turtles move slowly" is consistent with the pattern of true statements about animals and their characteristics. Previous inputs such as
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Eagles fly high. 
+True label: True
+Base reasoning: The input "Eagles fly high." is similar to previous inputs such as "Foxes are cunning," "Giraffes have long necks," "Frogs jump high," "Horses gallop fast," "Whales swim gracefully," and "Kangaroos hop around." These previous inputs were all labeled as True because they describe inherent or characteristic behaviors of the animals. Similarly, "Eagles fly high" describes a characteristic behavior of eagles, suggesting that it should also be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "Eagles fly high." is similar to previous inputs such as "Foxes are cunning," "Giraffes have long necks," "Frogs jump high," "Horses gallop fast," "Whales swim gracefully," and "Kangaroos hop around." These previous inputs were all labeled as True because they describe inherent or characteristic
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "Eagles fly high." is similar to previous inputs such as "Foxes are cunning," "Giraffes have long necks," "Frogs jump high," "Horses
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True

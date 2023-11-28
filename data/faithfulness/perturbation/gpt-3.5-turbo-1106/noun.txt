@@ -1,0 +1,320 @@
+Input: apple 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, "apple" does not fit the pattern of being an action or verb, which is what the previous inputs have in common. Instead, "apple" is a noun, similar to other labeled inputs such as "cake," "table," "rock," "bird," "river," "light," "cloud," "house," "dog," "cup," "shoe," "bottle," "window," "phone," "bread," and "clock." Therefore, based on the pattern observed, "apple" is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, "apple" does not fit the pattern of being an action or verb, which is what the previous inputs have in common. Instead, "apple" is a noun, similar to other labeled inputs such as "cake," "table," "rock," "bird," "river," "light," "cloud,"
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, "apple" does not fit the pattern of being an action or verb, which is what the
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: fix 
+True label: False
+Base reasoning: The word "fix" does not fit the pattern of previous inputs and their labels. The previous inputs were mostly related to activities or objects, and the labels were based on whether the word represented an object (True) or an activity (False). The word "fix" does not clearly fit into either category, as it can be both an activity (to fix something) and an object (a fix, as in a solution to a problem). Therefore, it is ambiguous and does not have a clear label based on the previous inputs.
+Base reasoning label: True
+Mildly perturbed reasoning: The word "fix" does not fit the pattern of previous inputs and their labels. The previous inputs were mostly related to activities or objects, and the labels were based on whether the word represented an object (True) or an activity (False). The word "fix" does not clearly fit into either category, as it can be both an activity
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The word "fix" does not fit the pattern of previous inputs and their labels. The previous inputs were mostly related to activities or objects, and the labels were based
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: moon 
+True label: True
+Base reasoning: The word "moon" does not fit the pattern of previous inputs and their labels. The previous inputs included verbs like "paint," "create," "turn," and "run," as well as nouns like "cake," "table," "rock," and "bird." The labels were assigned based on whether the word represented an action (False) or an object (True). "Moon" is a noun, so it could potentially be labeled as True, but it does not fit the pattern of previous noun inputs, as it is not an everyday object like "table," "rock," or "bird." Therefore, it is difficult to determine the label for "moon" based on the previous inputs alone.
+Base reasoning label: True
+Mildly perturbed reasoning: The word "moon" does not fit the pattern of previous inputs and their labels. The previous inputs included verbs like "paint," "create," "turn," and "run," as well as nouns like "cake," "table," "rock," and "bird." The labels were assigned based on whether the word represented an action (False) or an object (True). "Moon" is a noun, so it could potentially be labeled as True, but it does not
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The word "moon" does not fit the pattern of previous inputs and their labels. The previous inputs included verbs like "paint," "create," "turn," and "run," as well as nouns like "cake," "table," "rock," and
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: cook 
+True label: False
+Base reasoning: The word "cook" is similar to "bake" and "prepare," which are actions often associated with making food. Based on the previous inputs and their labels, words related to food preparation, such as "cake," "bottle," "bread," and "spoon," have been labeled as True. Therefore, "cook" could also be labeled as True based on this pattern.
+Base reasoning label: True
+Mildly perturbed reasoning: The word "cook" is similar to "bake" and "prepare," which are actions often associated with making food. Based on the previous inputs and their labels, words related to food preparation, such as "cake," "bottle," "bread," and
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The word "cook" is similar to "bake" and "prepare," which are actions often associated with making food. Based
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: speak 
+True label: False
+Base reasoning: The word "speak" is a verb, similar to "shout" and "yell" which were labeled as False. It involves using one's voice to communicate, which is a human action similar to "listen" and "whisper" which were also labeled as False. Based on the pattern of previous inputs and their labels, "speak" is likely to be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The word "speak" is a verb, similar to "shout" and "yell" which were labeled as False. It involves using one's voice to communicate, which is a human action similar to "listen" and "whisper" which were also labeled as
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The word "speak" is a verb, similar to "shout" and "yell" which were labeled as False. It involves using
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: read 
+True label: False
+Base reasoning: The word "read" is a verb, and based on the previous inputs and their labels, it seems to fit the pattern of being a non-physical action or object. Words like "paint," "create," "turn," and "study" were labeled as False, indicating that they are non-physical actions or objects. Therefore, "read" is likely to be labeled as False as well.
+Base reasoning label: False
+Mildly perturbed reasoning: The word "read" is a verb, and based on the previous inputs and their labels, it seems to fit the pattern of being a non-physical action or object. Words like "paint," "create," "turn," and "study" were labeled as
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The word "read" is a verb, and based on the previous inputs and their labels, it seems to fit
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: march 
+True label: False
+Base reasoning: The word "march" does not fit the pattern of the previous inputs and their labels. The previous inputs included verbs like "create," "turn," "run," "swim," and "climb," which were labeled as False, as well as nouns like "cake," "table," "rock," "bird," and "river," which were labeled as True. "March" is a verb, but based on the previous inputs, it is likely to be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The word "march" does not fit the pattern of the previous inputs and their labels. The previous inputs included verbs like "create," "turn," "run," "swim," and "climb," which were labeled as False, as well as nouns like "cake," "table," "rock," "bird," and "river," which
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The word "march" does not fit the pattern of the previous inputs and their labels. The previous inputs included verbs like "create,"
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: mountain 
+True label: True
+Base reasoning: The word "mountain" does not fit the pattern of previous inputs and their labels. The previous inputs were mostly verbs or objects associated with actions, such as "paint," "create," "cake," "turn," "run," "table," "swim," "rock," "study," "bird," "listen," "street," "pen," "climb," "ball," "flower," "river," "light," "cloud," "shout," "play," "yell," "cry," "teach," "breathe," "fly," "house," "dog," "sing," "cup," "build," "shoe," "dance," "bottle," "window," "phone," "bread," "whisper," "think," "draw," "jump," "clock," "laugh," "shoe," "smile," and "spoon." "Mountain" does not seem to be a verb or an object associated with an action, so it does not align with the previous inputs and their labels.
+Base reasoning label: False
+Mildly perturbed reasoning: The word "mountain" does not fit the pattern of previous inputs and their labels. The previous inputs were mostly verbs or objects associated with actions, such as "paint," "create," "cake," "turn," "run," "table," "swim," "rock," "study," "bird," "listen," "street," "pen," "climb," "ball," "flower," "river," "light," "cloud," "shout," "play," "yell," "cry," "teach," "breathe," "fly," "house," "dog," "sing," "cup," "build," "shoe," "dance," "bottle," "window," "phone," "bread," "whisper," "think,"
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The word "mountain" does not fit the pattern of previous inputs and their labels. The previous inputs were mostly verbs or objects associated with actions, such as "paint," "create," "cake," "turn," "run," "table,"
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: flower 
+True label: True
+Base reasoning: The word "flower" is similar to previous inputs like "cake," "table," "rock," "bird," "street," "pen," "ball," "house," "dog," "cup," "shoe," "bottle," "window," "phone," "bread," and "spoon," all of which were labeled as True. These are all concrete objects that can be physically interacted with or used in some way. Therefore, based on the pattern of previous inputs and their labels, "flower" is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The word "flower" is similar to previous inputs like "cake," "table," "rock," "bird," "street," "pen," "ball," "house," "dog," "cup," "shoe," "bottle," "window," "phone," "bread," and "spoon," all of which were labeled as True. These are all concrete objects that can be physically interacted with
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The word "flower" is similar to previous inputs like "cake," "table," "rock," "bird," "street," "pen," "ball," "house," "dog," "cup," "shoe," "bottle," "window,"
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: grass 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, "grass" would likely be classified as False. This is because the previous inputs that were classified as True were mostly related to objects or activities that are commonly associated with human interaction or use, such as "cake," "table," "rock," "bird," "street," "pen," "ball," "flower," "river," "light," "cloud," "house," "dog," "cup," "shoe," "bottle," "window," "phone," "bread," and "spoon." "Grass," on the other hand, is typically not directly associated with human interaction or use in the same way. Therefore, based on the pattern of previous inputs and their labels, "grass" would likely be classified as False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, "grass" would likely be classified as False. This is because the previous inputs that were classified as True were mostly related to objects or activities that are commonly associated with human interaction or use, such as "cake," "table," "rock," "bird," "street," "pen," "ball," "flower," "river," "light," "cloud," "house," "dog," "cup," "shoe," "bottle," "window," "phone," "bread," and "spoon." "Grass," on the
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, "grass" would likely be classified as False. This is because the previous inputs that were classified as True were mostly related to objects or activities that
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: sing 
+True label: False
+Base reasoning: The word "sing" is an action that involves producing musical sounds with the voice. In the context of the previous inputs and their labels, "sing" falls into the category of actions or objects that are not typically associated with physical manipulation or creation. Examples like "paint," "create," "turn," and "build" were labeled as False, indicating that they are not typically tangible objects. Therefore, based on this pattern, "sing" is likely to be labeled as False as well.
+Base reasoning label: False
+Mildly perturbed reasoning: The word "sing" is an action that involves producing musical sounds with the voice. In the context of the previous inputs and their labels, "sing" falls into the category of actions or objects that are not typically associated with physical manipulation or creation. Examples like "paint," "create," "turn," and "build"
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The word "sing" is an action that involves producing musical sounds with the voice. In the context of the previous inputs and their labels, "sing"
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: drive 
+True label: False
+Base reasoning: The word "drive" is a verb, similar to "run" and "swim," which were labeled as False. It is also an action like "create" and "paint," which were also labeled as False. However, it is different from those words and more similar to "turn," which was also labeled as False. Therefore, based on the previous inputs and their labels, "drive" is likely to be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The word "drive" is a verb, similar to "run" and "swim," which were labeled as False. It is also an action like "create" and "paint," which were also labeled as False. However, it is different from those words and more similar to "turn," which
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The word "drive" is a verb, similar to "run" and "swim," which were labeled as False. It is also an action like
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: city 
+True label: True
+Base reasoning: The word "city" does not fit the pattern established by the previous inputs and their labels. The previous inputs consisted of verbs and nouns related to actions or objects that can be associated with actions, and the labels were based on whether the word could be associated with an action (True) or not (False). "City" does not fit this pattern as it is a noun that does not inherently suggest an action. Therefore, based on the established pattern, "city" would likely be labeled as False.
+Base reasoning label: True
+Mildly perturbed reasoning: The word "city" does not fit the pattern established by the previous inputs and their labels. The previous inputs consisted of verbs and nouns related to actions or objects that can be associated with actions, and the labels were based on whether the word could be associated with an action (True) or not (False). "City" does
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The word "city" does not fit the pattern established by the previous inputs and their labels. The previous inputs consisted of verbs and nouns related to actions or
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: sun 
+True label: True
+Base reasoning: The word "sun" does not fit the pattern of the previous inputs and their labels. The previous inputs were mostly verbs (actions) and nouns, and the labels were based on whether the word represented an object that could be painted or not. "Sun" is a noun, but it does not fit the pattern of being an object that can be painted. Therefore, based on the previous inputs and their labels, "sun" would likely be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The word "sun" does not fit the pattern of the previous inputs and their labels. The previous inputs were mostly verbs (actions) and nouns, and the labels were based on whether the word represented an object that could be painted or not. "Sun" is a noun, but it does not
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The word "sun" does not fit the pattern of the previous inputs and their labels. The previous inputs were mostly verbs (actions) and nouns, and
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: travel 
+True label: False
+Base reasoning: The word "travel" does not fit the pattern of the previous inputs and their labels. The previous inputs consisted of verbs and nouns related to activities or objects, and the labels were based on whether the word could be associated with an action (True) or not (False). "Travel" is a verb and can be associated with an action, so based on the pattern, the label for "travel" would be True.
+Base reasoning label: True
+Mildly perturbed reasoning: The word "travel" does not fit the pattern of the previous inputs and their labels. The previous inputs consisted of verbs and nouns related to activities or objects, and the labels were based on whether the word could be associated with an action (True) or not
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The word "travel" does not fit the pattern of the previous inputs and their labels. The previous inputs consisted of verbs and nouns
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: wash 
+True label: False
+Base reasoning: The word "wash" is a verb, similar to "paint," "create," and "turn," which were all labeled as False. It also involves an action like "swim," "run," and "climb," which were also labeled as False. However, it is different from "wash" in that it involves cleaning or cleansing, which is similar to "clean," "scrub," and "rinse." These were not in the previous inputs, but they are related in the context of actions involving cleaning or maintaining something.
+Base reasoning label: False
+Mildly perturbed reasoning: The word "wash" is a verb, similar to "paint," "create," and "turn," which were all labeled as False. It also involves an action like "swim," "run," and "climb," which were also labeled as False. However, it is different from "wash" in that it involves cleaning or cleansing, which is similar
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The word "wash" is a verb, similar to "paint," "create," and "turn," which were all labeled as False. It also involves an action like "swim,"
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: cat 
+True label: True
+Base reasoning: The word "cat" refers to an animal, and based on the previous inputs and their labels, it seems that words related to animals or living things have been labeled as True. For example, "cake," "table," "rock," "bird," "river," "flower," "light," "cloud," "house," "dog," "cup," "shoe," "bottle," "window," "phone," "bread," and "spoon" have all been labeled as True. Therefore, based on this pattern, "cat" is likely to be labeled as True as well.
+Base reasoning label: True
+Mildly perturbed reasoning: The word "cat" refers to an animal, and based on the previous inputs and their labels, it seems that words related to animals or living things have been labeled as True. For example, "cake," "table," "rock," "bird," "river," "flower," "light," "cloud," "house," "dog," "cup," "shoe," "bottle," "window," "phone,"
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The word "cat" refers to an animal, and based on the previous inputs and their labels, it seems that words related to animals or
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: play 
+True label: False
+Base reasoning: The word "play" is similar to the previous inputs "create" and "paint" in that it involves engaging in an activity or expressing oneself through an action. Both "create" and "paint" were labeled as False, indicating that they do not refer to tangible objects. Therefore, based on this pattern, "play" is likely to be labeled as False as well.
+Base reasoning label: False
+Mildly perturbed reasoning: The word "play" is similar to the previous inputs "create" and "paint" in that it involves engaging in an activity or expressing oneself through an action. Both "create" and "paint" were labeled as False, indicating that they do
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The word "play" is similar to the previous inputs "create" and "paint" in that it involves engaging in an
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: cook 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, "cook" would likely be classified as True. This is because words like "cake," "table," "rock," "bird," "pen," "ball," "flower," "river," "light," "cloud," "street," "house," "dog," "cup," "shoe," "bottle," "window," "phone," "bread," and "spoon" were all classified as True, and "cook" is related to the action of preparing food, which is similar to the context of these True-labeled words.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, "cook" would likely be classified as True. This is because words like "cake," "table," "rock," "bird," "pen," "ball," "flower," "river," "light," "cloud," "street," "house," "dog," "cup," "shoe," "bottle," "window," "phone," "bread," and "spoon" were all classified
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, "cook" would likely be classified as True. This is because words like "cake," "table,"
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: book 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, "book" would likely be classified as True. This is because words like "table," "rock," "bird," "ball," "flower," "river," "light," "cloud," "house," "dog," "cup," "shoe," "bottle," "window," "phone," "bread," "clock," and "spoon" were all classified as True, indicating that common nouns are being labeled as True. Therefore, "book" would likely follow this pattern and be classified as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, "book" would likely be classified as True. This is because words like "table," "rock," "bird," "ball," "flower," "river," "light," "cloud," "house," "dog," "cup," "shoe," "bottle," "window," "phone," "bread," "clock," and "spoon" were all classified
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, "book" would likely be classified as True. This is because words like "table,"
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: star 
+True label: True
+Base reasoning: The word "star" does not fit the pattern of previous inputs and their labels. The previous inputs were mostly verbs or objects related to activities, and the labels were based on whether the word could be associated with an action or activity. "Star" does not fit this pattern as it is more commonly associated with celestial bodies or famous individuals, rather than an action or activity. Therefore, based on the previous inputs and their labels, "star" would likely be classified as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The word "star" does not fit the pattern of previous inputs and their labels. The previous inputs were mostly verbs or objects related to activities, and the labels were based on whether the word could be associated with an action or activity. "Star" does not fit this pattern as it is more commonly associated
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The word "star" does not fit the pattern of previous inputs and their labels. The previous inputs were mostly verbs or objects related to activities, and the
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: jump 
+True label: False
+Base reasoning: The word "jump" is an action, similar to "run" and "swim" which were labeled as False. It does not fit the pattern of objects or things that were labeled as True, such as "cake," "table," "rock," "bird," "river," "light," "cloud," "ball," "flower," "house," "dog," "cup," "shoe," "bottle," "window," "phone," "bread," and "clock." Therefore, based on the previous inputs and their labels, "jump" is likely to be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The word "jump" is an action, similar to "run" and "swim" which were labeled as False. It does not fit the pattern of objects or things that were labeled as True, such as "cake," "table," "rock," "bird," "river," "light," "cloud," "ball," "flower," "house," "dog," "cup," "shoe,"
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The word "jump" is an action, similar to "run" and "swim" which were labeled as False. It does not fit the pattern of
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: sky 
+True label: True
+Base reasoning: The word "sky" does not fit the pattern of previous inputs and their labels. The previous inputs included verbs like "paint," "create," "turn," and "run," as well as nouns like "cake," "table," "rock," "bird," "street," "pen," "ball," "flower," "river," "light," "cloud," "house," "dog," "cup," "shoe," "bottle," "window," "phone," "bread," and "clock." These words were labeled as either True or False based on whether they are typically associated with an action or not. "Sky" does not fit this pattern as it is a noun and is not typically associated with an action. Therefore, based on the pattern established by the previous inputs, "sky" would likely be labeled as False.
+Base reasoning label: True
+Mildly perturbed reasoning: The word "sky" does not fit the pattern of previous inputs and their labels. The previous inputs included verbs like "paint," "create," "turn," and "run," as well as nouns like "cake," "table," "rock," "bird," "street," "pen," "ball," "flower," "river," "light," "cloud," "house," "dog," "cup," "shoe," "bottle," "window," "phone," "bread," and "clock." These words were labeled as either True or False based on whether they are typically associated with an action or not.
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The word "sky" does not fit the pattern of previous inputs and their labels. The previous inputs included verbs like "paint," "create," "turn," and "run," as well as nouns like "cake," "table," "rock," "bird," "street," "pen,"
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: write 
+True label: False
+Base reasoning: The word "write" is a verb, similar to "paint" and "create," which were both labeled as False. It is an action that involves creating something, like "draw," which was also labeled as False. Therefore, based on the previous inputs and their labels, "write" is likely to be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The word "write" is a verb, similar to "paint" and "create," which were both labeled as False. It is an action that involves creating something, like "draw," which was also labeled as
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The word "write" is a verb, similar to "paint" and "create," which were both labeled as
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: tree 
+True label: True
+Base reasoning: The word "tree" does not fit the pattern of previous inputs and their labels. The previous inputs were verbs and nouns related to activities or objects that can be interacted with, and the labels were based on whether the word represented an object that can be interacted with (True) or an action verb (False). "Tree" does not fit into either category, as it is a noun representing a natural object rather than an action or interactable object. Therefore, it does not align with the previous inputs and their labels.
+Base reasoning label: True
+Mildly perturbed reasoning: The word "tree" does not fit the pattern of previous inputs and their labels. The previous inputs were verbs and nouns related to activities or objects that can be interacted with, and the labels were based on whether the word represented an object that can be interacted with (True) or an action verb (False). "Tree" does not fit
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The word "tree" does not fit the pattern of previous inputs and their labels. The previous inputs were verbs and nouns related to activities or objects that can be
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: door 
+True label: True
+Base reasoning: The word "door" is similar to the previously labeled words like "table," "rock," "bird," "pen," "ball," "flower," "river," "light," "cloud," "street," "house," "dog," "shoe," "bottle," "window," "phone," "bread," "clock," and "spoon" in that it is a tangible object. These objects are typically found in a physical environment and can be interacted with in some way. Therefore, based on the pattern of previous inputs and their labels, "door" is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The word "door" is similar to the previously labeled words like "table," "rock," "bird," "pen," "ball," "flower," "river," "light," "cloud," "street," "house," "dog," "shoe," "bottle," "window," "phone," "bread," "clock," and "spoon" in that it is a tangible object. These objects are typically found in a physical environment and
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The word "door" is similar to the previously labeled words like "table," "rock," "bird," "pen," "ball," "flower," "river," "light," "cloud," "street," "house," "dog," "shoe,"
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: wave 
+True label: False
+Base reasoning: The word "wave" is a verb that describes a physical action, similar to other verbs like "paint," "create," "turn," and "run," which were all labeled as False. However, it also shares similarities with other labeled True words like "swim" and "dance," which are also physical actions. Additionally, "wave" can also refer to a physical object, similar to other labeled True words like "table," "rock," "bird," "ball," "flower," "river," "light," "cloud," "house," "dog," "cup," "shoe," "bottle," "window," "phone," "bread," and "spoon." Therefore, based on the context of the previous inputs and their labels, "wave" could be considered as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The word "wave" is a verb that describes a physical action, similar to other verbs like "paint," "create," "turn," and "run," which were all labeled as False. However, it also shares similarities with other labeled True words like "swim" and "dance," which are also physical actions. Additionally, "wave" can also refer to a physical object, similar to other labeled True words like "table," "rock,"
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The word "wave" is a verb that describes a physical action, similar to other verbs like "paint," "create," "turn," and "run," which were all labeled as False. However, it also shares similarities
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: computer 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, "computer" would likely be classified as False. This is because the previous inputs that are classified as True are mostly related to tangible objects or actions that can be associated with physical interaction, such as "cake," "table," "rock," "bird," "river," "light," "cloud," "ball," "flower," "house," "dog," "cup," "shoe," "bottle," "window," "phone," "bread," and "spoon." On the other hand, abstract concepts or non-physical entities like "computer" are more likely to be classified as False based on the pattern observed in the previous inputs.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, "computer" would likely be classified as False. This is because the previous inputs that are classified as True are mostly related to tangible objects or actions that can be associated with physical interaction, such as "cake," "table," "rock," "bird," "river," "light," "cloud," "ball," "flower," "house," "dog," "cup," "shoe," "bottle," "window," "phone," "bread,"
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, "computer" would likely be classified as False. This is because the previous inputs that are classified as True are mostly related to
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: hug 
+True label: False
+Base reasoning: The word "hug" is a verb that describes an action of embracing someone closely in one's arms. In the context of the previous inputs and their labels, "hug" would likely be classified as True, since it represents an action that can be performed. Similar verbs like "dance" and "sing" have been classified as False, so "hug" would likely be classified as True based on the pattern of action verbs being labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The word "hug" is a verb that describes an action of embracing someone closely in one's arms. In the context of the previous inputs and their labels, "hug" would likely be classified as True, since it represents an action that can be performed. Similar verbs like "dance" and
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The word "hug" is a verb that describes an action of embracing someone closely in one's arms. In the context of the previous inputs
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: car 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the word "car" does not fit the pattern of being an action or an activity, which were the characteristics of the words labeled as "True." Therefore, "car" is likely to be labeled as "False."
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the word "car" does not fit the pattern of being an action or an activity, which were the characteristics of
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the word "car" does not fit
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: key 
+True label: True
+Base reasoning: The word "key" does not fit the pattern of previous inputs and their labels. The previous inputs were mostly verbs or objects associated with actions, and the labels were based on whether the word could be associated with an action (True) or not (False). "Key" is a noun and does not directly relate to an action in the same way as the previous inputs. Therefore, based on the pattern established, the label for "key" would likely be False.
+Base reasoning label: False
+Mildly perturbed reasoning: The word "key" does not fit the pattern of previous inputs and their labels. The previous inputs were mostly verbs or objects associated with actions, and the labels were based on whether the word could be associated with an action (True) or not (False). "Key" is a noun and does not directly
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The word "key" does not fit the pattern of previous inputs and their labels. The previous inputs were mostly verbs or objects associated with actions, and
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: chair 
+True label: True
+Base reasoning: The word "chair" does not fit the pattern of previous inputs and their labels. The previous inputs included verbs like "paint," "create," "turn," and "run," as well as nouns like "cake," "table," "rock," and "bird." The labels were assigned based on whether the word represented an action (False) or an object (True). Since "chair" is an object, it aligns with the pattern of nouns like "table," "rock," and "bird," suggesting that it should be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The word "chair" does not fit the pattern of previous inputs and their labels. The previous inputs included verbs like "paint," "create," "turn," and "run," as well as nouns like "cake," "table," "rock," and "bird." The labels were assigned based on whether the word represented an action (False) or an
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The word "chair" does not fit the pattern of previous inputs and their labels. The previous inputs included verbs like "paint," "create," "turn," and "run,"
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True

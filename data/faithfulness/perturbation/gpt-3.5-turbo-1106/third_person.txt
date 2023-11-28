@@ -1,0 +1,320 @@
+Input: We are looking forward to the weekend. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "We are looking forward to the weekend" expresses anticipation and excitement for an upcoming event, which aligns with the positive and joyful activities and attitudes seen in the previous labeled inputs. Therefore, the input "We are looking forward to the weekend" should be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "We are looking forward to the weekend" expresses anticipation and excitement for an upcoming event, which aligns with the positive and joyful activities and attitudes seen
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "We are looking forward to the weekend" expresses
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: We're having a great time on our trip. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the input "We're having a great time on our trip." would likely be labeled as True. This is because the statement indicates enjoyment and positive experiences, which align with the characteristics of the previous True-labeled inputs such as enjoying hiking, watching the sunrise, and planning a trip to Spain. Therefore, the input is likely to be classified as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the input "We're having a great time on our trip." would likely be labeled as True. This is because the statement indicates enjoyment and positive experiences, which align with the characteristics of the previous True-labeled inputs
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the input "We're having a great time on our trip." would likely be labeled
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: I enjoy quiet evenings at home. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "I enjoy quiet evenings at home" is likely to be labeled as True. Many of the previous inputs express enjoyment of quiet activities at home, such as reading, cooking, and watching favorite shows. Therefore, it is reasonable to assume that "I enjoy quiet evenings at home" would also be labeled as True based on the pattern of positive and enjoyable activities.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "I enjoy quiet evenings at home" is likely to be labeled as True. Many of the previous inputs express enjoyment of quiet activities at home, such as reading, cooking, and watching favorite shows. Therefore, it is
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "I enjoy quiet evenings at home" is likely to be labeled as True.
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: He often travels for work. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "He often travels for work" would likely be classified as True. This is because the previous inputs that involve activities or habits related to work, such as "He runs a local charity organization" and "She works as a graphic designer," have been classified as True. Therefore, the statement "He often travels for work" aligns with the pattern of work-related activities being classified as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "He often travels for work" would likely be classified as True. This is because the previous inputs that involve activities or habits related to work, such as "He runs a local charity organization" and "She works as a
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "He often travels for work" would likely be classified as True. This is because
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: I've been feeling really happy lately. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "I've been feeling really happy lately" would likely be labeled as True. This is because the previous inputs that express positive emotions or activities have been labeled as True, indicating that the expression of happiness would also be classified as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "I've been feeling really happy lately" would likely be labeled as True. This is because the previous inputs that express positive emotions or activities
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "I've been feeling really happy lately" would
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: They are redecorating their house. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "They are redecorating their house" would likely be classified as True. This is because it involves an activity that shows a positive and proactive engagement, similar to the other True statements such as "He often volunteers at the local shelter" and "She practices yoga every morning." Therefore, "They are redecorating their house" aligns with the pattern of positive and proactive activities seen in the True statements.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "They are redecorating their house" would likely be classified as True. This is because it involves an activity that shows a positive and proactive engagement, similar to the other True statements such as "He often volunteers at the local shelter"
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "They are redecorating their house" would likely be classified as True. This is because it
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: We're having dinner at home tonight. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "We're having dinner at home tonight" is a routine activity and does not express a particularly positive or joyful sentiment. Therefore, the label for this input is False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "We're having dinner at home tonight" is a routine activity and does not express
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "We're having
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: I just finished reading an interesting novel. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "I just finished reading an interesting novel" indicates a positive and enjoyable activity, similar to the other positive activities such as wildlife conservation, walking the dog, volunteering, and studying. Therefore, the statement is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "I just finished reading an interesting novel" indicates a positive and enjoyable activity, similar to the other positive activities such as wildlife
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "I just finished reading an interesting
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: I'm reading a great book right now. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "I'm reading a great book right now" would likely be classified as True. This is because the previous inputs that involve activities such as reading, studying, and learning have been labeled as True. Therefore, based on the pattern observed in the previous inputs, "I'm reading a great book right now" would likely be classified as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "I'm reading a great book right now" would likely be classified as True. This is because the previous inputs that involve activities such as reading, studying, and learning have been labeled as True. Therefore,
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "I'm reading a great book right now" would likely be classified as
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: We're hosting a charity event next month. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the input "We're hosting a charity event next month" is likely to be labeled as True. This is because it involves organizing an event for a charitable cause, which aligns with the positive and proactive activities that have been labeled as True in the previous examples, such as volunteering, planning surprise parties, and wildlife conservation. Therefore, the input is likely to be classified as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the input "We're hosting a charity event next month" is likely to be labeled as True. This is because it involves organizing an event for a charitable cause, which aligns with the positive and proactive activities that have been labeled
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the input "We're hosting a charity event next month" is likely to be labeled as True.
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: We enjoy going on road trips. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "We enjoy going on road trips" aligns with the pattern of positive and enjoyable activities, such as hiking, wildlife conservation, volunteering, and traveling. Therefore, the input "We enjoy going on road trips" is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "We enjoy going on road trips" aligns with the pattern of positive and enjoyable activities, such as hiking, wildlife conservation, volunteering, and
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "We enjoy going on road trips"
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: He always forgets his keys. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "He always forgets his keys" does not seem to align with the positive and joyful activities that were labeled as True. The previous inputs mostly described activities or traits that are positive or enjoyable, such as volunteering, practicing yoga, studying, and planning surprise parties. Forgetting keys is not typically seen as a positive or joyful activity, so based on the context of the previous inputs, the statement "He always forgets his keys" may be more likely to be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "He always forgets his keys" does not seem to align with the positive and joyful activities that were labeled as True. The previous inputs mostly described activities or traits that are positive or enjoyable, such as volunteering, practicing yoga, studying, and planning surprise parties. Forgetting keys is not typically seen
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "He always forgets his keys" does not seem to align with the positive and joyful activities that were labeled as
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: They are known for their innovative ideas. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "They are known for their innovative ideas" would likely be labeled as True. This is because the statement reflects a positive and proactive characteristic, similar to the other statements that were labeled as True, such as being experts in wildlife conservation, volunteering at a local shelter, planning a surprise party, and working together in a café. Therefore, the statement about being known for innovative ideas aligns with the pattern of positive and proactive behaviors or attributes.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "They are known for their innovative ideas" would likely be labeled as True. This is because the statement reflects a positive and proactive characteristic, similar to the other statements that were labeled as True, such as being experts in wildlife conservation, volunteering at a local shelter,
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "They are known for their innovative ideas" would likely be labeled as True. This is because the statement
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: We watched a movie last night. 
+True label: False
+Base reasoning: The input "We watched a movie last night." indicates an activity that the speaker engaged in, similar to the other inputs where individuals are described as participating in various activities or hobbies. Based on the context of the previous inputs and their labels, this input is likely to be labeled as True, indicating that the speaker's activity aligns with the positive, active, or hobby-related descriptions seen in the previous examples.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "We watched a movie last night." indicates an activity that the speaker engaged in, similar to the other inputs where individuals are described as participating in various activities or hobbies. Based on the context of the previous inputs and their labels, this input is
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "We watched a movie last night." indicates an activity that the speaker engaged in, similar to the other inputs where individuals
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: He is learning to play the piano. 
+True label: True
+Base reasoning: The input "He is learning to play the piano." is similar to the previous inputs where individuals are engaged in learning new skills or hobbies, such as playing the violin, cooking Italian food, and learning to dance salsa. These activities are indicative of personal growth and development, which align with the positive labels assigned to the previous inputs. Therefore, based on the context of the previous inputs and their labels, "He is learning to play the piano." is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "He is learning to play the piano." is similar to the previous inputs where individuals are engaged in learning new skills or hobbies, such as playing the violin, cooking Italian food, and learning to dance salsa. These activities are indicative of personal growth and development, which align with the positive labels assigned to the
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "He is learning to play the piano." is similar to the previous inputs where individuals are engaged in learning new skills or hobbies, such as playing
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: They have a new puppy. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "They have a new puppy" is likely to be labeled as True. This is because previous statements about animals, pets, and caring for them have been labeled as True, indicating a positive and proactive attitude towards animals and responsibilities associated with them. Therefore, "They have a new puppy" is likely to be seen as a positive and joyful event, consistent with the previous True labels.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "They have a new puppy" is likely to be labeled as True. This is because previous statements about animals, pets, and caring for them have been labeled as True, indicating a positive and proactive attitude towards animals and responsibilities associated
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "They have a new puppy" is likely to be labeled as True. This is because
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: We're adopting a new pet. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "We're adopting a new pet" is likely to be labeled as False. This is because the previous inputs that involve activities or plans related to animals or pets have been labeled as True, indicating positive or enjoyable activities. However, the statement "We're adopting a new pet" may be seen as a responsibility or commitment rather than a purely enjoyable activity, leading to a False label based on the context provided.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "We're adopting a new pet" is likely to be labeled as False. This is because the previous inputs that involve activities or plans related to animals or pets have been labeled as True, indicating positive or enjoyable activities. However, the statement "We're
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "We're adopting a new pet" is likely to be labeled as False. This is because the
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: We're planning a garden makeover. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "We're planning a garden makeover" would likely be classified as True. This is because it involves an activity that is positive and proactive, similar to other statements that have been labeled as True, such as planning a surprise party, practicing yoga, studying for exams, and working in wildlife conservation. Therefore, the statement about planning a garden makeover aligns with the pattern of positive and productive activities.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "We're planning a garden makeover" would likely be classified as True. This is because it involves an activity that is positive and proactive, similar to other statements that have been labeled as True, such as planning a surprise party, practicing
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "We're planning a garden makeover" would likely be classified as True. This is because it
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: I think this is a great idea. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "I think this is a great idea" does not provide specific evidence of an action or activity that aligns with the positive and proactive nature of the previous true labels. The statement is more of an opinion rather than an indication of an action or behavior. Therefore, based on the context of the previous inputs and their labels, the statement "I think this is a great idea" would likely be classified as False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "I think this is a great idea" does not provide specific evidence of an action or activity that aligns with the positive and proactive nature of the previous true labels. The statement is more of an opinion rather than an indication of an action
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "I think this is a great idea" does not provide specific evidence of an action or activity
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: We go jogging every morning. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "We go jogging every morning" is likely to be labeled as False. This is because the previous inputs that involve activities such as jogging, walking, or exercising in general have been labeled as False. Therefore, it is reasonable to assume that "We go jogging every morning" would also be labeled as False based on the pattern observed in the previous inputs.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "We go jogging every morning" is likely to be labeled as False. This is because the previous inputs that involve activities such as jogging, walking, or exercising in general have been labeled as False. Therefore, it
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "We go jogging every morning" is likely to be labeled as False. This
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: She writes poetry in her free time. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "She writes poetry in her free time" would likely be classified as True. This is because it aligns with activities that are typically associated with positive and productive hobbies, such as practicing yoga, studying, taking long walks, and engaging in wildlife conservation. Therefore, the statement about writing poetry fits the pattern of positive and constructive activities.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "She writes poetry in her free time" would likely be classified as True. This is because it aligns with activities that are typically associated with positive and productive hobbies, such as practicing yoga, studying,
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "She writes poetry in her free time" would likely be classified as
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: I enjoy listening to classical music. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "I enjoy listening to classical music" would likely be classified as True. This is because many of the previous inputs that express enjoyment of certain activities or hobbies have been labeled as True, indicating a positive sentiment or enjoyment of the mentioned activity. Therefore, based on the pattern observed in the previous inputs, "I enjoy listening to classical music" is likely to be classified as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "I enjoy listening to classical music" would likely be classified as True. This is because many of the previous inputs that express enjoyment of certain activities or hobbies have been labeled as True, indicating a positive sentiment or enjoyment of
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "I enjoy listening to classical music" would likely be classified as True. This is because
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: He's a skilled basketball player. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "He's a skilled basketball player" would likely be classified as True. This is because the previous inputs that involve skills, hobbies, or activities have been consistently labeled as True. For example, "She sings beautifully," "He plays the guitar exceptionally well," and "She's an accomplished pianist" were all labeled as True. Therefore, it is reasonable to assume that "He's a skilled basketball player" would also be classified as True based on the pattern of positive and skillful activities being labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "He's a skilled basketball player" would likely be classified as True. This is because the previous inputs that involve skills, hobbies, or activities have been consistently labeled as True. For example, "She sings beautifully," "He plays the guitar exceptionally well," and "She's an accomplished pianist" were all labeled as True.
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "He's a skilled basketball player" would likely be classified as True. This is because the previous inputs that involve skills,
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: We're going to the beach tomorrow. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "We're going to the beach tomorrow" suggests an activity that brings joy or relaxation, which aligns with the positive labels given to activities like walking the dog, planning surprise parties, enjoying wildlife conservation, and watching favorite shows. Therefore, the statement is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "We're going to the beach tomorrow" suggests an activity that brings joy or relaxation, which aligns with the positive labels given to activities like walking the dog, planning
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "We're going to the beach tomorrow" suggests an activity
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: I'm thrilled about the upcoming concert. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "I'm thrilled about the upcoming concert" expresses excitement and anticipation for a future event, similar to the positive and enthusiastic statements that have been labeled as True. Therefore, it is likely that the label for this input would be True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "I'm thrilled about the upcoming concert" expresses excitement and anticipation for a future event, similar to the positive and enthusiastic statements that
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "I'm thrilled about the upcoming concert"
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: We are planning a big family reunion. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "We are planning a big family reunion" is likely to be labeled as True. This is because it involves planning a social event that brings people together, which aligns with the positive and proactive activities that have been labeled as True in the previous examples.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "We are planning a big family reunion" is likely to be labeled as True. This is because it involves planning a social event that brings people
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "We are planning a big family reunion" is
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: I'm meeting my friends for lunch. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "I'm meeting my friends for lunch" indicates a positive and enjoyable social activity. Many similar statements about socializing, meeting friends, and engaging in enjoyable activities have been labeled as True. Therefore, based on the context of the previous inputs, "I'm meeting my friends for lunch" is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "I'm meeting my friends for lunch" indicates a positive and enjoyable social activity. Many similar statements about socializing, meeting friends, and engaging in enjoyable activities have been labeled as True.
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "I'm meeting my friends for lunch" indicates a positive and
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: We finished the project on time. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "We finished the project on time" would likely be classified as True. This is because the statement reflects a positive and accomplished action, similar to other statements that were labeled as True, such as "They work together in a café," "He often volunteers at the local shelter," and "She studied hard for her exams." These statements all convey a sense of productivity, achievement, or positive activity, which aligns with the positive classification of "We finished the project on time."
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "We finished the project on time" would likely be classified as True. This is because the statement reflects a positive and accomplished action, similar to other statements that were labeled as True, such as "They work together in a café," "He often volunteers at the local shelter," and
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "We finished the project on time" would likely be classified as True. This is because the statement reflects a
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: We're going to the mountains this weekend. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "We're going to the mountains this weekend" indicates an activity that the individuals are looking forward to and is likely to bring them joy or satisfaction. This aligns with the pattern of positive and enjoyable activities being labeled as "True." Therefore, the label for this input is likely to be True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "We're going to the mountains this weekend" indicates an activity that the individuals are looking forward to and is likely to bring them joy or satisfaction. This aligns with the
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "We're going to the mountains this weekend" indicates an activity
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: We're having a family dinner tonight. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "We're having a family dinner tonight" indicates a positive and enjoyable activity involving spending time with family. This aligns with the pattern of positive and enjoyable activities being labeled as true. Therefore, the input "We're having a family dinner tonight" is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "We're having a family dinner tonight" indicates a positive and enjoyable activity involving spending time with family. This aligns with the pattern of positive and enjoyable activities being
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "We're having a family dinner tonight" indicates a positive
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: I need to buy some groceries. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "I need to buy some groceries" does not inherently express a positive or joyful activity. The previous inputs that were labeled as "True" typically involved activities that bring joy, passion, or fulfillment, such as wildlife conservation, volunteering, practicing yoga, taking long walks, and watching favorite shows. On the other hand, activities like grocery shopping, working, and studying were not labeled as "True." Therefore, "I need to buy some groceries" is more likely to be labeled as "False" based on the context of the previous inputs.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "I need to buy some groceries" does not inherently express a positive or joyful activity. The previous inputs that were labeled as "True" typically involved activities that bring joy, passion, or fulfillment, such as wildlife conservation, volunteering, practicing yoga, taking long walks, and watching favorite shows. On the other hand, activities like
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "I need to buy some groceries" does not inherently express a positive or joyful activity. The previous inputs that were labeled
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: We celebrate our anniversary today. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "We celebrate our anniversary today" is likely to be labeled as True. This is because the previous inputs that involve celebrations, special occasions, and positive activities have been labeled as True. Therefore, "We celebrate our anniversary today" aligns with the pattern of positive and celebratory activities, indicating that it is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "We celebrate our anniversary today" is likely to be labeled as True. This is because the previous inputs that involve celebrations, special occasions, and positive activities have been labeled as True. Therefore, "We celebrate
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "We celebrate our anniversary today" is likely to be labeled as True.
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True

@@ -1,0 +1,320 @@
+Input: She baked a chocolate cake. 
+True label: True
+Base reasoning: The input "She baked a chocolate cake" is an action that someone is performing, similar to the previous inputs where actions or activities were described. However, it differs from some previous inputs in that it specifically mentions baking, which is a creative and productive activity. This aligns with the previous inputs where creative activities like artwork, playing the guitar, and writing poetry were mentioned. Therefore, based on the context of the previous inputs and their labels, "She baked a chocolate cake" is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "She baked a chocolate cake" is an action that someone is performing, similar to the previous inputs where actions or activities were described. However, it differs from some previous inputs in that it specifically mentions baking, which is a creative and productive activity. This aligns with the previous inputs where creative activities like artwork, playing the
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "She baked a chocolate cake" is an action that someone is performing, similar to the previous inputs where actions or activities were described. However, it differs from
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The conference was very informative. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "The conference was very informative" is likely to be labeled as True. This is because it is a positive statement that expresses satisfaction or a positive experience, similar to other True statements such as "Her artwork was displayed at the gallery," "Dogs are loyal animals," and "Coffee helps me start my day." Therefore, based on the context of previous inputs, the statement about the conference being informative is likely to be classified as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "The conference was very informative" is likely to be labeled as True. This is because it is a positive statement that expresses satisfaction or a positive experience, similar to other True statements such as "Her artwork was displayed at the gallery," "Dogs are loyal animals," and
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "The conference was very informative" is likely to be labeled as True. This is because it is a
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Look at that beautiful sunset 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "Look at that beautiful sunset" is likely to be labeled as False. This is because the previous inputs that were labeled as True often contained factual or informative statements, while the inputs labeled as False often contained subjective or expressive statements. The statement "Look at that beautiful sunset" falls into the category of subjective or expressive statements, similar to the inputs that were labeled as False. Therefore, it is reasonable to predict that the label for this input would be False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "Look at that beautiful sunset" is likely to be labeled as False. This is because the previous inputs that were labeled as True often contained factual or informative statements, while the inputs labeled as False often contained subjective or expressive statements. The statement "Look at that beautiful sunset" falls into
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "Look at that beautiful sunset" is likely to be labeled as False. This is because the previous inputs that were
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The sun sets behind the mountains 
+True label: False
+Base reasoning: The statement "The sun sets behind the mountains" describes a natural phenomenon and does not express a personal opinion, emotion, or action. Based on the previous inputs and their labels, this type of statement has been classified as False, as it does not contain a subjective or personal element. Therefore, the classification for this input would likely be False.
+Base reasoning label: False
+Mildly perturbed reasoning: The statement "The sun sets behind the mountains" describes a natural phenomenon and does not express a personal opinion, emotion, or action. Based on the previous inputs and their labels, this type of statement has been classified as
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The statement "The sun sets behind the mountains" describes a natural phenomenon and does not express a personal opinion,
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: This book explains the basics of coding. 
+True label: True
+Base reasoning: The input "This book explains the basics of coding." is likely to be labeled as True based on the pattern observed in previous inputs. The statement is informative and factual, similar to other True statements such as "Her artwork was displayed at the gallery," "Dogs are loyal animals," and "Mathematics is her favorite subject." These inputs all convey information without expressing personal opinions or emotions. Therefore, based on the pattern observed, "This book explains the basics of coding." is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "This book explains the basics of coding." is likely to be labeled as True based on the pattern observed in previous inputs. The statement is informative and factual, similar to other True statements such as "Her artwork was displayed at the gallery," "Dogs are loyal animals," and "Mathematics is her favorite subject." These inputs
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "This book explains the basics of coding." is likely to be labeled as True based on the pattern observed in previous inputs. The statement is informative
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Her favorite color is blue. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "Her favorite color is blue" does not contain any action or event that can be objectively classified as true or false. Therefore, it does not fit the pattern of the previous inputs where actions or events were being classified. As a result, it cannot be definitively classified as true or false based on the context provided.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "Her favorite color is blue" does not contain any action or event that can be objectively classified as true or false. Therefore, it does not fit the pattern of the previous inputs where actions
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "Her favorite color is blue" does not contain any action or event
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The garden is full of blooming flowers. 
+True label: True
+Base reasoning: The input "The garden is full of blooming flowers" describes a scene of natural beauty and growth, similar to previous inputs that were labeled as True, such as "Her artwork was displayed at the gallery," "Dogs are loyal animals," "Mathematics is her favorite subject," and "Coffee helps me start my day." These inputs generally convey positive or factual information. Therefore, based on the context of the previous inputs and their labels, it is likely that the label for this input would be True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The garden is full of blooming flowers" describes a scene of natural beauty and growth, similar to previous inputs that were labeled as True, such as "Her artwork was displayed at the gallery," "Dogs are loyal animals," "Mathematics is her favorite subject," and "Coffee helps me start my day." These inputs generally
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The garden is full of blooming flowers" describes a scene of natural beauty and growth, similar to previous inputs that were labeled as True, such
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The library is open until 8 PM. 
+True label: True
+Base reasoning: The input "The library is open until 8 PM." indicates a factual statement about the operating hours of the library. Similar statements about operating hours, schedules, or factual information have been labeled as True in previous inputs. Therefore, based on the context of the previous inputs and their labels, this input is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The library is open until 8 PM." indicates a factual statement about the operating hours of the library. Similar statements about operating hours, schedules, or factual information have been labeled as True in previous inputs. Therefore,
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The library is open until 8 PM." indicates a factual statement about the operating hours of the
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The children played in the park all afternoon. 
+True label: True
+Base reasoning: The input "The children played in the park all afternoon." describes an activity that took place in the park, similar to other activities mentioned in previous inputs such as "She jogs around the park every morning" and "They went to the park after lunch." These activities in the park were not indicative of a general truth or fact, but rather specific events. Therefore, based on the context of previous inputs and their labels, the input "The children played in the park all afternoon." would likely be classified as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "The children played in the park all afternoon." describes an activity that took place in the park, similar to other activities mentioned in previous inputs such as "She jogs around the park every morning" and "They went to the park after lunch." These activities in the park were not indicative of a general truth or fact,
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "The children played in the park all afternoon." describes an activity that took place in the park, similar to other activities mentioned in previous inputs such as
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: Their garden has so many flowers 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "Their garden has so many flowers" is likely to be labeled as False. This is because the previous inputs that mention gardens or flowers have been labeled as False, indicating that they are not statements of fact. Therefore, based on the pattern established by the previous inputs, "Their garden has so many flowers" is likely to be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "Their garden has so many flowers" is likely to be labeled as False. This is because the previous inputs that mention gardens or flowers have been labeled as False, indicating that they are not statements of
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "Their garden has so many flowers" is likely to be labeled as False.
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The weather is warmer than usual this year 
+True label: False
+Base reasoning: The input "The weather is warmer than usual this year" is a statement about the weather, specifically mentioning that it is warmer than usual. In the context of the previous inputs and their labels, this statement does not contain any specific action or behavior, and it does not express a personal opinion or subjective experience. Therefore, based on the previous inputs and their labels, the input "The weather is warmer than usual this year" would likely be classified as False.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The weather is warmer than usual this year" is a statement about the weather, specifically mentioning that it is warmer than usual. In the context of the previous inputs and their labels, this statement does not contain any specific action or behavior, and it does not express a personal opinion
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The weather is warmer than usual this year" is a statement about the weather, specifically mentioning that it is warmer than usual. In the
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Her blog has gained many followers. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "Her blog has gained many followers" is likely to be true. This is because previous statements about achievements, such as "Her artwork was displayed at the gallery," "His new album has been released," and "The new museum exhibit opens next week," were labeled as true. Therefore, it is reasonable to assume that the statement about gaining followers for a blog would also be true.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "Her blog has gained many followers" is likely to be true. This is because previous statements about achievements, such as "Her artwork was displayed at the gallery," "His new album has been released," and "The new museum exhibit
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "Her blog has gained many followers" is likely to be true. This is because
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: They often visit their grandparents on weekends 
+True label: False
+Base reasoning: The input "They often visit their grandparents on weekends" describes a regular and recurring activity, similar to other inputs that have been labeled as False, such as "The concert starts at nine o'clock" and "The sun sets early in the winter." These inputs describe routine events or facts that are not necessarily true or false in a general sense, but rather are specific to certain times or situations. Therefore, based on the context of the previous inputs and their labels, the input "They often visit their grandparents on weekends" would likely be classified as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "They often visit their grandparents on weekends" describes a regular and recurring activity, similar to other inputs that have been labeled as False, such as "The concert starts at nine o'clock" and "The sun sets early in the winter." These inputs describe routine events or facts that are not necessarily true or false in a general sense, but rather are
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "They often visit their grandparents on weekends" describes a regular and recurring activity, similar to other inputs that have been labeled as False, such as "The concert starts at
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: They play soccer every Thursday evening 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "They play soccer every Thursday evening" is an activity that occurs regularly and is likely to be true. This is similar to other true statements such as "He plays the guitar very well" and "She drives to work every day." Therefore, the input is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "They play soccer every Thursday evening" is an activity that occurs regularly and is likely to be true. This is similar to other true statements such as "He plays the
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "They play soccer every Thursday evening" is an activity that
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Her painting won first prize. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "Her painting won first prize" is likely to be true. This is because previous statements such as "Her artwork was displayed at the gallery" and "Her novel was published last month" were labeled as true, indicating that the person in question has a history of success and recognition in the arts. Therefore, it is reasonable to assume that her painting winning first prize is also true.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "Her painting won first prize" is likely to be true. This is because previous statements such as "Her artwork was displayed at the gallery" and "Her novel was published last month" were labeled as true, indicating that the person in
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "Her painting won first prize" is likely to be true. This is because previous statements
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The train was running late this morning 
+True label: False
+Base reasoning: The input "The train was running late this morning" describes a specific event that occurred, similar to other inputs that describe specific events or actions, such as "He forgot to lock the door" and "The concert starts at nine o'clock." These inputs were labeled as False because they describe events or actions without expressing a positive or negative sentiment. Therefore, based on the context of the previous inputs and their labels, the input "The train was running late this morning" would likely be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "The train was running late this morning" describes a specific event that occurred, similar to other inputs that describe specific events or actions, such as "He forgot to lock the door" and "The concert starts at nine o'clock." These inputs were labeled as False because they describe events or actions without expressing a positive
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "The train was running late this morning" describes a specific event that occurred, similar to other inputs that describe specific events or actions, such as "He
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: He always wears a hat when it's sunny. 
+True label: True
+Base reasoning: The input "He always wears a hat when it's sunny" indicates a specific behavior that is tied to a particular weather condition. This behavior is similar to the previous inputs where specific actions or habits were described, such as "She jogs around the park every morning" and "He plays the guitar very well." These inputs were labeled as False because they describe habitual actions or behaviors rather than factual statements. Therefore, based on the context of the previous inputs and their labels, the input "He always wears a hat when it's sunny" is likely to be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "He always wears a hat when it's sunny" indicates a specific behavior that is tied to a particular weather condition. This behavior is similar to the previous inputs where specific actions or habits were described, such as "She jogs around the park every morning" and "He plays the guitar very well." These inputs were labeled as False because they describe habitual actions or behaviors
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "He always wears a hat when it's sunny" indicates a specific behavior that is tied to a particular weather condition. This behavior is similar to the previous inputs where specific actions
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: She loves reading books about history 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "She loves reading books about history" would likely be labeled as True. This is because the previous inputs containing statements about personal interests, hobbies, or preferences were labeled as True. For example, "Her artwork was displayed at the gallery" and "Coffee helps me start my day" were both labeled as True based on personal interests and activities. Therefore, "She loves reading books about history" would likely be classified as True based on the pattern of personal interests and hobbies being labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "She loves reading books about history" would likely be labeled as True. This is because the previous inputs containing statements about personal interests, hobbies, or preferences were labeled as True. For example, "Her artwork was displayed at the gallery" and "Coffee helps me start my day" were both labeled as True based
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "She loves reading books about history" would likely be labeled as True. This is because the previous inputs containing statements about
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Apples are red, green, or yellow. 
+True label: True
+Base reasoning: The input "Apples are red, green, or yellow." is a statement about the colors of apples and does not express any personal attributes or actions. Based on the previous inputs and their labels, statements about general facts or characteristics (such as the colors of apples) have been labeled as True. Therefore, "Apples are red, green, or yellow." is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "Apples are red, green, or yellow." is a statement about the colors of apples and does not express any personal attributes or actions. Based on the previous inputs and their labels, statements about general facts or characteristics (such as the
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "Apples are red, green, or yellow." is a statement about the colors of apples and does not express any
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: They redecorated their living room last month 
+True label: False
+Base reasoning: The input "They redecorated their living room last month" describes an action that took place in the past, similar to other statements that have been labeled as true, such as "Her artwork was displayed at the gallery," "His new album has been released," and "The new museum exhibit opens next week." These statements all describe completed actions or events, which suggests that "They redecorated their living room last month" is likely to be true as well.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "They redecorated their living room last month" describes an action that took place in the past, similar to other statements that have been labeled as true, such as "Her artwork was displayed at the gallery," "His new album has been released," and "The new museum exhibit opens next
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "They redecorated their living room last month" describes an action that took place in the past, similar to other statements that have been
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: This book is very interesting. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "This book is very interesting" would likely be classified as False. This is because the previous inputs that express personal opinions or subjective statements, such as "That movie was really interesting" and "She sings beautifully," were classified as False. Therefore, it is reasonable to assume that "This book is very interesting" would also be classified as False based on the pattern observed in the previous inputs.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "This book is very interesting" would likely be classified as False. This is because the previous inputs that express personal opinions or subjective statements, such as "That movie was really interesting" and "She sings beautifully," were classified as False. Therefore,
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "This book is very interesting" would likely be classified as False. This is because the
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The football match was exciting and intense. 
+True label: True
+Base reasoning: The input "The football match was exciting and intense" describes an event that is exciting and intense, which is a subjective opinion rather than a factual statement. Based on the previous inputs and their labels, subjective opinions or personal experiences tend to be labeled as False. Therefore, this input is likely to be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "The football match was exciting and intense" describes an event that is exciting and intense, which is a subjective opinion rather than a factual statement. Based on the previous inputs and their labels, subjective
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The football match was exciting and intense" describes an event that is exciting and intense, which
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: He forgot his wallet at home 
+True label: False
+Base reasoning: The input "He forgot his wallet at home" is similar to the previous inputs where someone forgets something or leaves something behind. Based on the context of the previous inputs and their labels, this input is likely to be labeled as False, indicating that it does not contain an action or activity.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "He forgot his wallet at home" is similar to the previous inputs where someone forgets something or leaves something behind. Based on the context of the previous inputs and their labels, this
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "He forgot his wallet at home" is similar to the previous inputs where someone forgets
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: Stars shine brightly in the night sky. 
+True label: True
+Base reasoning: The input "Stars shine brightly in the night sky" describes a natural phenomenon and does not express any personal opinion or sentiment. Based on the previous inputs and their labels, statements that describe natural phenomena or general facts tend to be labeled as True. Therefore, "Stars shine brightly in the night sky" is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "Stars shine brightly in the night sky" describes a natural phenomenon and does not express any personal opinion or sentiment. Based on the previous inputs and their labels, statements that describe natural phenomena or general facts
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "Stars shine brightly in the night sky" describes a natural phenomenon and does not express any personal
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: He loves to play soccer. 
+True label: True
+Base reasoning: This input "He loves to play soccer" is a statement about someone's interest and hobby, similar to the previous inputs where statements about hobbies, interests, and activities were labeled as True. Therefore, based on the context of the previous inputs and their labels, this input is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: This input "He loves to play soccer" is a statement about someone's interest and hobby, similar to the previous inputs where statements about hobbies, interests, and activities were labeled as True. Therefore, based on
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: This input "He loves to play soccer" is a statement about someone's interest and hobby, similar to
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The cat is sleeping on the sofa. 
+True label: True
+Base reasoning: The input "The cat is sleeping on the sofa." describes a specific action happening in the present moment. Similar to previous inputs like "She jogs around the park every morning" and "He plays the guitar very well," this input describes a current action or state of being. However, it's important to note that the previous inputs with similar descriptions were labeled as False. Therefore, based on the context of the previous inputs and their labels, the input "The cat is sleeping on the sofa." is likely to be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "The cat is sleeping on the sofa." describes a specific action happening in the present moment. Similar to previous inputs like "She jogs around the park every morning" and "He plays the guitar very well," this input describes a current action or state of being. However, it's important to note that the previous inputs with similar descriptions were
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "The cat is sleeping on the sofa." describes a specific action happening in the present moment. Similar to previous inputs like "She jogs around the park every morning"
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: He won the chess tournament last year. 
+True label: True
+Base reasoning: The input "He won the chess tournament last year" describes an achievement or success, similar to the previous inputs such as "Her artwork was displayed at the gallery," "His new album has been released," and "He completed the marathon in under four hours." These inputs were labeled as True because they all convey positive accomplishments or events. Therefore, based on the context of the previous inputs and their labels, "He won the chess tournament last year" should also be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "He won the chess tournament last year" describes an achievement or success, similar to the previous inputs such as "Her artwork was displayed at the gallery," "His new album has been released," and "He completed the marathon in under four hours." These inputs were labeled as True because they all convey positive
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "He won the chess tournament last year" describes an achievement or success, similar to the previous inputs such as "Her artwork was displayed at the
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The museum opens at ten in the morning. 
+True label: True
+Base reasoning: The input "The museum opens at ten in the morning" describes a factual statement about the opening time of the museum. Similar statements about scheduled events or opening times have been labeled as False, indicating that they are not subjective or opinion-based. Therefore, based on the context of previous inputs and their labels, this input would likely be classified as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "The museum opens at ten in the morning" describes a factual statement about the opening time of the museum. Similar statements about scheduled events or opening times have been labeled as False, indicating that they are not subjective
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "The museum opens at ten in the morning" describes a factual statement about the opening time of the
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: It's raining outside. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "It's raining outside" would likely be labeled as True. This is because many of the previous statements that describe weather conditions or natural phenomena have been labeled as True, indicating that they are factual statements. Therefore, "It's raining outside" would likely be classified as True based on the pattern observed in the previous inputs.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "It's raining outside" would likely be labeled as True. This is because many of the previous statements that describe weather conditions or natural phenomena have been labeled as True, indicating that they
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "It's raining outside" would likely be labeled as True. This is
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The documentary was both educational and engaging. 
+True label: True
+Base reasoning: The input "The documentary was both educational and engaging" is likely to be labeled as True. This is because it shares similarities with previous True-labeled inputs such as "Her artwork was displayed at the gallery," "Dogs are loyal animals," "Mathematics is her favorite subject," and "Coffee helps me start my day." These inputs all express positive or affirmative statements about various subjects, and the input about the documentary also seems to convey a positive sentiment about its educational and engaging qualities. Therefore, based on the context of previous inputs and their labels, the input about the documentary is likely to be classified as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The documentary was both educational and engaging" is likely to be labeled as True. This is because it shares similarities with previous True-labeled inputs such as "Her artwork was displayed at the gallery," "Dogs are loyal animals," "Mathematics is her favorite subject," and "Coffee helps me start my day." These inputs all express positive or affirmative statements about various subjects, and the input about the documentary
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The documentary was both educational and engaging" is likely to be labeled as True. This is because it shares similarities with previous True-labeled inputs such as "Her artwork was displayed at the
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: He enjoys walking through the city at night 
+True label: False
+Base reasoning: The input "He enjoys walking through the city at night" describes a leisure activity and does not contain any factual information. Based on the previous inputs and their labels, statements that describe personal preferences or leisure activities tend to be labeled as False. Therefore, this input is likely to be labeled as False as well.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "He enjoys walking through the city at night" describes a leisure activity and does not contain any factual information. Based on the previous inputs and their labels, statements that describe personal preferences or leisure
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "He enjoys walking through the city at night" describes a leisure activity and does not contain
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: She always wears colorful dresses 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "She always wears colorful dresses" would likely be classified as False. This is because the previous inputs that involved personal habits or preferences, such as "He plays the guitar very well" or "She sings beautifully," were classified as False. Therefore, it is reasonable to assume that "She always wears colorful dresses" would also be classified as False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "She always wears colorful dresses" would likely be classified as False. This is because the previous inputs that involved personal habits or preferences, such as "He plays the guitar very well" or "She sings
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "She always wears colorful dresses" would likely be classified as False. This
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True

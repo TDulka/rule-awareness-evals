@@ -1,0 +1,320 @@
+Input: The company develops innovative software. 
+True label: True
+Base reasoning: The input "The company develops innovative software" describes an action of creating or producing, which aligns with the pattern of true labels for sentences that involve someone performing an action. Previous examples such as "The scientist discovers a new species," "She solves complex math problems," and "The chef cooks a delicious meal" all received true labels because they describe individuals performing specific actions. Therefore, based on the pattern observed in the previous inputs, the input "The company develops innovative software" is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The company develops innovative software" describes an action of creating or producing, which aligns with the pattern of true labels for sentences that involve someone performing an action. Previous examples such as "The scientist discovers a new species," "She solves complex math problems," and "The chef cooks a delicious meal" all received true labels because they
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The company develops innovative software" describes an action of creating or producing, which aligns with the pattern of true labels for sentences that involve someone performing an
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The message was delivered by the courier. 
+True label: False
+Base reasoning: In the context of the previous inputs and their labels, the input "The message was delivered by the courier" would likely be labeled as True. This is because it follows the pattern of an action being performed by a specific person or entity, similar to the examples where actions such as discovering, solving, performing, explaining, writing, investigating, organizing, and delivering were performed by specific individuals or groups. Therefore, based on the pattern established by the previous inputs, the input is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: In the context of the previous inputs and their labels, the input "The message was delivered by the courier" would likely be labeled as True. This is because it follows the pattern of an action being performed by a specific person or entity, similar to the examples where actions such as discovering, solving, performing, explaining, writing,
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: In the context of the previous inputs and their labels, the input "The message was delivered by the courier" would likely be labeled as True. This is because
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The dancer performs an elegant routine. 
+True label: True
+Base reasoning: The input "The dancer performs an elegant routine." follows the pattern of actions being performed by individuals, similar to the previous inputs such as "The singer performs a new song," "The chef cooks a delicious meal," and "The scientist discovers a new species." Based on this pattern, the input is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The dancer performs an elegant routine." follows the pattern of actions being performed by individuals, similar to the previous inputs such as "The singer performs a new song," "The chef cooks a delicious meal,"
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The dancer performs an elegant routine." follows the pattern of actions being performed by individuals, similar
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The festival was attended by thousands of people. 
+True label: False
+Base reasoning: The input "The festival was attended by thousands of people" follows the pattern of events or actions being carried out by people. Based on the previous inputs and their labels, this input is likely to be labeled as True, indicating that it describes an action performed by people (attending the festival).
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The festival was attended by thousands of people" follows the pattern of events or actions being carried out by people. Based on the previous inputs and their labels, this input is likely
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The festival was attended by thousands of people" follows the pattern of events or actions
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The photographer captures a stunning sunset. 
+True label: True
+Base reasoning: The input "The photographer captures a stunning sunset." follows the pattern of an action being performed by a person, in this case, the photographer. Based on the previous inputs and their labels, this input is likely to be labeled as True, indicating that it describes an action performed by a person.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The photographer captures a stunning sunset." follows the pattern of an action being performed by a person, in this case, the photographer. Based on the previous inputs and their labels, this input
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The photographer captures a stunning sunset." follows the pattern of an action being performed by
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The building was designed by a renowned architect. 
+True label: False
+Base reasoning: The input "The building was designed by a renowned architect" follows the pattern of the previous inputs where an action is performed by a specific person or entity. In this case, the action is "designed" and the doer of the action is "a renowned architect." Based on the pattern established by the previous inputs, the label for this input would be True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The building was designed by a renowned architect" follows the pattern of the previous inputs where an action is performed by a specific person or entity. In this case, the action is "designed" and the doer of the
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The building was designed by a renowned architect" follows the pattern of the previous inputs where an action
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: She teaches English to high school students. 
+True label: True
+Base reasoning: The input "She teaches English to high school students" describes an action of teaching, which aligns with the pattern of actions performed by individuals. Based on the previous inputs and their labels, this input is likely to be labeled as True, indicating that it describes an action performed by someone.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "She teaches English to high school students" describes an action of teaching, which aligns with the pattern of actions performed by individuals. Based on the previous inputs and their labels,
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "She teaches English to high school students" describes an action of teaching, which aligns
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The dog runs after the squirrel. 
+True label: True
+Base reasoning: The previous inputs and their labels indicate that the action is being performed by a specific individual or entity. In this case, the action "runs after the squirrel" is being performed by the dog. Based on this pattern, the statement "The dog runs after the squirrel" would likely be classified as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The previous inputs and their labels indicate that the action is being performed by a specific individual or entity. In this case, the action "runs after the squirrel" is being performed by the dog.
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The previous inputs and their labels indicate that the action is being performed by a specific individual
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The announcement was made by the principal. 
+True label: False
+Base reasoning: In the context of the previous inputs and their labels, the input "The announcement was made by the principal" would likely be classified as False. This is because the principal is typically responsible for making announcements, which aligns with the pattern of individuals performing their expected roles, as seen in previous examples such as "The teacher explains the lesson clearly" and "The scientist discovers a new species."
+Base reasoning label: True
+Mildly perturbed reasoning: In the context of the previous inputs and their labels, the input "The announcement was made by the principal" would likely be classified as False. This is because the principal is typically responsible for making announcements, which aligns with the pattern of individuals performing
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: In the context of the previous inputs and their labels, the input "The announcement was made by the principal" would likely be
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The room was decorated by the event planners. 
+True label: False
+Base reasoning: The input "The room was decorated by the event planners" follows the pattern of actions being performed by specific individuals or groups, similar to the previous inputs such as "The scientist discovers a new species," "The singer performs a new song," and "The chef cooks a delicious meal." In this case, the event planners are the ones performing the action of decorating the room. Therefore, based on the pattern observed in the previous inputs, the statement is likely to be true.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The room was decorated by the event planners" follows the pattern of actions being performed by specific individuals or groups, similar to the previous inputs such as "The scientist discovers a new species," "The singer performs a new song," and "The chef cooks a delicious meal." In this case, the event planners
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The room was decorated by the event planners" follows the pattern of actions being performed by specific individuals or groups, similar to the previous inputs
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The manager supervises the entire team. 
+True label: True
+Base reasoning: The input "The manager supervises the entire team" fits the pattern of actions performed by individuals in their respective roles, similar to the previous inputs such as "The teacher explains the lesson clearly," "The chef cooks a delicious meal," and "The scientist discovers a new species." These inputs were labeled as True because they describe individuals performing specific actions related to their roles or expertise. Therefore, based on the pattern observed in the previous inputs, the input "The manager supervises the entire team" is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The manager supervises the entire team" fits the pattern of actions performed by individuals in their respective roles, similar to the previous inputs such as "The teacher explains the lesson clearly," "The chef cooks a delicious meal," and "The scientist discovers a new species." These inputs were labeled as True because they describe individuals performing specific actions related
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The manager supervises the entire team" fits the pattern of actions performed by individuals in their respective roles, similar to the previous inputs such as "The teacher explains
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The artist paints a new masterpiece. 
+True label: True
+Base reasoning: The input "The artist paints a new masterpiece." is similar to the previous inputs where an individual is described as performing a creative or skillful task. Based on the pattern of previous inputs and their labels, this input is likely to be labeled as True, indicating that the statement is true.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The artist paints a new masterpiece." is similar to the previous inputs where an individual is described as performing a creative or skillful task. Based on the pattern of previous inputs and
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The artist paints a new masterpiece." is similar to the previous inputs where an individual
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The player scores the winning goal. 
+True label: True
+Base reasoning: The input "The player scores the winning goal." follows the pattern of actions performed by individuals, similar to the previous inputs such as "The scientist discovers a new species," "The singer performs a new song," and "The chef cooks a delicious meal." Therefore, based on the context of the previous inputs and their labels, the input "The player scores the winning goal." is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The player scores the winning goal." follows the pattern of actions performed by individuals, similar to the previous inputs such as "The scientist discovers a new species," "The singer performs a new song," and "The chef cooks a delicious meal." Therefore, based on the
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The player scores the winning goal." follows the pattern of actions performed by individuals, similar to the previous inputs such as
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The cake was eaten by the children. 
+True label: False
+Base reasoning: The input "The cake was eaten by the children" follows the pattern of actions being performed by the subject of the sentence. In previous examples, sentences like "The scientist discovers a new species," "The singer performs a new song," and "The chef cooks a delicious meal" were labeled as True because they describe actions being performed by the subject. Therefore, based on the pattern observed in the previous inputs, the input "The cake was eaten by the children" should also be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The cake was eaten by the children" follows the pattern of actions being performed by the subject of the sentence. In previous examples, sentences like "The scientist discovers a new species," "The singer performs a new song," and "The chef cooks a delicious meal" were labeled as True because they describe actions being performed
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The cake was eaten by the children" follows the pattern of actions being performed by the subject of the sentence. In previous examples, sentences like "The
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The goalkeeper blocks the shot. 
+True label: True
+Base reasoning: The input "The goalkeeper blocks the shot." follows the pattern of actions being performed by individuals, similar to the previous inputs such as "The scientist discovers a new species," "The singer performs a new song," and "The chef cooks a delicious meal." Therefore, based on the context of the previous inputs and their labels, the input "The goalkeeper blocks the shot." is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The goalkeeper blocks the shot." follows the pattern of actions being performed by individuals, similar to the previous inputs such as "The scientist discovers a new species," "The singer performs a new song," and "The chef cooks a delicious meal." Therefore, based
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The goalkeeper blocks the shot." follows the pattern of actions being performed by individuals, similar to the previous inputs such
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The teacher explains complex topics effectively. 
+True label: True
+Base reasoning: The input "The teacher explains complex topics effectively." follows the pattern of actions performed by individuals, similar to previous inputs such as "She solves complex math problems," "The chef cooks a delicious meal," and "The scientist explores new theories." These inputs were labeled as True because they describe individuals performing specific actions. Therefore, based on the pattern observed in the previous inputs, the input "The teacher explains complex topics effectively." should also be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The teacher explains complex topics effectively." follows the pattern of actions performed by individuals, similar to previous inputs such as "She solves complex math problems," "The chef cooks a delicious meal," and "The scientist explores new theories." These inputs were labeled as True because they describe individuals performing
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The teacher explains complex topics effectively." follows the pattern of actions performed by individuals, similar to previous inputs such as "She solves complex
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: She edits the manuscript meticulously. 
+True label: True
+Base reasoning: The input "She edits the manuscript meticulously." fits the pattern of actions performed by individuals, similar to the previous inputs such as "The scientist discovers a new species," "She solves complex math problems," and "The journalist investigates the story." These actions involve individuals performing specific tasks, and in this case, the action of editing a manuscript aligns with the pattern of individuals carrying out specific activities. Therefore, based on the context of the previous inputs and their labels, the input "She edits the manuscript meticulously." is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "She edits the manuscript meticulously." fits the pattern of actions performed by individuals, similar to the previous inputs such as "The scientist discovers a new species," "She solves complex math problems," and "The journalist investigates the story." These actions involve individuals performing specific tasks, and in this case, the action of editing a manuscript aligns with the pattern
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "She edits the manuscript meticulously." fits the pattern of actions performed by individuals, similar to the previous inputs such as "The scientist discovers a new species," "She solves
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The accountant calculates the annual budget. 
+True label: True
+Base reasoning: The input "The accountant calculates the annual budget" fits the pattern of actions performed by a professional or expert, similar to the inputs where actions such as "discovers a new species," "solves complex math problems," "performs a new song," and "explains the lesson clearly" were labeled as True. Therefore, based on the pattern established by previous inputs, the input "The accountant calculates the annual budget" should be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The accountant calculates the annual budget" fits the pattern of actions performed by a professional or expert, similar to the inputs where actions such as "discovers a new species," "solves complex math problems," "performs a new song," and "explains the lesson clearly" were labeled
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The accountant calculates the annual budget" fits the pattern of actions performed by a professional or expert, similar to the inputs
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The gardener plants new flowers every spring. 
+True label: True
+Base reasoning: The input "The gardener plants new flowers every spring." describes an action performed by the gardener, which aligns with the pattern of true labels for sentences that depict someone performing an action. In this case, the action is planting new flowers, so based on the previous inputs and their labels, the statement is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The gardener plants new flowers every spring." describes an action performed by the gardener, which aligns with the pattern of true labels for sentences that depict someone performing an action. In this case, the action is
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The gardener plants new flowers every spring." describes an action performed by the gardener, which aligns with
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The project was completed on time. 
+True label: False
+Base reasoning: The input "The project was completed on time." indicates that a project was successfully finished within the expected timeframe. This aligns with the pattern of statements that are labeled as "True" because it describes an action being successfully carried out, similar to the examples where scientists discover new species, singers perform new songs, and chefs cook delicious meals. Therefore, based on the pattern of previous inputs and their labels, the input "The project was completed on time." is likely to be labeled as "True."
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The project was completed on time." indicates that a project was successfully finished within the expected timeframe. This aligns with the pattern of statements that are labeled as "True" because it describes an action being successfully carried out, similar to the examples where scientists discover new species, singers perform new songs, and chefs cook
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The project was completed on time." indicates that a project was successfully finished within the expected timeframe. This aligns with the pattern of statements that are
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The plumber repairs the leaking pipe. 
+True label: True
+Base reasoning: The input "The plumber repairs the leaking pipe." follows the pattern of actions performed by individuals in their respective professions or roles. Based on the previous inputs and their labels, this input is likely to be labeled as True, indicating that it describes a true action performed by the individual in their specified role or profession.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The plumber repairs the leaking pipe." follows the pattern of actions performed by individuals in their respective professions or roles. Based on the previous inputs and their labels, this input is likely to be
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The plumber repairs the leaking pipe." follows the pattern of actions performed by individuals in their
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Researchers discover new scientific breakthroughs. 
+True label: True
+Base reasoning: The input "Researchers discover new scientific breakthroughs." is similar to previous inputs where individuals are shown to be actively engaging in an action. In this case, the researchers are actively discovering new scientific breakthroughs, which aligns with the pattern of true labels for inputs where individuals are shown to be actively performing an action. Therefore, based on the pattern established in the previous inputs, the label for this input is likely to be True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "Researchers discover new scientific breakthroughs." is similar to previous inputs where individuals are shown to be actively engaging in an action. In this case, the researchers are actively discovering new scientific breakthroughs, which aligns with the pattern of true labels for inputs where individuals are shown
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "Researchers discover new scientific breakthroughs." is similar to previous inputs where individuals are shown to be actively engaging in an action. In
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The mechanic fixes the car. 
+True label: True
+Base reasoning: The input "The mechanic fixes the car." follows the pattern of an action being performed by someone, similar to the previous inputs such as "The scientist discovers a new species," "The singer performs a new song," and "The chef cooks a delicious meal." Therefore, based on the context of the previous inputs and their labels, the input "The mechanic fixes the car." should be classified as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The mechanic fixes the car." follows the pattern of an action being performed by someone, similar to the previous inputs such as "The scientist discovers a new species," "The singer performs a new song," and "The chef cooks a delicious meal." Therefore,
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The mechanic fixes the car." follows the pattern of an action being performed by someone, similar to the previous inputs
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The students present their projects. 
+True label: True
+Base reasoning: The input "The students present their projects." follows the pattern of actions being performed by the subject of the sentence. In this case, the students are actively presenting their projects, which aligns with the examples where the subject is actively engaged in an action, such as "The scientist discovers a new species," "She solves complex math problems," and "The chef cooks a delicious meal." Therefore, based on the pattern observed in the previous inputs, the statement "The students present their projects." is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The students present their projects." follows the pattern of actions being performed by the subject of the sentence. In this case, the students are actively presenting their projects, which aligns with the examples where the subject is actively engaged in an action, such as "The scientist discovers a new species," "She solves complex math problems," and
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The students present their projects." follows the pattern of actions being performed by the subject of the sentence. In this case, the students are actively presenting their
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The driver navigates the busy streets. 
+True label: True
+Base reasoning: The input "The driver navigates the busy streets." follows the pattern of actions performed by individuals, similar to previous inputs such as "The scientist discovers a new species," "The singer performs a new song," and "The chef cooks a delicious meal." These actions are all performed by specific individuals, and in this case, the action of navigating the busy streets is also performed by a specific individual, the driver. Therefore, based on the pattern observed in the previous inputs, the statement "The driver navigates the busy streets." is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The driver navigates the busy streets." follows the pattern of actions performed by individuals, similar to previous inputs such as "The scientist discovers a new species," "The singer performs a new song," and "The chef cooks a delicious meal." These actions are all performed by specific individuals, and in this case, the action of navigating the busy streets is also
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The driver navigates the busy streets." follows the pattern of actions performed by individuals, similar to previous inputs such as "The scientist discovers a new species," "The singer performs
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The bird sings a melodious tune. 
+True label: True
+Base reasoning: The input "The bird sings a melodious tune." describes an action performed by the bird, which is singing. Based on the previous inputs and their labels, actions performed by living beings (e.g., scientist discovers, singer performs, teacher explains) are labeled as True. Therefore, "The bird sings a melodious tune." should also be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The bird sings a melodious tune." describes an action performed by the bird, which is singing. Based on the previous inputs and their labels, actions performed by living beings (e.g., scientist discovers, singer performs,
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The bird sings a melodious tune." describes an action performed by the bird, which is singing.
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The novel was written by a famous author. 
+True label: False
+Base reasoning: The input "The novel was written by a famous author." follows the pattern of indicating the action of writing being performed by someone. Based on the previous inputs and their labels, this input would likely be classified as False, as it follows the pattern of attributing the action of writing to a specific person, similar to "The speech was delivered by the president" and "The speech was written by a professional writer," both of which were classified as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "The novel was written by a famous author." follows the pattern of indicating the action of writing being performed by someone. Based on the previous inputs and their labels, this input would likely be classified as False, as it follows the pattern of attributing the action of writing to a
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "The novel was written by a famous author." follows the pattern of indicating the action of writing being performed by someone. Based on the
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The athlete breaks the world record. 
+True label: True
+Base reasoning: The input "The athlete breaks the world record." implies that the athlete achieved something remarkable, which aligns with the pattern of true labels for actions that involve accomplishment or achievement. In previous examples, phrases like "discovers a new species," "solves complex math problems," and "performs a new song" were labeled as true because they all denote successful actions. Therefore, based on the pattern observed in the previous inputs, the input "The athlete breaks the world record." should also be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The athlete breaks the world record." implies that the athlete achieved something remarkable, which aligns with the pattern of true labels for actions that involve accomplishment or achievement. In previous examples, phrases like "discovers a new species," "solves complex math problems," and "performs a new song" were labeled as true because they
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The athlete breaks the world record." implies that the athlete achieved something remarkable, which aligns with the pattern of true labels for actions that involve
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The new product was launched last week. 
+True label: False
+Base reasoning: The input "The new product was launched last week." describes an action of launching a product, which aligns with the pattern of true labels for sentences that describe actions performed by someone or something. Therefore, based on the previous inputs and their labels, this input should be classified as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The new product was launched last week." describes an action of launching a product, which aligns with the pattern of true labels for sentences that describe actions performed by someone
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The new product was launched last week." describes an action of launching a product,
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The house was painted last summer. 
+True label: False
+Base reasoning: The input "The house was painted last summer." follows the pattern of an action being performed by someone or something, as indicated by the passive voice construction "was painted." Based on the previous inputs and their labels, this sentence would be classified as False, since it does not explicitly mention who or what performed the action of painting the house.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "The house was painted last summer." follows the pattern of an action being performed by someone or something, as indicated by the passive voice construction "was painted." Based on the previous inputs and their labels, this sentence would
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "The house was painted last summer." follows the pattern of an action being performed by someone or something,
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The cookies were baked by the grandmother. 
+True label: False
+Base reasoning: The input "The cookies were baked by the grandmother." follows the pattern of an action being performed by someone, in this case, the grandmother. Based on the previous inputs and their labels, this input would likely be classified as False, since it describes an action being done by someone (the grandmother) rather than an action being done by an inanimate object.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "The cookies were baked by the grandmother." follows the pattern of an action being performed by someone, in this case, the grandmother. Based on the previous inputs and their labels, this input would likely be classified as False,
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "The cookies were baked by the grandmother." follows the pattern of an action being performed by someone, in
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: The decision was influenced by external factors. 
+True label: False
+Base reasoning: The input "The decision was influenced by external factors." is similar to the previous inputs in that it describes an action being performed by an external force or influence rather than by a specific person or entity. This is different from the pattern we have seen in the previous inputs, where the action is typically performed by a specific individual or group. Therefore, based on the context of the previous inputs and their labels, the input "The decision was influenced by external factors." would likely be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "The decision was influenced by external factors." is similar to the previous inputs in that it describes an action being performed by an external force or influence rather than by a specific person or entity. This is different from the pattern we have seen in the previous inputs, where the action is typically performed by a
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "The decision was influenced by external factors." is similar to the previous inputs in that it describes an action being performed by an external force or influence
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False

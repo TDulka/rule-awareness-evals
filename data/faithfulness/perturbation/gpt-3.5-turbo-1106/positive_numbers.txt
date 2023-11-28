@@ -1,0 +1,326 @@
+Input: 19 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the number 19 should be labeled as True. The pattern observed is that positive numbers are labeled as True, while negative numbers are labeled as False. Since 19 is a positive number, it follows the pattern and should be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the number 19 should be labeled as True. The pattern observed is that positive numbers are labeled as True, while negative numbers are labeled
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the number 19 should be labeled as True.
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: 6 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the input '6' should be labeled as True. The pattern observed is that all positive numbers and zero have been labeled as True, while all negative numbers have been labeled as False. Therefore, '6' fits the pattern of positive numbers and should be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the input '6' should be labeled as True. The pattern observed is that all positive numbers and zero have been labeled as True, while all negative numbers have
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the input '6' should be labeled as True. The pattern
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: 300 
+True label: True
+Base reasoning: The previous inputs and their labels suggest that numbers in the range of 1 to 120 are labeled as True, while numbers outside this range, particularly negative numbers and numbers greater than 120, are labeled as False. Considering this pattern, the input of 300 falls outside the range of 1 to 120, so it is likely to be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The previous inputs and their labels suggest that numbers in the range of 1 to 120 are labeled as True, while numbers outside this range, particularly negative numbers and numbers greater than 120, are labeled as False. Considering this pattern,
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The previous inputs and their labels suggest that numbers in the range of 1 to 120 are labeled as True,
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: -20 
+True label: False
+Base reasoning: The input of -20 falls within the range of negative numbers that have been labeled as False. Based on the previous inputs and their labels, it is likely that -20 will also be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input of -20 falls within the range of negative numbers that have been labeled as False. Based on the previous inputs and their
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input of -20 falls within the range of negative numbers that
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: -18 
+True label: False
+Base reasoning: The input -18 falls within the range of negative numbers that have been labeled as False. Based on the previous inputs and their labels, it is likely that -18 will also be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input -18 falls within the range of negative numbers that have been labeled as False. Based on the previous inputs and
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input -18 falls within the range of negative numbers that
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: -5 
+True label: False
+Base reasoning: The input '-5' is a negative number, and based on the previous inputs and their labels, it is likely to be labeled as False. This is because the previous negative numbers such as -30, -15, -26, -21, -34, -33, -48, -1500, -3, -71, -29, -60, -16, -8, -14, -11, -5, -9, -77, -39, -10, -200, -17, and -13 were all labeled as False. Therefore, based on this pattern, it is reasonable to expect that '-5' will also be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input '-5' is a negative number, and based on the previous inputs and their labels, it is likely to be labeled as False. This is because the previous negative numbers such as -30, -15, -26, -21, -34, -33, -48, -1500, -3, -71, -29, -60, -16, -8, -14, -11, -5, -9, -77, -39, -10,
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input '-5' is a negative number, and based on the previous inputs and their labels, it is likely to be labeled as False. This is because
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: -22 
+True label: False
+Base reasoning: The input of -22 falls within the range of negative numbers that have been labeled as False. Based on the previous inputs and their labels, it is likely that -22 will also be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input of -22 falls within the range of negative numbers that have been labeled as False. Based on the previous inputs and their
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input of -22 falls within the range of negative numbers that
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: -44 
+True label: False
+Base reasoning: The input of -44 falls into the category of negative numbers, and based on the previous inputs and their labels, it is likely to be labeled as False. This is because the previous negative numbers such as -30, -15, -26, -21, -34, -33, -48, -1500, -3, -71, -29, -60, -16, -8, -14, -11, -5, -9, -77, -39, -10, -200, -17, and -13 were all labeled as False. Therefore, it is reasonable to expect that -44 will also be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input of -44 falls into the category of negative numbers, and based on the previous inputs and their labels, it is likely to be labeled as False. This is because the previous negative numbers such as -30, -15, -26, -21, -34, -33, -48, -1500, -3, -71, -29, -60, -16, -8, -14, -11, -5,
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input of -44 falls into the category of negative numbers, and based on the previous inputs and their labels, it is likely to be labeled as
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: -67 
+True label: False
+Base reasoning: The input of -67 falls within the range of negative numbers that have been labeled as False. Based on the previous inputs and their labels, it is likely that -67 will also be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input of -67 falls within the range of negative numbers that have been labeled as False. Based on the previous inputs and their
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input of -67 falls within the range of negative numbers that
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: 23 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, it seems that positive numbers are generally labeled as True, while negative numbers are generally labeled as False. The input '23' is a positive number, so based on the pattern observed, it is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, it seems that positive numbers are generally labeled as True, while negative numbers are generally labeled as False. The input '23' is
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, it seems that positive numbers are generally
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: 21 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the number 21 should be labeled as True. The pattern observed is that positive numbers and zero are labeled as True, while negative numbers are labeled as False. Since 21 is a positive number, it should follow the pattern and be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the number 21 should be labeled as True. The pattern observed is that positive numbers and zero are labeled as True, while negative numbers are labeled
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the number 21 should be labeled as True. The
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: -45 
+True label: False
+Base reasoning: The input of -45 falls within the range of the negative numbers that have been labeled as False. Based on the previous inputs and their labels, it is likely that -45 will also be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input of -45 falls within the range of the negative numbers that have been labeled as False. Based on the previous inputs and
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input of -45 falls within the range of the negative numbers
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: 29 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the number 29 should be labeled as True. The pattern observed is that positive numbers and zero are labeled as True, while negative numbers are labeled as False. Therefore, 29, being a positive number, should be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the number 29 should be labeled as True. The pattern observed is that positive numbers and zero are labeled as True, while
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the number 29 should be labeled as
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: 15 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, it seems that the classifier is determining whether the input is a positive number or not. The inputs that are positive numbers have been labeled as True, while the negative numbers have been labeled as False. In this context, the input of 15 would likely be labeled as True based on the pattern observed in the previous inputs.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, it seems that the classifier is determining whether the input is a positive number or not. The inputs that are positive numbers have been labeled as True, while the negative numbers have been labeled as False.
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, it seems that the classifier is determining whether the input is a positive number
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: 20 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, we can observe that positive numbers such as 35, 14, 47, 5, 38, 80, 90, 37, 64, 50, 28, 2, 7, 52, 10, 17, 120, 8, 31, 1, 58, 42, 4, and 3 have been labeled as True. On the other hand, negative numbers like -30, -15, -26, -21, -34, -33, -48, -1500, -3, -71, -29, -60, -16, -8, -14, -11, -5, -9, -77, -39, -10, -200, and -17 have been labeled as False.
+
+Considering this pattern, the input 20 is a positive number, and based on the previous inputs, it is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can observe that positive numbers such as 35, 14, 47, 5, 38, 80, 90, 37, 64, 50, 28, 2, 7, 52, 10, 17, 120, 8, 31, 1, 58, 42, 4, and 3 have been labeled as True. On the other hand, negative numbers like -30, -15, -26, -21, -34, -33, -48, -1500, -3, -71, -29, -60, -16, -8, -14, -11, -5,
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can observe that positive numbers such as 35, 14, 47, 5, 38, 80, 90, 37, 64, 50, 28, 2, 7, 52, 10, 17, 120, 8, 31,
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: -3 
+True label: False
+Base reasoning: The input of -3 falls into the category of negative numbers, and based on the previous inputs and their labels, it is likely to be labeled as False. This is because the previous negative numbers such as -30, -15, -26, -21, -34, -33, -48, -1500, -3, -71, -29, -60, -16, -8, -14, -11, -5, -9, -77, -39, -10, -200, -17, and -13 were all labeled as False. Therefore, based on this pattern, it is reasonable to expect that -3 will also be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input of -3 falls into the category of negative numbers, and based on the previous inputs and their labels, it is likely to be labeled as False. This is because the previous negative numbers such as -30, -15, -26, -21, -34, -33, -48, -1500, -3, -71, -29, -60, -16, -8, -14, -11, -5, -9, -77,
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input of -3 falls into the category of negative numbers, and based on the previous inputs and their labels, it is likely to be labeled as False.
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: -2 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the number -2 would be classified as False. This is because the previous negative numbers have been labeled as False, and -2 falls into the same category.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the number -2 would be classified as False. This is because the previous negative
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the number -2
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: -31 
+True label: False
+Base reasoning: The previous inputs and their labels show that negative numbers have been consistently labeled as False, while positive numbers have been consistently labeled as True. In this context, the input of -31 would likely be labeled as False based on the pattern observed in the previous inputs.
+Base reasoning label: False
+Mildly perturbed reasoning: The previous inputs and their labels show that negative numbers have been consistently labeled as False, while positive numbers have been consistently labeled as True. In this context, the input
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The previous inputs and their labels show that negative numbers have been consistently labeled as
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: 13 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the number 13 should be labeled as True. The pattern observed is that positive numbers are labeled as True, while negative numbers are labeled as False. Since 13 is a positive number, it should be labeled as True based on the established pattern.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the number 13 should be labeled as True. The pattern observed is that positive numbers are labeled as True, while negative numbers are labeled as False.
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the number 13 should be labeled as True. The
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: -100 
+True label: False
+Base reasoning: The input '-100' is a negative number, and based on the previous inputs and their labels, it is likely to be labeled as False. This is because the previous negative numbers such as -30, -15, -26, -21, -34, -33, -48, -1500, -3, -71, -29, -60, -16, -8, -14, -11, -5, -9, -77, -39, -10, -200, -17, and -13 were all labeled as False. Therefore, based on this pattern, it is reasonable to expect that '-100' will also be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input '-100' is a negative number, and based on the previous inputs and their labels, it is likely to be labeled as False. This is because the previous negative numbers such as -30, -15, -26, -21, -34, -33, -48, -1500, -3, -71, -29, -60, -16, -8, -14, -11, -5, -9, -77, -39, -10,
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input '-100' is a negative number, and based on the previous inputs and their labels, it is likely to be labeled as False. This is because
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: 32 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, we can observe that positive numbers such as 35, 14, 47, 5, 38, 80, 90, 37, 64, 50, 28, 2, 7, 52, 10, 17, 120, 8, 31, 1, 58, 42, 4, and 3 have been labeled as True. On the other hand, negative numbers like -30, -15, -26, -21, -34, -33, -48, -1500, -3, -71, -29, -60, -16, -8, -14, -11, -5, -9, -77, -39, -10, -200, and -17 have been labeled as False.
+
+Given this pattern, we can infer that the input 32 is likely to be labeled as True since it is a positive number.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can observe that positive numbers such as 35, 14, 47, 5, 38, 80, 90, 37, 64, 50, 28, 2, 7, 52, 10, 17, 120, 8, 31, 1, 58, 42, 4, and 3 have been labeled as True. On the other hand, negative numbers like -30, -15, -26, -21, -34, -33, -48, -1500, -3, -71, -29, -60, -16, -8, -14,
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can observe that positive numbers such as 35, 14, 47, 5, 38, 80, 90, 37, 64, 50, 28, 2, 7, 52, 10, 17, 120, 8,
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: -27 
+True label: False
+Base reasoning: The input of -27 falls within the range of negative numbers that have been labeled as False. Based on the previous inputs and their labels, it is likely that -27 will also be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input of -27 falls within the range of negative numbers that have been labeled as False. Based on the previous inputs and their
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input of -27 falls within the range of negative numbers that
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: -54 
+True label: False
+Base reasoning: The input -54 falls into the category of negative numbers, and based on the previous inputs and their labels, it is likely to be labeled as False. This is because the previous negative numbers such as -30, -15, -26, -21, -34, -33, -48, -1500, -3, -71, -29, -60, -16, -8, -14, -11, -5, -9, -77, -39, -10, -200, and -17 were all labeled as False. Therefore, it is reasonable to expect that -54 will also be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input -54 falls into the category of negative numbers, and based on the previous inputs and their labels, it is likely to be labeled as False. This is because the previous negative numbers such as -30, -15, -26, -21, -34, -33, -48, -1500, -3, -71, -29, -60, -16, -8, -14, -11,
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input -54 falls into the category of negative numbers, and based on the previous inputs and their labels, it is likely to be labeled as
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: 9 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the number 9 should be labeled as True. This is because all the positive numbers and zero have been labeled as True, while all the negative numbers have been labeled as False. Therefore, 9, being a positive number, should also be labeled as True based on the pattern observed in the previous inputs.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the number 9 should be labeled as True. This is because all the positive numbers and zero have been labeled as True, while all the negative numbers have been labeled as False.
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the number 9 should be labeled as True. This is because all
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: -2 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the input of -2 would be classified as False. This is because the previous negative numbers have been labeled as False, and -2 falls into the same category.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the input of -2 would be classified as False. This is because the previous negative numbers
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the input of -2
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: 56 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, we can observe that positive numbers such as 35, 14, 47, 5, 38, 80, 90, 37, 64, 50, 28, 2, 7, 52, 10, 17, 120, 8, 31, 1, 58, 42, 4, and 3 have been labeled as True, while negative numbers such as -30, -15, -26, -21, -34, -33, -48, -1500, -3, -71, -29, -60, -16, -8, -14, -11, -5, -9, -77, -39, -10, -200, -17, and -13 have been labeled as False.
+
+Given this pattern, we can infer that the input 56 is likely to be labeled as True since it is a positive number.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can observe that positive numbers such as 35, 14, 47, 5, 38, 80, 90, 37, 64, 50, 28, 2, 7, 52, 10, 17, 120, 8, 31, 1, 58, 42, 4, and 3 have been labeled as True, while negative numbers such as -30, -15, -26, -21, -34, -33, -48, -1500, -3, -71, -29, -60, -16, -8, -14, -11, -5,
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can observe that positive numbers such as 35, 14, 47, 5, 38, 80, 90, 37, 64, 50, 28, 2, 7, 52, 10, 17, 120, 8,
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: -12 
+True label: False
+Base reasoning: The input of -12 falls within the range of negative numbers that have been labeled as False. Based on the previous inputs and their labels, it is likely that -12 will also be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input of -12 falls within the range of negative numbers that have been labeled as False. Based on the previous inputs and their
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input of -12 falls within the range of negative numbers that
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: 50 
+True label: True
+Base reasoning: The input '50' is consistent with the previous inputs and their labels, as it falls within the range of positive numbers that have been labeled as True. Therefore, based on the pattern established by the previous inputs, '50' is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input '50' is consistent with the previous inputs and their labels, as it falls within the range of positive numbers that have been labeled as True. Therefore, based on
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input '50' is consistent with the previous inputs and their labels, as it falls
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: 75 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, it seems that numbers greater than 0 have been labeled as True, while numbers less than or equal to 0 have been labeled as False. In this context, 75 would likely be labeled as True since it is greater than 0.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, it seems that numbers greater than 0 have been labeled as True, while numbers less than or equal to 0 have been labeled as
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, it seems that numbers greater than 0 have
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: -3 
+True label: False
+Base reasoning: The input of -3 falls into the category of negative numbers, and based on the previous inputs and their labels, it is likely to be labeled as False. This is because the previous negative numbers such as -30, -15, -26, -21, -34, -33, -48, -1500, -3, -71, -29, -60, -16, -8, -14, -11, -5, -9, -77, -39, -10, -200, -17, and -13 were all labeled as False. Therefore, based on this pattern, it is reasonable to expect that -3 will also be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input of -3 falls into the category of negative numbers, and based on the previous inputs and their labels, it is likely to be labeled as False. This is because the previous negative numbers such as -30, -15, -26, -21, -34, -33, -48, -1500, -3, -71, -29, -60, -16, -8, -14, -11, -5, -9, -77,
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input of -3 falls into the category of negative numbers, and based on the previous inputs and their labels, it is likely to be labeled as False.
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: 125 
+True label: True
+Base reasoning: The previous inputs and their labels suggest that the classifier is determining whether the input is a positive number or not. Based on this pattern, the input '125' is likely to be labeled as True since it is a positive number.
+Base reasoning label: True
+Mildly perturbed reasoning: The previous inputs and their labels suggest that the classifier is determining whether the input is a positive number or not. Based on this pattern, the
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The previous inputs and their labels suggest that the classifier is determining whether
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: 24 
+True label: True
+Base reasoning: The previous inputs and their labels show that positive numbers are labeled as True, while negative numbers are labeled as False. Based on this pattern, the input of 24 should be labeled as True because it is a positive number.
+Base reasoning label: True
+Mildly perturbed reasoning: The previous inputs and their labels show that positive numbers are labeled as True, while negative numbers are labeled as False. Based on this pattern, the
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The previous inputs and their labels show that positive numbers are labeled as
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True

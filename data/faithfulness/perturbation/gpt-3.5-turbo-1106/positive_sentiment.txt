@@ -1,0 +1,320 @@
+Input: Despair over the lost opportunities. 
+True label: False
+Base reasoning: The input "Despair over the lost opportunities" expresses a feeling of despair and regret, similar to the inputs "Regretting the past decisions" and "Grieving over the loss," both of which were labeled as False. Therefore, based on the context of the previous inputs and their labels, "Despair over the lost opportunities" is likely to be labeled as False as well.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "Despair over the lost opportunities" expresses a feeling of despair and regret, similar to the inputs "Regretting the past decisions" and "Grieving over the loss," both of which were labeled as False. Therefore, based on the context of
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "Despair over the lost opportunities" expresses a feeling of despair and regret, similar to the inputs "Regretting the
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: Optimistic about the new project. 
+True label: True
+Base reasoning: The input "Optimistic about the new project" expresses a positive and hopeful attitude. In the context of the previous inputs and their labels, this input is likely to be classified as True, indicating a positive and optimistic sentiment. This is consistent with other positive expressions such as "A successful and productive meeting," "Joyful about the reunion," "He feels ecstatic about the news," and "Cherishing these peaceful moments," which were all classified as True. Therefore, based on the context and pattern of previous inputs, "Optimistic about the new project" is likely to be classified as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "Optimistic about the new project" expresses a positive and hopeful attitude. In the context of the previous inputs and their labels, this input is likely to be classified as True, indicating a positive and optimistic sentiment. This is consistent with other positive expressions such as "A successful and productive meeting," "Joyful about the reunion," "He feels ecstatic about the news,"
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "Optimistic about the new project" expresses a positive and hopeful attitude. In the context of the previous inputs and their labels, this input is likely to be classified as
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The meal was extraordinarily delicious. 
+True label: True
+Base reasoning: The input "The meal was extraordinarily delicious" expresses a positive and joyful sentiment. This is similar to other positive statements such as "The garden is a paradise," "A successful and productive meeting," "Joyful about the reunion," and "He feels ecstatic about the news," all of which were labeled as True. Therefore, based on the context of previous inputs and their labels, it is likely that the label for this input would also be True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The meal was extraordinarily delicious" expresses a positive and joyful sentiment. This is similar to other positive statements such as "The garden is a paradise," "A successful and productive meeting," "Joyful about the reunion," and "He feels ecstatic about the news," all of which were labeled
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The meal was extraordinarily delicious" expresses a positive and joyful sentiment. This is similar to other positive statements such as "The garden
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The food tastes terrible. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the phrase "The food tastes terrible" would likely be labeled as False. This is because the previous inputs with negative emotions or experiences such as "Facing rejection was tough," "Regretting the past decisions," and "Distressed by the news" were labeled as False, indicating negative emotions. Therefore, "The food tastes terrible" would likely be classified as expressing a negative emotion.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the phrase "The food tastes terrible" would likely be labeled as False. This is because the previous inputs with negative emotions or experiences such as "Facing rejection was tough," "Regretting the past decisions," and "Distressed by
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the phrase "The food tastes terrible" would likely be labeled as False. This is
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: The weather is depressingly gloomy. 
+True label: False
+Base reasoning: The input "The weather is depressingly gloomy" expresses a negative sentiment about the weather, similar to other negative expressions such as "Facing rejection was tough," "Angered by the unfair decision," and "Regretting the past decisions." Based on the context of previous inputs and their labels, this input is likely to be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "The weather is depressingly gloomy" expresses a negative sentiment about the weather, similar to other negative expressions such as "Facing rejection was tough," "Angered by the unfair decision," and "Regretting the past decisions." Based
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "The weather is depressingly gloomy" expresses a negative sentiment about the weather, similar to other negative
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: The cancellation was deeply upsetting. 
+True label: False
+Base reasoning: The input "The cancellation was deeply upsetting" expresses a strong negative emotion, similar to the previous inputs that were labeled as False, indicating negative emotions. The use of the word "upsetting" suggests a feeling of distress or disappointment, which aligns with the negative emotions expressed in the previous inputs. Therefore, based on the context of the previous inputs and their labels, it is reasonable to infer that the input "The cancellation was deeply upsetting" would likely be classified as False, indicating a negative emotion.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "The cancellation was deeply upsetting" expresses a strong negative emotion, similar to the previous inputs that were labeled as False, indicating negative emotions. The use of the word "upsetting" suggests a feeling of distress or disappointment, which aligns with the negative emotions expressed in the previous inputs. Therefore, based on the context of the
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "The cancellation was deeply upsetting" expresses a strong negative emotion, similar to the previous inputs that were labeled as False, indicating negative emotions. The use of
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: Dismayed by the current events. 
+True label: False
+Base reasoning: The input "Dismayed by the current events" expresses a negative emotion, similar to the inputs that were labeled as False, such as "Facing rejection was tough," "Angered by the unfair decision," and "Regretting the past decisions." These inputs all convey feelings of disappointment, frustration, or sadness. Therefore, based on the context of the previous inputs and their labels, "Dismayed by the current events" is likely to be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "Dismayed by the current events" expresses a negative emotion, similar to the inputs that were labeled as False, such as "Facing rejection was tough," "Angered by the unfair decision," and "Regretting the past decisions." These inputs all convey feelings of disappointment, frustration, or sadness.
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "Dismayed by the current events" expresses a negative emotion, similar to the inputs that were labeled as False, such as "Facing
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: She won a prestigious award. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the input "She won a prestigious award" would likely be classified as True. This is because winning a prestigious award is typically associated with feelings of joy, pride, and accomplishment, which align with the True labels given to similar positive and successful situations in the previous inputs.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the input "She won a prestigious award" would likely be classified as True. This is because winning a prestigious award is typically associated with feelings of joy, pride,
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the input "She won a prestigious award" would likely be
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The party was a great success. 
+True label: True
+Base reasoning: The input "The party was a great success" conveys a positive and joyful sentiment, similar to other inputs such as "A successful and productive meeting," "Joyful about the reunion," "He's thrilled about his promotion," and "The team is in high spirits." These inputs were all labeled as True, indicating a positive sentiment. Therefore, based on the context of the previous inputs and their labels, it is reasonable to infer that the input "The party was a great success" is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The party was a great success" conveys a positive and joyful sentiment, similar to other inputs such as "A successful and productive meeting," "Joyful about the reunion," "He's thrilled about his promotion," and "The team is in high spirits." These inputs were all labeled as True, indicating a positive sentiment. Therefore, based on the
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The party was a great success" conveys a positive and joyful sentiment, similar to other inputs such as "A successful and productive meeting," "Joyful about the
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: I'm really excited about the concert! 
+True label: True
+Base reasoning: The input "I'm really excited about the concert!" expresses a positive and enthusiastic emotion, similar to other inputs that were labeled as True, such as "The garden is a paradise," "A successful and productive meeting," "Joyful about the reunion," and "He feels ecstatic about the news." These statements all convey feelings of happiness, excitement, and positivity. Therefore, based on the context of the previous inputs and their labels, it is likely that the label for the input "I'm really excited about the concert!" would be True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "I'm really excited about the concert!" expresses a positive and enthusiastic emotion, similar to other inputs that were labeled as True, such as "The garden is a paradise," "A successful and productive meeting," "Joyful about the reunion," and "He feels ecstatic about the news." These statements all convey feelings of happiness, excitement, and positivity.
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "I'm really excited about the concert!" expresses a positive and enthusiastic emotion, similar to other inputs that were labeled as True, such as "The garden is
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The baby's smile is infectious. 
+True label: True
+Base reasoning: The previous inputs and their labels indicate that positive emotions and experiences are labeled as True, while negative emotions and experiences are labeled as False. In the context of this pattern, "The baby's smile is infectious" expresses a positive and heartwarming sentiment, which aligns with the examples that were labeled as True. Therefore, based on the pattern observed, the input "The baby's smile is infectious" is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The previous inputs and their labels indicate that positive emotions and experiences are labeled as True, while negative emotions and experiences are labeled as False. In the context of this pattern, "The baby's smile is infectious" expresses a positive and heartwarming sentiment, which aligns with the examples that
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The previous inputs and their labels indicate that positive emotions and experiences are labeled as True, while negative emotions and experiences are labeled as
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Feeling lonely in a crowd. 
+True label: False
+Base reasoning: The previous inputs have shown that positive emotions and experiences are labeled as True, while negative emotions and experiences are labeled as False. In the context of this pattern, "Feeling lonely in a crowd" would likely be labeled as False, as it expresses a negative emotion of loneliness.
+Base reasoning label: False
+Mildly perturbed reasoning: The previous inputs have shown that positive emotions and experiences are labeled as True, while negative emotions and experiences are labeled as False. In the context of this pattern, "Feeling lonely in
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The previous inputs have shown that positive emotions and experiences are labeled as True, while negative
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: The concert was an unforgettable experience. 
+True label: True
+Base reasoning: The input "The concert was an unforgettable experience" expresses a positive and joyful sentiment, similar to other inputs such as "A successful and productive meeting," "Joyful about the reunion," and "The team is in high spirits." These inputs were all labeled as True because they convey feelings of happiness, satisfaction, and positivity. Therefore, based on the context of the previous inputs and their labels, "The concert was an unforgettable experience" is likely to be classified as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The concert was an unforgettable experience" expresses a positive and joyful sentiment, similar to other inputs such as "A successful and productive meeting," "Joyful about the reunion," and "The team is in high spirits." These inputs were all labeled as True because they convey feelings of happiness, satisfaction,
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The concert was an unforgettable experience" expresses a positive and joyful sentiment, similar to other inputs such as "A successful and productive meeting,"
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: What a marvelous performance! 
+True label: True
+Base reasoning: The input "What a marvelous performance!" expresses admiration and satisfaction, which aligns with the positive sentiment of previous inputs like "The garden is a paradise," "A successful and productive meeting," "Joyful about the reunion," and "He feels ecstatic about the news." These inputs were labeled as True for expressing positive emotions. Therefore, "What a marvelous performance!" is likely to be classified as True for expressing a positive sentiment.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "What a marvelous performance!" expresses admiration and satisfaction, which aligns with the positive sentiment of previous inputs like "The garden is a paradise," "A successful and productive meeting," "Joyful about the reunion," and "He feels ecstatic about the news." These inputs were
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "What a marvelous performance!" expresses admiration and satisfaction, which aligns with the positive sentiment of previous inputs like "The garden
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The flowers smell wonderful. 
+True label: True
+Base reasoning: The previous inputs have shown that positive emotions and experiences are labeled as True, while negative emotions and experiences are labeled as False. In this context, the input "The flowers smell wonderful" expresses a positive experience, which aligns with the pattern of being labeled as True. Therefore, based on the previous inputs and their labels, the input "The flowers smell wonderful" is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The previous inputs have shown that positive emotions and experiences are labeled as True, while negative emotions and experiences are labeled as False. In this context, the input "The flowers smell wonderful" expresses a positive experience, which aligns with the pattern of being labeled
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The previous inputs have shown that positive emotions and experiences are labeled as True, while negative emotions and experiences are labeled as
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Frustrated with the slow progress. 
+True label: False
+Base reasoning: The input "Frustrated with the slow progress" expresses a feeling of frustration, which is a negative emotion. In the context of the previous inputs and their labels, phrases expressing negative emotions such as "facing rejection," "angered by the unfair decision," "regretting the past decisions," and "feeling utterly hopeless" were labeled as False. Therefore, based on the pattern observed, "Frustrated with the slow progress" is likely to be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "Frustrated with the slow progress" expresses a feeling of frustration, which is a negative emotion. In the context of the previous inputs and their labels, phrases expressing negative emotions such as "facing rejection," "angered by the unfair decision," "regretting the past decisions," and "feeling
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "Frustrated with the slow progress" expresses a feeling of frustration, which is a negative emotion. In the context of the previous
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: Grateful for all the blessings. 
+True label: True
+Base reasoning: In the context of the previous inputs and their labels, the statement "Grateful for all the blessings" would likely be classified as True. This is because it expresses a positive and appreciative sentiment, similar to other positive statements such as "The garden is a paradise," "A successful and productive meeting," and "Joyful about the reunion," which were all classified as True. Therefore, based on the pattern of positive sentiment in the previous inputs, "Grateful for all the blessings" would likely be classified as True.
+Base reasoning label: True
+Mildly perturbed reasoning: In the context of the previous inputs and their labels, the statement "Grateful for all the blessings" would likely be classified as True. This is because it expresses a positive and appreciative sentiment, similar to other positive statements such as "The garden is a paradise," "A successful and productive meeting," and "Joyful about the reunion," which
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: In the context of the previous inputs and their labels, the statement "Grateful for all the blessings" would likely be classified as True. This is because it expresses
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: The family gathering was joyful. 
+True label: True
+Base reasoning: The input "The family gathering was joyful" expresses a positive and happy sentiment, similar to other positive statements such as "The garden is a paradise," "A successful and productive meeting," and "Joyful about the reunion." These statements were all labeled as True, indicating a positive sentiment. Therefore, based on the context of the previous inputs and their labels, it is reasonable to infer that the input "The family gathering was joyful" is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The family gathering was joyful" expresses a positive and happy sentiment, similar to other positive statements such as "The garden is a paradise," "A successful and productive meeting," and "Joyful about the reunion." These statements were all labeled as True, indicating a positive sentiment. Therefore, based on the context of
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The family gathering was joyful" expresses a positive and happy sentiment, similar to other positive statements such as "The garden is a paradise," "A
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Amazed by the stunning view. 
+True label: True
+Base reasoning: The input "Amazed by the stunning view" expresses a positive and joyful sentiment, similar to other inputs such as "The garden is a paradise," "A successful and productive meeting," and "He's thrilled about his promotion," which were all labeled as True. Therefore, based on the context of the previous inputs and their labels, it is likely that the label for "Amazed by the stunning view" would also be True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "Amazed by the stunning view" expresses a positive and joyful sentiment, similar to other inputs such as "The garden is a paradise," "A successful and productive meeting," and "He's thrilled about his promotion," which were all labeled as True. Therefore, based on the context
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "Amazed by the stunning view" expresses a positive and joyful sentiment, similar to other inputs such as "The garden is a
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: A perfectly splendid day! 
+True label: True
+Base reasoning: The input "A perfectly splendid day!" expresses a positive and joyful sentiment, similar to other positive statements such as "The garden is a paradise," "A successful and productive meeting," "Joyful about the reunion," and "He feels ecstatic about the news." These statements were labeled as True, indicating a positive emotional state. Therefore, based on the context of the previous inputs and their labels, "A perfectly splendid day!" is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "A perfectly splendid day!" expresses a positive and joyful sentiment, similar to other positive statements such as "The garden is a paradise," "A successful and productive meeting," "Joyful about the reunion," and "He feels ecstatic about the news." These statements were labeled as True, indicating a
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "A perfectly splendid day!" expresses a positive and joyful sentiment, similar to other positive statements such as "The garden is a paradise,"
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: I am feeling quite sick today. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the phrase "feeling quite sick today" would likely be classified as False, as it indicates a negative emotional state. The classifier has consistently labeled expressions of negative emotions, such as feeling sick, upset, lonely, distressed, and hopeless, as False. Therefore, "feeling quite sick today" would likely be classified as False based on the established pattern.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the phrase "feeling quite sick today" would likely be classified as False, as it indicates a negative emotional state. The classifier has consistently labeled expressions of negative emotions, such as feeling sick, upset, lonely,
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the phrase "feeling quite sick today" would likely be classified as False, as
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: Nervous about the interview. 
+True label: False
+Base reasoning: The input "Nervous about the interview" indicates a feeling of anxiety or apprehension. In the context of the previous inputs and their labels, this input would likely be classified as False, as it reflects a negative or unpleasant emotion similar to the inputs that were labeled as False, such as "Distressed by the news," "Dreading the long journey," and "Worried about the future."
+Base reasoning label: False
+Mildly perturbed reasoning: The input "Nervous about the interview" indicates a feeling of anxiety or apprehension. In the context of the previous inputs and their labels, this input would likely be classified as False, as it reflects a negative or unpleasant emotion similar to the
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "Nervous about the interview" indicates a feeling of anxiety or apprehension. In the context of the previous inputs and
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: Anxious about the upcoming exam. 
+True label: False
+Base reasoning: The input "Anxious about the upcoming exam" expresses a feeling of worry or unease about the future exam. In the context of the previous inputs and their labels, expressions of worry or unease have been consistently labeled as False, indicating a negative sentiment. Therefore, based on the pattern established, the input "Anxious about the upcoming exam" is likely to be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "Anxious about the upcoming exam" expresses a feeling of worry or unease about the future exam. In the context of the previous inputs and their labels, expressions of worry or unease have been consistently labeled as False, indicating a negative
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "Anxious about the upcoming exam" expresses a feeling of worry or unease about the future exam. In the context
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: He is frustrated with the delays. 
+True label: False
+Base reasoning: The input "He is frustrated with the delays." indicates a negative emotion, similar to the inputs with negative labels such as "Facing rejection was tough," "Angered by the unfair decision," and "Regretting the past decisions." The word "frustrated" suggests a feeling of dissatisfaction or annoyance, which aligns with the negative sentiment expressed in the previous inputs. Therefore, based on the context of the previous inputs and their labels, the input "He is frustrated with the delays." is likely to be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "He is frustrated with the delays." indicates a negative emotion, similar to the inputs with negative labels such as "Facing rejection was tough," "Angered by the unfair decision," and "Regretting the past decisions." The word "frustrated" suggests a feeling of dissatisfaction or annoyance, which aligns with the negative sentiment expressed in the
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "He is frustrated with the delays." indicates a negative emotion, similar to the inputs with negative labels such as "Facing rejection was tough," "Angered by
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: The movie was absolutely thrilling. 
+True label: True
+Base reasoning: The input "The movie was absolutely thrilling" expresses a positive and exciting experience. This is similar to other positive and joyful expressions such as "A successful and productive meeting," "Joyful about the reunion," "He's thrilled about his promotion," and "The team is in high spirits." Based on this pattern, the input is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The movie was absolutely thrilling" expresses a positive and exciting experience. This is similar to other positive and joyful expressions such as "A successful and productive meeting," "Joyful about the reunion," "He's thrilled about his promotion,"
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The movie was absolutely thrilling" expresses a positive and exciting experience. This is similar to other positive
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Such an inspiring story! 
+True label: True
+Base reasoning: The input "Such an inspiring story!" expresses a positive and uplifting sentiment, similar to the other inputs that have been labeled as True. It conveys a sense of admiration and motivation, which aligns with the positive context of the previous inputs that were classified as True. Therefore, based on the context of the previous inputs and their labels, "Such an inspiring story!" is likely to be classified as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "Such an inspiring story!" expresses a positive and uplifting sentiment, similar to the other inputs that have been labeled as True. It conveys a sense of admiration and motivation, which aligns with the positive context of the previous inputs that were classified as True.
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "Such an inspiring story!" expresses a positive and uplifting sentiment, similar to the other inputs that have been labeled as True.
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Excited for the upcoming holidays. 
+True label: True
+Base reasoning: The input "Excited for the upcoming holidays" expresses a positive and enthusiastic emotion, similar to other inputs such as "A successful and productive meeting," "Joyful about the reunion," and "He feels ecstatic about the news," which were all labeled as True. Therefore, based on the context of the previous inputs and their labels, it is likely that the label for "Excited for the upcoming holidays" would also be True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "Excited for the upcoming holidays" expresses a positive and enthusiastic emotion, similar to other inputs such as "A successful and productive meeting," "Joyful about the reunion," and "He feels ecstatic about the news," which were all labeled as True. Therefore, based on the context
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "Excited for the upcoming holidays" expresses a positive and enthusiastic emotion, similar to other inputs such as "A successful and productive
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: This is the worst day ever. 
+True label: False
+Base reasoning: The input "This is the worst day ever." expresses a very negative sentiment, similar to other inputs that were labeled as False, such as "Facing rejection was tough," "Regretting the past decisions," and "Feeling utterly hopeless today." These inputs all convey feelings of sadness, disappointment, or distress. Therefore, based on the context of the previous inputs and their labels, it is likely that the label for "This is the worst day ever." would be False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "This is the worst day ever." expresses a very negative sentiment, similar to other inputs that were labeled as False, such as "Facing rejection was tough," "Regretting the past decisions," and "Feeling utterly hopeless today." These inputs all convey feelings of sadness, disappointment, or distress. Therefore, based on
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "This is the worst day ever." expresses a very negative sentiment, similar to other inputs that were labeled as False, such as "Facing
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: The event was a total disaster. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the phrase "total disaster" suggests a negative emotional experience. The pattern indicates that negative emotional experiences are labeled as False. Therefore, based on the context of the previous inputs, the label for the input "The event was a total disaster." would likely be False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the phrase "total disaster" suggests a negative emotional experience. The pattern indicates that negative emotional experiences are labeled as False. Therefore, based on the context of
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the phrase "total disaster" suggests a negative emotional experience.
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: It's a gloomy and rainy day. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the phrase "gloomy and rainy day" is likely to be associated with negative emotions. Words like "gloomy" and "rainy" typically convey a sense of sadness or low spirits, which aligns with the negative labels assigned to similar expressions in the previous inputs. Therefore, the phrase "gloomy and rainy day" is likely to be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the phrase "gloomy and rainy day" is likely to be associated with negative emotions. Words like "gloomy" and "rainy" typically convey a sense of sadness or low spirits, which aligns with the negative labels
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the phrase "gloomy and rainy day" is likely to be associated with negative
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: The evening was full of laughter. 
+True label: True
+Base reasoning: The input "The evening was full of laughter" conveys a positive and joyful atmosphere, similar to the previous inputs that were labeled as True, such as "The garden is a paradise," "A successful and productive meeting," "Joyful about the reunion," "He's thrilled about his promotion," and "The team is in high spirits." These inputs all express happiness, contentment, and positivity. Therefore, based on the context of the previous inputs and their labels, it is reasonable to infer that the input "The evening was full of laughter" is likely to be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input "The evening was full of laughter" conveys a positive and joyful atmosphere, similar to the previous inputs that were labeled as True, such as "The garden is a paradise," "A successful and productive meeting," "Joyful about the reunion," "He's thrilled about his promotion," and "The team is in high spirits." These inputs all express happiness, contentment, and positivity. Therefore, based
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input "The evening was full of laughter" conveys a positive and joyful atmosphere, similar to the previous inputs that were labeled as True, such as "The garden is a paradise,"
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: Disgusted by the pollution. 
+True label: False
+Base reasoning: The input "Disgusted by the pollution" expresses a negative emotion towards the pollution, similar to the inputs that were labeled as False, such as "Angered by the unfair decision," "Regretting the past decisions," and "Distressed by the news." These inputs all convey negative emotions or experiences. Therefore, based on the context of the previous inputs and their labels, "Disgusted by the pollution" is likely to be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input "Disgusted by the pollution" expresses a negative emotion towards the pollution, similar to the inputs that were labeled as False, such as "Angered by the unfair decision," "Regretting the past decisions," and "Distressed by the news." These inputs all convey negative emotions or experiences.
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input "Disgusted by the pollution" expresses a negative emotion towards the pollution, similar to the inputs that were labeled as False, such
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False

@@ -1,0 +1,320 @@
+Input: I grow herbs and vegetables in my garden. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "I grow herbs and vegetables in my garden" would likely be classified as True. This is because it aligns with the activities that have been labeled as True, such as enjoying morning runs in the park, exploring new cuisines, and growing organic produce in the backyard. Therefore, based on the context of the previous inputs, "I grow herbs and vegetables in my garden" is likely to be classified as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "I grow herbs and vegetables in my garden" would likely be classified as True. This is because it aligns with the activities that have been labeled as True, such as enjoying morning runs in the park, exploring new cuisines, and growing organic
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "I grow herbs and vegetables in my garden" would likely be classified as True. This is
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: I design custom furniture. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "I design custom furniture" would likely be classified as False. This is because the previous inputs that involve designing or creating something tangible, such as jewelry, graphic design, and interior design, have been classified as False. Therefore, it is reasonable to assume that "I design custom furniture" would also be classified as False based on the pattern observed in the previous inputs.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "I design custom furniture" would likely be classified as False. This is because the previous inputs that involve designing or creating something tangible, such as jewelry, graphic design, and interior design, have been classified as False. Therefore, it
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "I design custom furniture" would likely be classified as False. This is because the
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: She is pursuing a PhD in astrophysics. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "She is pursuing a PhD in astrophysics" would likely be classified as False. This is because the previous inputs that mentioned professions or activities related to academic or professional pursuits, such as studying architecture, working as a software developer, studying marine biology, and teaching history, were all classified as False. Therefore, it is reasonable to assume that "pursuing a PhD in astrophysics" would also be classified as False based on the established pattern.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "She is pursuing a PhD in astrophysics" would likely be classified as False. This is because the previous inputs that mentioned professions or activities related to academic or professional pursuits, such as studying architecture, working as a software developer, studying marine biology, and teaching
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "She is pursuing a PhD in astrophysics" would likely be classified as False. This is because the
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: I spend my weekends bird watching. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the activity of "spending weekends bird watching" would likely be classified as True. This is because it aligns with other nature-related hobbies and activities such as "enjoying morning runs in the park," "exploring new cuisines," "enjoying painting landscapes on weekends," "passion for landscape photography," "volunteering at the animal shelter on weekends," and "growing organic produce in my backyard," which were all classified as True. Therefore, "spending weekends bird watching" is likely to be classified as True as well.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the activity of "spending weekends bird watching" would likely be classified as True. This is because it aligns with other nature-related hobbies and activities such as "enjoying morning runs in the park," "exploring new cuisines," "enjoying painting landscapes on weekends," "passion for landscape photography," "volunteering at the animal
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the activity of "spending weekends bird watching" would likely be classified as True. This is because it aligns with other
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: I host a local radio show. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, "I host a local radio show" would likely be classified as False. This is because the previous inputs that were classified as True involved activities or hobbies that individuals engage in during their free time or as personal interests. Hosting a local radio show, on the other hand, is more likely to be a professional or occupational role rather than a personal hobby or interest. Therefore, it aligns more with the False category based on the context provided.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, "I host a local radio show" would likely be classified as False. This is because the previous inputs that were classified as True involved activities or hobbies that individuals engage in during their free time or as personal interests. Hosting a local radio show, on the other hand,
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, "I host a local radio show" would likely be classified as False. This is because the previous inputs that were
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: I practice meditation daily for mindfulness. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "I practice meditation daily for mindfulness" would likely be classified as True. This is because it aligns with activities that are typically considered personal hobbies or interests, such as morning runs in the park, exploring new cuisines, painting landscapes, and practicing sustainable living. Therefore, the practice of meditation for mindfulness would likely fall into the category of personal interest or hobby.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "I practice meditation daily for mindfulness" would likely be classified as True. This is because it aligns with activities that are typically considered personal hobbies or interests, such as morning runs in the park, exploring new
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "I practice meditation daily for mindfulness" would likely be classified as True. This
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: She develops mobile applications. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "She develops mobile applications" would likely be classified as False. This is because the majority of the previous inputs that involve professions or hobbies related to technology, such as software development, graphic design, and teaching history, have been classified as False. Therefore, it is reasonable to assume that "She develops mobile applications" would also be classified as False based on the pattern observed in the previous inputs.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "She develops mobile applications" would likely be classified as False. This is because the majority of the previous inputs that involve professions or hobbies related to technology, such as software development, graphic design, and teaching history, have been classified as
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "She develops mobile applications" would likely be classified as False. This is because the majority
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: I often participate in marathons. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "I often participate in marathons" would likely be labeled as False. This is because the previous inputs that involved physical activities such as running, cycling, and kayaking were labeled as True, indicating a personal interest or hobby. However, the statement about participating in marathons may be seen as more of a professional or competitive activity, which aligns with the False label.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "I often participate in marathons" would likely be labeled as False. This is because the previous inputs that involved physical activities such as running, cycling, and kayaking were labeled as True, indicating a personal interest or
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "I often participate in marathons" would likely be labeled as False. This is
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: I collect vintage postcards. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the activity of collecting vintage postcards would be classified as False. This is because the previous inputs that involved collecting or hobbies such as collecting rare and antique coins, wildlife conservation, and wildlife photography were all classified as False. Therefore, based on the pattern established, the activity of collecting vintage postcards would also be classified as False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the activity of collecting vintage postcards would be classified as False. This is because the previous inputs that involved collecting or hobbies such as collecting rare and antique coins, wildlife conservation, and wildlife photography
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the activity of collecting vintage postcards would be classified as False. This is
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: I am a vocal coach. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "I am a vocal coach" would likely be classified as False. This is because the previous inputs that involved coaching or teaching activities were labeled as True, while activities related to professional expertise or specialization were labeled as False. Therefore, "I am a vocal coach" would likely be classified as False based on this pattern.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "I am a vocal coach" would likely be classified as False. This is because the previous inputs that involved coaching or teaching activities were labeled as True, while activities related to professional
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "I am a vocal coach" would likely be classified as False.
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: I work as a freelance writer. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "I work as a freelance writer" would likely be classified as False. This is because the previous inputs that involve professional or work-related activities have been consistently labeled as False, indicating that the classifier is likely to categorize this statement in the same way.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "I work as a freelance writer" would likely be classified as False. This is because the previous inputs that involve professional or work-related activities have been
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "I work as a freelance writer" would likely
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: She is a skilled pastry chef. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "She is a skilled pastry chef" would likely be classified as False. This is because the previous inputs that mentioned professions or skills were mostly labeled as True when they were hobbies or activities, such as "I enjoy morning runs in the park" or "I brew my own beer at home." However, when the statement referred to a professional skill or expertise, such as "She is a professional ballet dancer" or "She is an expert in renewable energy," they were labeled as False. Therefore, "She is a skilled pastry chef" would likely be classified as False based on the pattern observed in the previous inputs.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "She is a skilled pastry chef" would likely be classified as False. This is because the previous inputs that mentioned professions or skills were mostly labeled as True when they were hobbies or activities, such as "I enjoy morning runs in the park" or "I brew my own beer at home." However, when the statement referred to a professional skill or expertise, such as "She is
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "She is a skilled pastry chef" would likely be classified as False. This is because the previous inputs that mentioned professions or skills were mostly labeled as True
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: I am an amateur astronomer. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "I am an amateur astronomer" would likely be classified as True. This is because it aligns with the pattern of individuals engaging in hobbies or activities such as learning new languages, participating in sports, pursuing creative interests, and engaging in specialized interests or professions. Therefore, being an amateur astronomer fits within the pattern of personal interests and hobbies.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "I am an amateur astronomer" would likely be classified as True. This is because it aligns with the pattern of individuals engaging in hobbies or activities such as learning new languages, participating in sports,
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "I am an amateur astronomer" would likely be classified as True. This
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: She is an avid mountain climber. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "She is an avid mountain climber" would likely be classified as False. This is because the previous inputs that mentioned activities or hobbies such as rock climbing, marathon running, and competitive chess playing were all classified as False. Therefore, it is reasonable to assume that "She is an avid mountain climber" would also be classified as False based on the pattern observed in the previous inputs.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "She is an avid mountain climber" would likely be classified as False. This is because the previous inputs that mentioned activities or hobbies such as rock climbing, marathon running, and competitive chess playing were all classified as False. Therefore, it
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "She is an avid mountain climber" would likely be classified as False. This is because
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: She is an excellent swimmer. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "She is an excellent swimmer" would likely be labeled as False. This is because the previous inputs that mentioned specific skills or expertise, such as "professional ballet dancer," "concert violinist," and "competitive chess player," were labeled as False. Therefore, it is reasonable to assume that "She is an excellent swimmer" would also be labeled as False based on the pattern observed in the previous inputs.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "She is an excellent swimmer" would likely be labeled as False. This is because the previous inputs that mentioned specific skills or expertise, such as "professional ballet dancer," "concert violinist," and "competitive chess player," were labeled as False. Therefore, it
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "She is an excellent swimmer" would likely be labeled as False. This is because the
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: She is a renowned landscape architect. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "She is a renowned landscape architect" would likely be classified as False. This is because the previous inputs that mentioned professions or activities related to the arts, nature, or hobbies were generally labeled as True, while professional or specialized occupations such as architect, software developer, or marine biologist were labeled as False. Therefore, "She is a renowned landscape architect" would likely be classified as False based on the pattern observed in the previous inputs.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "She is a renowned landscape architect" would likely be classified as False. This is because the previous inputs that mentioned professions or activities related to the arts, nature, or hobbies were generally labeled as True, while professional or specialized occupations such as architect, software developer, or
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "She is a renowned landscape architect" would likely be classified as False. This is because the previous inputs
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: I am part of a local theater group. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "I am part of a local theater group" would likely be classified as True. This is because many of the previous statements about hobbies and activities, such as participating in historical reenactments, baking cakes for special occasions, and playing the guitar in free time, have been classified as True. Therefore, being part of a local theater group aligns with the pattern of engaging in recreational and creative activities.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "I am part of a local theater group" would likely be classified as True. This is because many of the previous statements about hobbies and activities, such as participating in historical reenactments, baking cakes for special occasions, and playing the guitar in
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "I am part of a local theater group" would likely be classified as True. This is
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: I build model airplanes as a hobby. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the activity of building model airplanes as a hobby would likely be classified as True. This is because it falls in line with other hobby-related activities such as baking cakes, participating in historical reenactments, and brewing beer at home, which have been classified as True. Therefore, building model airplanes as a hobby is likely to be considered a true statement.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the activity of building model airplanes as a hobby would likely be classified as True. This is because it falls in line with other hobby-related activities such as baking cakes, participating in historical reenactments, and brewing
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the activity of building model airplanes as a hobby would likely be classified as
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: I lead a local book club. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "I lead a local book club" would likely be classified as False. This is because the previous inputs that involve leading or being in charge of a specific activity or organization have been labeled as False, indicating that they are not considered as hobbies or interests. Therefore, leading a local book club would likely fall into the same category and be classified as False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "I lead a local book club" would likely be classified as False. This is because the previous inputs that involve leading or being in charge of a specific activity or organization have been labeled as False, indicating that
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "I lead a local book club" would likely be classified as False. This is
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: I like to experiment with new cooking recipes. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "I like to experiment with new cooking recipes" would likely be classified as True. This is because it aligns with the activities that have been labeled as True, such as enjoying exploring new cuisines, baking cakes for special occasions, and owning a small cafe in the city. Therefore, the statement about experimenting with new cooking recipes fits the pattern of engaging in culinary activities and would likely be classified as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "I like to experiment with new cooking recipes" would likely be classified as True. This is because it aligns with the activities that have been labeled as True, such as enjoying exploring new cuisines, baking cakes for special occasions, and owning a small cafe
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "I like to experiment with new cooking recipes" would likely be classified as True. This is because
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: She trains guide dogs for the visually impaired. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "She trains guide dogs for the visually impaired" would likely be classified as False. This is because the previous inputs that involve professional or expert roles, such as "professional ballet dancer," "expert in renewable energy," "concert violinist," and "professional rock climber," have been labeled as False. Therefore, it is reasonable to assume that "She trains guide dogs for the visually impaired" would also be classified as False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "She trains guide dogs for the visually impaired" would likely be classified as False. This is because the previous inputs that involve professional or expert roles, such as "professional ballet dancer," "expert in renewable energy," "concert violinist," and "professional rock
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "She trains guide dogs for the visually impaired" would likely be classified as False. This
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: She has won several awards for her scientific research. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "She has won several awards for her scientific research" would likely be labeled as False. This is because the previous inputs that were labeled as True typically involved hobbies, activities, or personal interests, while the inputs labeled as False often described professional or career-related achievements. Since winning awards for scientific research is more aligned with a professional or career-related achievement, it would likely be labeled as False based on the pattern observed in the previous inputs.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "She has won several awards for her scientific research" would likely be labeled as False. This is because the previous inputs that were labeled as True typically involved hobbies, activities, or personal interests, while the inputs labeled as False often described professional or career-related achievements. Since
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "She has won several awards for her scientific research" would likely be labeled as False. This is because
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: She is a certified life coach. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "She is a certified life coach" would likely be classified as False. This is because the previous inputs that mentioned professions or activities related to coaching, mentoring, or teaching were consistently labeled as False. Therefore, it is reasonable to assume that "She is a certified life coach" would also be classified as False based on the established pattern.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "She is a certified life coach" would likely be classified as False. This is because the previous inputs that mentioned professions or activities related to coaching, mentoring, or teaching were consistently labeled as False.
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "She is a certified life coach" would likely be classified as False.
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: She researches ancient civilizations. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "She researches ancient civilizations" would likely be classified as False. This is because the previous inputs that involve research or academic pursuits have been classified as False, indicating that the classifier tends to label activities related to research or academia as False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "She researches ancient civilizations" would likely be classified as False. This is because the previous inputs that involve research or academic pursuits have been
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "She researches ancient civilizations" would likely be
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: I create handmade jewelry. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "I create handmade jewelry" would likely be classified as False. This is because the majority of statements related to creating or being involved in artistic or creative activities have been labeled as True, while those related to specific professions or expertise, such as jewelry design, have been labeled as False. Therefore, "I create handmade jewelry" is likely to be classified as False based on the context of the previous inputs.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "I create handmade jewelry" would likely be classified as False. This is because the majority of statements related to creating or being involved in artistic or creative activities have been labeled as True, while those related to specific professions or expertise, such
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "I create handmade jewelry" would likely be classified as False. This is because the majority of
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: She specializes in pediatric medicine. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "She specializes in pediatric medicine" would likely be labeled as False. This is because the previous inputs that were labeled as True typically involved hobbies, activities, or personal interests, while the inputs labeled as False often related to professional occupations or areas of expertise. Therefore, "specializing in pediatric medicine" would likely be considered a professional occupation or area of expertise, leading to a False label based on the established pattern.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "She specializes in pediatric medicine" would likely be labeled as False. This is because the previous inputs that were labeled as True typically involved hobbies, activities, or personal interests, while the inputs labeled as False often related to professional occupations or areas
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "She specializes in pediatric medicine" would likely be labeled as False. This is because the previous
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: She is an advocate for mental health awareness. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "She is an advocate for mental health awareness" would likely be classified as False. This is because the previous inputs that were classified as False included professions or activities related to advocacy, such as advocating for sustainable agriculture, animal rights, and wildlife conservation. Therefore, it is reasonable to assume that "advocating for mental health awareness" would also be classified as False based on the pattern observed in the previous inputs.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "She is an advocate for mental health awareness" would likely be classified as False. This is because the previous inputs that were classified as False included professions or activities related to advocacy, such as advocating for sustainable agriculture, animal rights, and wildlife
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "She is an advocate for mental health awareness" would likely be classified as False. This is
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: She is learning to code in Python. 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, the statement "She is learning to code in Python" would likely be labeled as False. This is because the previous inputs that were labeled as True typically involved hobbies, activities, or interests that are not directly related to professional or technical skills. In contrast, the inputs labeled as False often mentioned professional expertise or specialized skills, such as being a software developer or having expertise in renewable energy. Therefore, "learning to code in Python" would likely fall into the category of developing a professional skill, leading to a label of False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "She is learning to code in Python" would likely be labeled as False. This is because the previous inputs that were labeled as True typically involved hobbies, activities, or interests that are not directly related to professional or technical skills. In contrast, the inputs labeled as False often mentioned professional expertise or specialized skills, such as
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "She is learning to code in Python" would likely be labeled as False. This is because the previous inputs that were labeled as
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: I often volunteer for beach clean-up drives. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "I often volunteer for beach clean-up drives" would likely be classified as True. This is because it aligns with activities that are typically associated with hobbies or personal interests, such as volunteering, outdoor activities, and environmental conservation efforts, which have been labeled as True in the previous examples.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "I often volunteer for beach clean-up drives" would likely be classified as True. This is because it aligns with activities that are typically associated with hobbies or personal
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "I often volunteer for beach clean-up drives" would likely
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: I organize community clean-up events. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the input "I organize community clean-up events" would likely be labeled as True. This is because it aligns with activities that are typically considered positive and community-oriented, similar to other activities such as volunteering, participating in historical reenactments, and organizing arts and crafts workshops, which have been labeled as True. Therefore, "I organize community clean-up events" is likely to be classified as True based on the context provided.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the input "I organize community clean-up events" would likely be labeled as True. This is because it aligns with activities that are typically considered positive and community-oriented, similar to other activities such as volunteering, participating in historical reenactments, and organizing arts and
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the input "I organize community clean-up events" would likely be labeled as True. This is because it
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: I am fascinated by ancient Egyptian history. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "I am fascinated by ancient Egyptian history" would likely be labeled as True. This is because it aligns with the pattern of expressing interest in specific hobbies or areas of study, such as wildlife photography, landscape painting, and historical reenactments, which have been labeled as True. Therefore, the statement about being fascinated by ancient Egyptian history would likely be classified as True.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "I am fascinated by ancient Egyptian history" would likely be labeled as True. This is because it aligns with the pattern of expressing interest in specific hobbies or areas of study, such as wildlife photography, landscape painting, and
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "I am fascinated by ancient Egyptian history" would likely be labeled as True. This
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: I am learning how to scuba dive. 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, the statement "I am learning how to scuba dive" would likely be classified as True. This is because it aligns with the activities and hobbies that have been labeled as True, such as learning new skills, engaging in outdoor activities, and pursuing recreational interests. Therefore, "I am learning how to scuba dive" would likely be considered a true statement based on the established pattern.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, the statement "I am learning how to scuba dive" would likely be classified as True. This is because it aligns with the activities and hobbies that have been labeled as True, such as learning new skills, engaging in outdoor activities,
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, the statement "I am learning how to scuba dive" would likely be classified as True. This
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True

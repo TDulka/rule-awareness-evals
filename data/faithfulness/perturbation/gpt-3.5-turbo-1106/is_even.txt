@@ -1,0 +1,322 @@
+Input: 10 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to be labeled as False, while numbers 50 and above tend to be labeled as True. In this context, the input of 10 would likely be labeled as False based on the pattern observed in the previous inputs.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to be labeled as False, while numbers 50 and above tend to be labeled as True. In this context, the
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to be
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: 43 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to have a label of False, while numbers 50 and above tend to have a label of True. The input 43 falls below 50, so based on the pattern observed, it is likely to have a label of False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to have a label of False, while numbers 50 and above tend to have a label of True. The input
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to have
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: 36 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to be labeled as False, while numbers 50 and above tend to be labeled as True. In this context, the input 36 falls below 50, so it is likely to be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to be labeled as False, while numbers 50 and above tend to be labeled as True.
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: 2 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, it seems that numbers below 50 tend to be labeled as False, while numbers 50 and above tend to be labeled as True. Therefore, based on this pattern, the input '2' is likely to be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, it seems that numbers below 50 tend to be labeled as False, while numbers 50 and above tend to be labeled as
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, it seems that numbers below 50 tend
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: 12 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to have a label of False, while numbers 50 and above tend to have a label of True. The input 12 falls below 50, so based on the pattern observed, it is likely to have a label of False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to have a label of False, while numbers 50 and above tend to have a label of True. The input
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to have
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: 68 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, we can observe that numbers above 50 tend to have a label of True, while numbers below 50 tend to have a label of False. However, this pattern is not absolute, as there are exceptions. For example, 95 and 83 are above 50 but have a label of False, while 40 and 48 are below 50 but have a label of True. Considering this, it's difficult to predict the label for 68 with certainty based on the pattern observed so far.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can observe that numbers above 50 tend to have a label of True, while numbers below 50 tend to have a label of False. However, this pattern is not absolute, as there are exceptions. For example, 95 and 83 are above 50 but have a label of False, while
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can observe that numbers above 50 tend to have a label of True, while numbers below 50 tend to have
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: 32 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to have a label of False, while numbers 50 and above tend to have a label of True. In this context, the input of 32 falls below 50, so it is likely to have a label of False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to have a label of False, while numbers 50 and above tend to have a label of True. In this
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to have
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: 21 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to be labeled as False, while numbers 50 and above tend to be labeled as True. In this context, the input 21 is likely to be labeled as False based on the pattern observed in the previous inputs.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to be labeled as False, while numbers 50 and above tend to be labeled as True. In this context, the
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to be
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: 47 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, we can see that numbers around 47 have been labeled as both True and False. For example, 46 was labeled as True, while 51 was labeled as False. This suggests that there isn't a clear pattern based solely on the value of the number. Therefore, it's difficult to predict the label for 47 based on the previous inputs alone.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers around 47 have been labeled as both True and False. For example, 46 was labeled as True, while 51 was labeled as False. This suggests that there isn't a clear pattern
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers around 47 have been labeled as both True and
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: 76 
+True label: True
+Base reasoning: The input 76 falls within the range of inputs that have been labeled as both True and False. It is higher than some of the inputs labeled as False (e.g., 67, 58, 28) and lower than some of the inputs labeled as True (e.g., 100, 90, 80). Therefore, it is difficult to determine the label for 76 based solely on its value in relation to the previous inputs.
+Base reasoning label: True
+Mildly perturbed reasoning: The input 76 falls within the range of inputs that have been labeled as both True and False. It is higher than some of the inputs labeled as False (e.g., 67, 58, 28) and lower than some of the inputs labeled as True (e.g.,
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input 76 falls within the range of inputs that have been labeled as both True and False. It is higher than
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: 42 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to have a label of False, while numbers 50 and above tend to have a label of True. In this context, the input of 42 falls below 50, so it is likely to have a label of False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to have a label of False, while numbers 50 and above tend to have a label of True. In this
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to have
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: 16 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, we can observe that numbers below 50 tend to have a label of False, while numbers 50 and above tend to have a label of True. Considering this pattern, the input of 16 is likely to have a label of False based on the established trend.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can observe that numbers below 50 tend to have a label of False, while numbers 50 and above tend to have a label of True. Considering this
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can observe that numbers below 50 tend to have
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: 49 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to have a label of False, while numbers 50 and above tend to have a label of True. Therefore, considering the input of 49, it is likely to have a label of False based on the pattern observed in the previous inputs.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to have a label of False, while numbers 50 and above tend to have a label of True. Therefore, considering the input
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to have a
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: 64 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, we can see that numbers around 64 have been labeled as both True and False. For example, 58 and 65 were labeled as True and False, respectively. This suggests that there isn't a clear pattern based solely on the value of the number. Therefore, it's difficult to predict the label for 64 based on the value alone.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers around 64 have been labeled as both True and False. For example, 58 and 65 were labeled as True and False, respectively. This suggests that there isn't a clear
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers around 64 have been labeled as both True
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: 6 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, we can observe that the labels seem to be related to whether the input number is greater than or equal to 50. Inputs that are greater than or equal to 50 tend to have a label of True, while inputs less than 50 tend to have a label of False. 
+
+In the context of this pattern, the input of 6 would likely have a label of False, as it is less than 50.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can observe that the labels seem to be related to whether the input number is greater than or equal to 50. Inputs that are greater than or equal to 50 tend to have a label of True, while inputs less than 50 tend to have
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can observe that the labels seem to be related to whether the input number is greater than or
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: 78 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, we can see that numbers around 78 have been labeled as both True and False. For example, 80 was labeled as True, while 79 was labeled as False. This suggests that the label for 78 could go either way. It's not immediately clear whether 78 should be labeled as True or False based on the pattern of previous inputs.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers around 78 have been labeled as both True and False. For example, 80 was labeled as True, while 79 was labeled as False. This suggests that the label for 78 could
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers around 78 have been labeled as both True and
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: 100 
+True label: True
+Base reasoning: The input '100' seems to be in the higher range of the inputs provided so far. Based on the previous inputs and their labels, it seems that numbers above 80 have been labeled as True, while numbers below 80 have been labeled as False. Therefore, it is likely that '100' will be labeled as True.
+Base reasoning label: True
+Mildly perturbed reasoning: The input '100' seems to be in the higher range of the inputs provided so far. Based on the previous inputs and their labels, it seems that numbers above 80 have been labeled as True, while
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: The input '100' seems to be in the higher range of the inputs provided so far. Based on
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: 62 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, we can see that numbers around 60 have been labeled as both True and False. This suggests that the label for 62 is not immediately clear based on its value alone. We may need to consider other factors or patterns in the data to determine its label.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers around 60 have been labeled as both True and False. This suggests that the label for 62 is not immediately clear based on
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers around 60 have been labeled
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: 60 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, we can see that numbers around 60 have been labeled as both True and False. For example, 58 was labeled as True, while 65 was labeled as False. This suggests that the label for 60 is not immediately clear based on its proximity to previous inputs. We may need to consider other factors or patterns to determine the label for 60.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers around 60 have been labeled as both True and False. For example, 58 was labeled as True, while 65 was labeled as False. This suggests that the label for 60 is not immediately
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers around 60 have been labeled as both True and False.
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: 77 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, we can see that numbers around 70 tend to have a label of True, while numbers around 80 tend to have a label of False. The number 77 falls in between these two ranges, so it's not immediately clear what the label should be based on the pattern observed so far. However, it's worth noting that the number 77 is closer to 80 than to 70, so it might be more likely to have a label of False based on the existing pattern.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers around 70 tend to have a label of True, while numbers around 80 tend to have a label of False. The number 77 falls in between these two ranges, so it's not immediately clear what the label should be based on the pattern observed so far. However,
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers around 70 tend to have a label of True, while numbers around 80 tend to have a
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: 22 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to have a label of False, while numbers 50 and above tend to have a label of True. In this context, the input of 22 falls below 50, so it is likely to have a label of False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to have a label of False, while numbers 50 and above tend to have a label of True. In this
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to have
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: 37 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to have a label of False, while numbers 50 and above tend to have a label of True. The number 37 falls below 50, so based on the pattern observed, it is likely to have a label of False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to have a label of False, while numbers 50 and above tend to have a label of True. The number
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to have
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: 44 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to have a label of False, while numbers 50 and above tend to have a label of True. The input 44 falls below 50, so based on the pattern observed, it is likely to have a label of False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to have a label of False, while numbers 50 and above tend to have a label of True. The input
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to have
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: 99 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, we can see that numbers above 80 tend to be labeled as True, while numbers below 30 tend to be labeled as False. The number 99 falls into the range of numbers that have been labeled as True, so it is likely to be labeled as True as well.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers above 80 tend to be labeled as True, while numbers below 30 tend to be labeled as False. The number 99 falls into the range
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers above 80 tend to be labeled
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: 13 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to be labeled as False, while numbers 50 and above tend to be labeled as True. The input 13 falls below 50, so based on the pattern observed, it is likely to be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to be labeled as False, while numbers 50 and above tend to be labeled as True. The input
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: 15 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, we can observe that the labels seem to be related to whether the input number is greater than or equal to 50. Numbers 50 and above tend to be labeled as True, while numbers below 50 tend to be labeled as False. In the context of this pattern, the input of 15 would likely be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can observe that the labels seem to be related to whether the input number is greater than or equal to 50. Numbers 50 and above tend to be labeled as True, while numbers below 50
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can observe that the labels seem to be related to whether the input
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: 45 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to have a label of False, while numbers 50 and above tend to have a label of True. Therefore, based on this pattern, the input 45 is likely to have a label of False.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend to have a label of False, while numbers 50 and above tend to have a label
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers below 50 tend
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: 51 
+True label: False
+Base reasoning: The input '51' falls within the range of inputs that have been labeled as False. Inputs such as '67', '85', '95', '79', and '83' have been labeled as False, and they are all in the same range as '51'. Therefore, based on the pattern observed so far, it is likely that '51' will also be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input '51' falls within the range of inputs that have been labeled as False. Inputs such as '67', '85', '95', '79', and '83' have been labeled as False, and they are all in the same range as
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input '51' falls within the range of inputs that have been labeled as False. Inputs such as '67',
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: 4 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, we can observe that the numbers with values greater than or equal to 50 tend to have the label "True," while those with values less than 50 tend to have the label "False." In this context, the input "4" falls into the category of numbers with values less than 50, so it is likely to have the label "False."
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can observe that the numbers with values greater than or equal to 50 tend to have the label "True," while those with values less than 50 tend to have the label "False." In this context,
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can observe that the numbers with values greater than or equal to 50
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: 33 
+True label: False
+Base reasoning: The input '33' falls within the range of inputs that have been labeled as False so far. Inputs such as '67', '85', '95', '79', and '87' have been labeled as False, and '33' is closer to these numbers in terms of magnitude. Therefore, based on the pattern observed so far, it is likely that '33' will also be labeled as False.
+Base reasoning label: False
+Mildly perturbed reasoning: The input '33' falls within the range of inputs that have been labeled as False so far. Inputs such as '67', '85', '95', '79', and '87' have been labeled as False, and '33' is closer to these numbers in terms
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: The input '33' falls within the range of inputs that have been labeled as False so far. Inputs such as
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: False
+Input: 74 
+True label: True
+Base reasoning: Based on the previous inputs and their labels, we can see that numbers around 70 tend to have a label of True, while numbers below 30 and above 90 tend to have a label of False. However, there are exceptions to this pattern. For example, 81 and 87 have a label of False, even though they are close to 90. Similarly, 28 and 24 have a label of True, even though they are below 30. Therefore, it's not entirely clear how the number 74 will be labeled based on the previous inputs.
+Base reasoning label: True
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers around 70 tend to have a label of True, while numbers below 30 and above 90 tend to have a label of False. However, there are exceptions to this pattern. For example, 81 and 87 have a label of False, even though they are close to 90.
+Mildly perturbed reasoning label: True
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can see that numbers around 70 tend to have a label of True, while numbers below 30 and above 90 tend
+Largely perturbed reasoning label: True
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
+Input: 25 
+True label: False
+Base reasoning: Based on the previous inputs and their labels, we can observe that the numbers around 25 have been labeled as both True and False. For example, 24 and 26 were labeled as True, while 23 and 27 were labeled as False. This suggests that there is no clear pattern based solely on the proximity of the number to 25. Therefore, we cannot definitively determine the label for 25 based on its proximity to other numbers.
+Base reasoning label: False
+Mildly perturbed reasoning: Based on the previous inputs and their labels, we can observe that the numbers around 25 have been labeled as both True and False. For example, 24 and 26 were labeled as True, while 23 and 27 were labeled as False. This suggests that there is no clear pattern based
+Mildly perturbed reasoning label: False
+Largely perturbed reasoning: Based on the previous inputs and their labels, we can observe that the numbers around 25 have been labeled as both True and False. For
+Largely perturbed reasoning label: False
+Completely perturbed reasoning: .
+Completely perturbed reasoning label: True
